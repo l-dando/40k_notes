@@ -2,7 +2,7 @@
 type: character
 name: Lorgar Aurelian
 legion: Legion
-status: [active, fallen, renegade]
+status: [active]
 tags: [character, primarch]
 ---
 
