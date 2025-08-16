@@ -1,14 +1,14 @@
 ---
 type: book
-title: 
-author: 
+title: Title
+author: author
 order: 
 date-started: 
 date-finished: 
-tags: [book, heresy, #in-progress]
+tags: [book, heresy, in-progress]
 ---
 
-# {{title}}
+# `= this.title`
 
 ## Chapter Summaries
 1. 

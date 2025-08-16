@@ -11,10 +11,14 @@
             "id": "962fab5a9d764a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -136,20 +140,47 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "294f449f87bc3307",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8c9c18153ceecc8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962fab5a9d764a62",
-  "lastOpenFiles": []
+  "active": "8c9c18153ceecc8f",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "horus_heresy_vault/03_characters/lorgar_aurelian.md",
+    "horus_heresy_vault/03_characters/templates/character_template.md",
+    "horus_heresy_vault/02_books/templates/book_template.md",
+    "horus_heresy_vault/02_books/the_first_heretic.md"
+  ]
 }

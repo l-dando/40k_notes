@@ -2,20 +2,21 @@
 type: book
 title: The First Heretic
 author: Aaron Dembski-Bowden
-order: 
+order: "1"
 date-started: 12/08/25
 date-finished: 
-tags: [book, heresy, #in-progress]
+tags:
+  - book
+  - heresy
+  - in_progress
 ---
-
-# {{title}}
+# `= this.title` 
 
 ## Chapter Summaries
 1. 
 2. 
 ...
-
-## Major Events
+## Major Event
 - **In-Universe Date**:  
   **Event**:  
   **Significance**:  

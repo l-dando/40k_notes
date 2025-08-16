@@ -1,15 +1,15 @@
 ---
 type: character
-name: 
-legion: 
+name: Name
+legion: Legion
 status: [active, fallen, renegade]
 tags: [character, primarch]
 ---
 
-# {{name}}
+# `= this.name`
 
 ## Affiliation
-- Legion/Faction: 
+- Legion/Faction: `= this.legion`
 
 ## Role & Arc
 - Introduction:  
