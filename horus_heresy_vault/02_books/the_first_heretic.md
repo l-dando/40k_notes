@@ -8,7 +8,7 @@ date-finished:
 tags: [book, heresy, #in-progress]
 ---
 
-# {{The First Heretic}}
+# {{title}}
 
 ## Chapter Summaries
 1. 
