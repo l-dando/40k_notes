@@ -2,7 +2,7 @@
 type: book
 title: Fear to Tread
 author: 
-order: "11"
+order: 11
 date-started: 
 date-finished: 
 status: to_read

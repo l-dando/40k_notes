@@ -2,7 +2,7 @@
 type: book
 title: Praetorian of Dawn
 author: 
-order: "20"
+order: 20
 date-started: 
 date-finished: 
 status: to_read

@@ -2,7 +2,7 @@
 type: book
 title: The First Heretic
 author: Aaron Dembski-Bowden
-order: "1"
+order: 1
 date-started: 12/08/25
 date-finished: 
 status: reading

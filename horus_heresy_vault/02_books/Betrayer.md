@@ -2,7 +2,7 @@
 type: book
 title: Betrayer
 author: 
-order: "15"
+order: 15
 date-started: 
 date-finished: 
 status: to_read

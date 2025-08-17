@@ -2,7 +2,7 @@
 type: book
 title: Prospero Burns
 author: 
-order: "8"
+order: 8
 date-started: 
 date-finished: 
 status: to_read

@@ -2,7 +2,7 @@
 type: book
 title: Horus Rising
 author: Dan Abnett
-order: "3"
+order: 3
 date-started: 
 date-finished: 
 status: to_read

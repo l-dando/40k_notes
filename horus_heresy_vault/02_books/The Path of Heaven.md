@@ -2,7 +2,7 @@
 type: book
 title: The Path of Heaven
 author: 
-order: "21"
+order: 21
 date-started: 
 date-finished: 
 status: to_read

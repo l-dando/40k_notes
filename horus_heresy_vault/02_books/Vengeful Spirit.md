@@ -2,7 +2,7 @@
 type: book
 title: Vengeful Spirit
 author: 
-order: "17"
+order: 17
 date-started: 
 date-finished: 
 status: to_read

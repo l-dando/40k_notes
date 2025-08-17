@@ -2,7 +2,7 @@
 type: book
 title: Fulgrim
 author: 
-order: "13"
+order: 13
 date-started: 
 date-finished: 
 status: to_read

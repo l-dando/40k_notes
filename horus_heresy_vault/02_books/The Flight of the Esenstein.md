@@ -2,7 +2,7 @@
 type: book
 title: The Flight of the Esenstein
 author: 
-order: "6"
+order: 6
 date-started: 
 date-finished: 
 status: to_read

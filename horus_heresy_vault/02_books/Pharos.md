@@ -2,7 +2,7 @@
 type: book
 title: Pharos
 author: 
-order: "19"
+order: 19
 date-started: 
 date-finished: 
 status: to_read

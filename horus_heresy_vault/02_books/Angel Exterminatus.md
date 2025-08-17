@@ -2,7 +2,7 @@
 type: book
 title: Angel Exterminatus
 author: 
-order: "14"
+order: 14
 date-started: 
 date-finished: 
 status: to_read

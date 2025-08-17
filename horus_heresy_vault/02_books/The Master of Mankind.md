@@ -2,7 +2,7 @@
 type: book
 title: The Master of Mankind
 author: 
-order: "9"
+order: 9
 date-started: 
 date-finished: 
 status: to_read

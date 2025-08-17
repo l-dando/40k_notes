@@ -2,7 +2,7 @@
 type: book
 title: Slaves to Darkness
 author: 
-order: "24"
+order: 24
 date-started: 
 date-finished: 
 status: to_read

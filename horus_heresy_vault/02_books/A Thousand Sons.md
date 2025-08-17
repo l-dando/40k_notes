@@ -2,7 +2,7 @@
 type: book
 title: A Thousand Sons
 author: 
-order: "7"
+order: 7
 date-started: 
 date-finished: 
 status: to_read

@@ -2,7 +2,7 @@
 type: book
 title: Scars
 author: 
-order: "16"
+order: 16
 date-started: 
 date-finished: 
 status: to_read

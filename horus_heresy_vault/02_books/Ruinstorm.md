@@ -2,7 +2,7 @@
 type: book
 title: Ruinstorm
 author: 
-order: "22"
+order: 22
 date-started: 
 date-finished: 
 status: to_read

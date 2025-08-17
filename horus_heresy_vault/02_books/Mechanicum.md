@@ -2,7 +2,7 @@
 type: book
 title: Mechanicum
 author: 
-order: "10"
+order: 10
 date-started: 
 date-finished: 
 status: to_read

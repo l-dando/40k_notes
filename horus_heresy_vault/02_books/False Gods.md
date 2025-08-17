@@ -2,7 +2,7 @@
 type: book
 title: False Gods
 author: 
-order: "4"
+order: 4
 date-started: 
 date-finished: 
 status: to_read

@@ -2,7 +2,7 @@
 type: book
 title: Legion
 author: Dan Abnett
-order: "2"
+order: 2
 date-started: 
 date-finished: 
 status: to_read

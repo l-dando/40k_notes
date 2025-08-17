@@ -2,7 +2,7 @@
 type: book
 title: Unremembered Empire
 author: 
-order: "18"
+order: 18
 date-started: 
 date-finished: 
 status: to_read

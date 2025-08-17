@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "horus_heresy_vault/README.md",
+                "file": "horus_heresy_vault/02_books/The First Heretic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The First Heretic"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "horus_heresy_vault/02_books/templates/book_template.md",
+                "file": "horus_heresy_vault/02_books/Vengeful Spirit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book_template"
+              "title": "Vengeful Spirit"
             }
           }
         ]
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4e3e5bfb383209b4",
@@ -126,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "horus_heresy_vault/02_books/The First Heretic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The First Heretic"
             }
           },
           {
@@ -154,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "horus_heresy_vault/README.md",
+                "file": "horus_heresy_vault/02_books/The First Heretic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of The First Heretic"
             }
           },
           {
@@ -183,14 +184,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "horus_heresy_vault/README.md"
+                "file": "horus_heresy_vault/02_books/The First Heretic.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for The First Heretic"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,12 +210,14 @@
   },
   "active": "962fab5a9d764a62",
   "lastOpenFiles": [
+    "horus_heresy_vault/03_characters/Argel Tal.md",
+    "horus_heresy_vault/02_books/The First Heretic.md",
+    "horus_heresy_vault/README.md",
     "horus_heresy_vault/02_books/Vengeful Spirit.md",
     "horus_heresy_vault/02_books/Unremembered Empire.md",
     "horus_heresy_vault/02_books/The Path of Heaven.md",
     "horus_heresy_vault/02_books/The Master of Mankind.md",
     "horus_heresy_vault/02_books/The Flight of the Esenstein.md",
-    "horus_heresy_vault/02_books/The First Heretic.md",
     "horus_heresy_vault/02_books/Slaves to Darkness.md",
     "horus_heresy_vault/02_books/Scars.md",
     "horus_heresy_vault/02_books/Ruinstorm.md",
@@ -229,12 +232,10 @@
     "horus_heresy_vault/02_books/Fear to Tread.md",
     "horus_heresy_vault/02_books/False Gods.md",
     "horus_heresy_vault/02_books/Betrayer.md",
-    "horus_heresy_vault/02_books/Angel Exterminatus.md",
     "horus_heresy_vault/02_books/A Thousand Sons.md",
-    "horus_heresy_vault/README.md",
+    "horus_heresy_vault/02_books/Angel Exterminatus.md",
     "horus_heresy_vault/02_books/templates/book_template.md",
     "README.md",
-    "horus_heresy_vault/03_characters/Malcador.md",
     "horus_heresy_vault/07_creatures",
     "horus_heresy_vault/06_places/worlds/cities",
     "horus_heresy_vault/06_places/worlds/cities",
