@@ -1,26 +1,24 @@
 ---
 type: character
-name: Lorgar Aurelian
-legion: Legion
+name: Guilliman
+legion: Word Bearers
 status: [active]
 tags: [character, primarch]
+other_names: [Lord of Macragge]
 ---
+# Affiliation
+- Legion/Faction: [[Ultramarines]]
 
-# `= this.name`
-
-## Affiliation
-- Legion/Faction: `= this.legion`
-
-## Role & Arc
+# Role & Arc
 - Introduction:  
 - Key Appearances:  
 - Fate/Status:  
 
-## Relationships
+# Relationships
 - [[Other Character]] — nature of bond
 
-## Quotes & Moments
+# Quotes & Moments
 > “...” (source)
 
-## Notes
+# Notes
 -

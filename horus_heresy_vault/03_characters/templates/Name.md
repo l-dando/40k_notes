@@ -5,22 +5,19 @@ legion: Legion
 status: [active, fallen, renegade]
 tags: [character, primarch]
 ---
-
-# `= this.name`
-
-## Affiliation
+# Affiliation
 - Legion/Faction: `= this.legion`
 
-## Role & Arc
+# Role & Arc
 - Introduction:  
 - Key Appearances:  
 - Fate/Status:  
 
-## Relationships
+# Relationships
 - [[Other Character]] — nature of bond
 
-## Quotes & Moments
+# Quotes & Moments
 > “...” (source)
 
-## Notes
+# Notes
 -

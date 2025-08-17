@@ -5,7 +5,7 @@ author: author
 order: 
 date-started: 
 date-finished: 
-tags: [book, heresy, in-progress]
+tags: [book, heresy, in-progress, template]
 ---
 
 # `= this.title`
