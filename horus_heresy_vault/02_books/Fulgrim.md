@@ -1,7 +1,7 @@
 ---
 type: book
 title: Fulgrim
-author: 
+author: Graham McNeill
 order: 12
 date-started: 
 date-finished: 

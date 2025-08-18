@@ -1,7 +1,7 @@
 ---
 type: book
 title: Vengeful Spirit
-author: 
+author: Graham McNeill
 order: 17
 date-started: 
 date-finished: 

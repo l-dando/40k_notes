@@ -1,7 +1,7 @@
 ---
 type: book
 title: Fear to Tread
-author: 
+author: James Swallow
 order: 11
 date-started: 
 date-finished: 

@@ -1,7 +1,7 @@
 ---
 type: book
 title: Galaxy in Flames
-author: 
+author: Ben Counter
 order: 5
 date-started: 
 date-finished: 

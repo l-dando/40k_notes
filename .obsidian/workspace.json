@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "160e4cf5767ffd59",
+        "id": "67feca78b050cd56",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1f36c8d8a0b84b",
+            "id": "39adbf02537e9b6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "horus_heresy_vault/02_books/Wolfsbane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wolfsbane"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "4e3e5bfb383209b4",
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "horus_heresy_vault/02_books/Wolfsbane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wolfsbane"
+              "title": "Outline"
             }
           },
           {
@@ -180,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,34 +189,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c1f36c8d8a0b84b",
+  "active": "39adbf02537e9b6d",
   "lastOpenFiles": [
-    "horus_heresy_vault/02_books/Ruinstorm.md",
-    "horus_heresy_vault/02_books/Wolfsbane.md",
+    "horus_heresy_vault/09_reflections/quarterly_synthesis.md",
+    "horus_heresy_vault/02_books/The First Heretic.md",
+    "horus_heresy_vault/06_places/worlds/Colchis.md",
+    "horus_heresy_vault/03_characters/Aquillon.md",
+    "horus_heresy_vault/05_legions/Custodians.md",
+    "horus_heresy_vault/05_legions/Word Bearers.md",
     "horus_heresy_vault/README.md",
     "horus_heresy_vault/02_books/The Path of Heaven.md",
-    "horus_heresy_vault/02_books/Unremembered Empire.md",
-    "horus_heresy_vault/02_books/Vengeful Spirit.md",
-    "horus_heresy_vault/02_books/The Master of Mankind.md",
-    "horus_heresy_vault/02_books/Galaxy in Flames.md",
-    "horus_heresy_vault/02_books/False Gods.md",
-    "horus_heresy_vault/02_books/Horus Rising.md",
-    "horus_heresy_vault/02_books/Fear to Tread.md",
-    "horus_heresy_vault/02_books/The Flight of the Esenstein.md",
-    "horus_heresy_vault/02_books/Betrayer.md",
-    "horus_heresy_vault/02_books/Angel Exterminatus.md",
-    "horus_heresy_vault/02_books/A Thousand Sons.md",
-    "horus_heresy_vault/02_books/The First Heretic.md",
-    "horus_heresy_vault/02_books/templates/book_template.md",
-    "horus_heresy_vault/02_books/Slaves to Darkness.md",
     "horus_heresy_vault/02_books/Scars.md",
-    "horus_heresy_vault/02_books/Prospero Burns.md",
+    "horus_heresy_vault/02_books/Ruinstorm.md",
+    "horus_heresy_vault/02_books/Slaves to Darkness.md",
     "horus_heresy_vault/02_books/Praetorian of Dawn.md",
+    "horus_heresy_vault/02_books/Wolfsbane.md",
     "horus_heresy_vault/02_books/Pharos.md",
-    "horus_heresy_vault/02_books/Mechanicum.md",
+    "horus_heresy_vault/02_books/Unremembered Empire.md",
+    "horus_heresy_vault/02_books/Prospero Burns.md",
     "horus_heresy_vault/02_books/Legion.md",
-    "horus_heresy_vault/02_books/Know no Fear.md",
-    "horus_heresy_vault/02_books/Fulgrim.md",
+    "horus_heresy_vault/02_books/Know No Fear.md",
+    "horus_heresy_vault/02_books/Horus Rising.md",
+    "horus_heresy_vault/02_books/Galaxy in Flames.md",
+    "horus_heresy_vault/02_books/The Flight of the Esenstein.md",
+    "horus_heresy_vault/02_books/Fear to Tread.md",
+    "horus_heresy_vault/02_books/The Master of Mankind.md",
+    "horus_heresy_vault/02_books/Betrayer.md",
+    "horus_heresy_vault/02_books/Vengeful Spirit.md",
+    "horus_heresy_vault/02_books/Mechanicum.md",
     "horus_heresy_vault/07_creatures",
     "horus_heresy_vault/06_places/worlds/cities",
     "horus_heresy_vault/06_places/worlds/cities",

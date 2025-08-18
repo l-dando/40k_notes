@@ -1,7 +1,7 @@
 ---
 type: book
 title: The Master of Mankind
-author: 
+author: Aaron Dembski-Bowden
 order: 9
 date-started: 
 date-finished: 

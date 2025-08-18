@@ -1,7 +1,7 @@
 ---
 type: book
 title: Wolfsbane
-author: 
+author: Guy Haley
 order: 23
 date-started: 
 date-finished: 

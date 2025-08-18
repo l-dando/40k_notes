@@ -1,7 +1,7 @@
 ---
 type: book
-title: Fulgrim
-author: 
+title: Know No Fear
+author: Dan Abnett
 order: 13
 date-started: 
 date-finished: 

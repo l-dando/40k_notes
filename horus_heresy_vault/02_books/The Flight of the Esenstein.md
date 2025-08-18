@@ -1,7 +1,7 @@
 ---
 type: book
 title: The Flight of the Esenstein
-author: 
+author: James Swallow
 order: 6
 date-started: 
 date-finished: 

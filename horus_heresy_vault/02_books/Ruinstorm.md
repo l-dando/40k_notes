@@ -1,7 +1,7 @@
 ---
 type: book
 title: Ruinstorm
-author: 
+author: David Annandale
 order: 22
 date-started: 
 date-finished: 

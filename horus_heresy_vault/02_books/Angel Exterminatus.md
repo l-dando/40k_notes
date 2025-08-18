@@ -1,7 +1,7 @@
 ---
 type: book
 title: Angel Exterminatus
-author: 
+author: Graham McNeill
 order: 14
 date-started: 
 date-finished: 
