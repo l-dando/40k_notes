@@ -5,8 +5,8 @@ author: Aaron Dembski-Bowden
 order: 1
 date-started: 12/08/25
 date-finished: 
-status: reading
-tags: [book, heresy]
+status: read
+tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries
 0. Prologue:

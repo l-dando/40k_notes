@@ -6,7 +6,7 @@ order: 9
 date-started: 
 date-finished: 
 status: to_read
-tags: [book, heresy#]
+tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries
 0. 

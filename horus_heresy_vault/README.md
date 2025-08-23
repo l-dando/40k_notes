@@ -1,10 +1,19 @@
+# Current Reading Status
 ```dataview
-table without id title as Title, author as Author, status as Status
+table without id 
+	title as Title, 
+	author as Author, 
+	choice(contains(status,"to_read"), "To Read", 
+	choice(contains(status,"reading"), "Reading", 
+									   "Finished")) as Reading
 FROM #book 
 where !contains(tags, "template")
 sort order asc
 ```
-```dataview
-list file.tags
-from #book  
-```
+
+
+# 
+
+
+
+
