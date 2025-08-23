@@ -1,7 +1,7 @@
 ---
 type: book
 title: Unremembered Empire
-author: 
+author: Dan Abnett
 order: 18
 date-started: 
 date-finished: 

@@ -1,7 +1,7 @@
 ---
 type: book
 title: Mechanicum
-author: 
+author: Graham McNeill
 order: 10
 date-started: 
 date-finished: 

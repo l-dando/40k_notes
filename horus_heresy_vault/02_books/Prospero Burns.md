@@ -1,7 +1,7 @@
 ---
 type: book
 title: Prospero Burns
-author: 
+author: Dan Abnett
 order: 8
 date-started: 
 date-finished: 

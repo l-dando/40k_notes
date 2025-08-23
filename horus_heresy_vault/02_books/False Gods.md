@@ -1,7 +1,7 @@
 ---
 type: book
 title: False Gods
-author: 
+author: Graham McNeill
 order: 4
 date-started: 
 date-finished: 

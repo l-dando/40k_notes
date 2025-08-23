@@ -1,7 +1,7 @@
 ---
 type: book
 title: Know No Fear
-author: 
+author: Dan Abnett
 order: 13
 date-started: 
 date-finished: 

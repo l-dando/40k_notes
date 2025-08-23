@@ -1,7 +1,7 @@
 ---
 type: book
 title: The Path of Heaven
-author: 
+author: Chris Wraight
 order: 21
 date-started: 
 date-finished: 

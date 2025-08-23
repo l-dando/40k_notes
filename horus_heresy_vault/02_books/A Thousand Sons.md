@@ -1,7 +1,7 @@
 ---
 type: book
 title: A Thousand Sons
-author: 
+author: Graham McNeill
 order: 7
 date-started: 
 date-finished: 

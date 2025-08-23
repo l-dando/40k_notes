@@ -10,10 +10,3 @@ FROM #book
 where !contains(tags, "template")
 sort order asc
 ```
-
-
-# 
-
-
-
-

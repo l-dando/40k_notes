@@ -1,8 +1,8 @@
 ---
 type: book
-title: Ruinstorm
-author: David Annandale
-order: 22
+title: Wolfsbane
+author: Guy Haley
+order: 23
 date-started: 
 date-finished: 
 status: to_read

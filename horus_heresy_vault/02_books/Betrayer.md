@@ -1,7 +1,7 @@
 ---
 type: book
 title: Betrayer
-author: 
+author: Aaron Dembski-Bowden
 order: 15
 date-started: 
 date-finished: 

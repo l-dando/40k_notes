@@ -13,7 +13,11 @@
   "maxRecursiveRenderDepth": 4,
   "tableIdColumnName": "File",
   "tableGroupColumnName": "Group",
+<<<<<<< HEAD
   "showResultCount": false,
+=======
+  "showResultCount": true,
+>>>>>>> origin/main
   "allowHtml": true,
   "inlineQueryPrefix": "=",
   "inlineJsQueryPrefix": "$=",

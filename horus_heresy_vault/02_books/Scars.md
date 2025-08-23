@@ -1,7 +1,7 @@
 ---
 type: book
 title: Scars
-author: 
+author: Chris Wraight
 order: 16
 date-started: 
 date-finished: 

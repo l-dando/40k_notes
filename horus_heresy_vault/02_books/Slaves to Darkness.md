@@ -1,7 +1,7 @@
 ---
 type: book
 title: Slaves to Darkness
-author: 
+author: John French
 order: 24
 date-started: 
 date-finished: 

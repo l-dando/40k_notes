@@ -1,7 +1,7 @@
 ---
 type: book
 title: Praetorian of Dawn
-author: 
+author: John French
 order: 20
 date-started: 
 date-finished: 

@@ -1,8 +1,8 @@
 ---
 type: book
-title: Ruinstorm
-author: David Annandale
-order: 22
+title: Galaxy in Flames
+author: Ben Counter
+order: 5
 date-started: 
 date-finished: 
 status: to_read

@@ -1,7 +1,7 @@
 ---
 type: book
 title: Pharos
-author: 
+author: Guy Haley
 order: 19
 date-started: 
 date-finished: 

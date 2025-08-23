@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "233b2c99cd71efe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "horus_heresy_vault/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "c36c5d27bac5a430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "horus_heresy_vault/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
             "id": "b084230f11a5719d",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               "title": "Vengeful Spirit"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,34 +237,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "962fab5a9d764a62",
+  "active": "c36c5d27bac5a430",
   "lastOpenFiles": [
-    "horus_heresy_vault/02_books/The First Heretic.md",
-    "horus_heresy_vault/README.md",
-    "horus_heresy_vault/Dashboard.md",
-    "horus_heresy_vault/02_books/Horus Rising.md",
-    "horus_heresy_vault/02_books/The Flight of the Esenstein.md",
-    "horus_heresy_vault/02_books/Legion.md",
-    "horus_heresy_vault/02_books/False Gods.md",
-    "horus_heresy_vault/02_books/A Thousand Sons.md",
-    "horus_heresy_vault/02_books/The Master of Mankind.md",
-    "horus_heresy_vault/02_books/Fulgrim.md",
-    "horus_heresy_vault/02_books/Slaves to Darkness.md",
-    "horus_heresy_vault/02_books/Praetorian of Dawn.md",
-    "horus_heresy_vault/02_books/Betrayer.md",
-    "horus_heresy_vault/02_books/Angel Exterminatus.md",
-    "horus_heresy_vault/02_books/Know No Fear.md",
-    "horus_heresy_vault/02_books/Fear to Tread.md",
-    "horus_heresy_vault/03_characters/Argel Tal.md",
+    "conflict-files-obsidian-git.md",
+    "horus_heresy_vault/02_books/Know no Fear.md",
+    "horus_heresy_vault/02_books/Wolfsbane.md",
     "horus_heresy_vault/02_books/Vengeful Spirit.md",
     "horus_heresy_vault/02_books/Unremembered Empire.md",
     "horus_heresy_vault/02_books/The Path of Heaven.md",
+    "horus_heresy_vault/02_books/The Master of Mankind.md",
+    "horus_heresy_vault/02_books/The Flight of the Esenstein.md",
+    "horus_heresy_vault/02_books/The First Heretic.md",
     "horus_heresy_vault/02_books/Scars.md",
+    "horus_heresy_vault/02_books/Slaves to Darkness.md",
     "horus_heresy_vault/02_books/Ruinstorm.md",
     "horus_heresy_vault/02_books/Prospero Burns.md",
+    "horus_heresy_vault/02_books/Praetorian of Dawn.md",
     "horus_heresy_vault/02_books/Pharos.md",
     "horus_heresy_vault/02_books/Mechanicum.md",
-    "horus_heresy_vault/02_books/templates/book_template.md",
+    "horus_heresy_vault/02_books/Legion.md",
+    "horus_heresy_vault/02_books/Galaxy in Flames.md",
+    "horus_heresy_vault/02_books/Fulgrim.md",
+    "horus_heresy_vault/02_books/Fear to Tread.md",
+    "horus_heresy_vault/02_books/False Gods.md",
+    "horus_heresy_vault/02_books/Betrayer.md",
+    "horus_heresy_vault/README.md",
+    "horus_heresy_vault/06_places/worlds/Colchis.md",
+    "horus_heresy_vault/05_legions/Custodians.md",
+    "horus_heresy_vault/Dashboard.md",
     "horus_heresy_vault/07_creatures",
     "horus_heresy_vault/06_places/worlds/cities",
     "horus_heresy_vault/06_places/worlds/cities",
