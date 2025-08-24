@@ -5,7 +5,7 @@ author: Dan Abnett
 order: 3
 date-started: 
 date-finished: 
-status: to_read
+status: read
 tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries

@@ -5,7 +5,7 @@ author: Aaron Dembski-Bowden
 order: 1
 date-started: 12/08/25
 date-finished: 
-status: read
+status: reading
 tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries
@@ -21,6 +21,7 @@ tags: [book, heresy, Purchased]
 7. [[Argel Tal]] recounts what happened on [[47-16]]. They bombarded the planet from orbit, but one city remained. They went down to the planet destroy it, but found there were [[Artificials]] there fighting back that the human population had created. The recruited the assistance of [[Xi-Nu 73]] and his tech-priest creations (Crusaders etc.). Cyrene questioned the difference between these and the [[Artificials]] found on the planet, but [[Argel Tal]] explained those deployed by the Imperium are still part human. They used these to defeat the remaining [[Artificials]]. He ends mentioning [[Aquillon]].
 8. [[Aquillon]] is a Custodian, and [[Argel Tal]] noticed how they fight as individual warriors, not as soldiers. He respects their ability, but isn't sure how to feel about how they fight. They finish liberating the planet and all join together for an audience with [[Lorgar]], who forces the [[Custodians]] to depart so he can address the 100,000 [[Word Bearers]] without them listening. They reluctantly do so after the soldiers take aim ~20 of them. [[Lorgar]] tells them two things. One, they are going to go on a pilgrimage to seek the place where gods and moerals meet. Secondly, they are going back to [[Colchis]] (home to [[Argel Tal]]).
 9. The [[Word Bearers]] arrive back at [[Colchis]] in the city of **INSERT CITY NAME HERE**, and the few survivors taken from [[Khur]], such as [[Cyrene Valantion]], are being heralded on a level even beyond the Astartes soldiers. She becomes increasingly nervous as she is shepherded through crowds by [[Argel Tal]], [[Xaphen]] and two of their subordinates. She is then questioned by local holy men about what happened back in the city of [[Monarchia]], but before she can go into too much detail she is semi-forced out by [[Argel Tal]]. As they are leaving, they hear a crash high up above them - there is something wrong with the Primarch. 
+10. An hour before the previous chapter, [[Lorgar]] and [[Magnus]] were talking up on the balcony. [[Lorgar]] is voicing his opinions of their Father and attempting to convince [[Magnus]] that the[[Emperor of Mankind]] really is a god. [[Magnus]] is resolute and will not be swayed. This back and fourth continues until [[Magnus]] decides to leave, creating a portal as he tells [[Lorgar]] that going on his pilgrimage will only result in him finding misery.
  
 # Major Event
 ## The Day of Judgement

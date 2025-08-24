@@ -1,7 +1,7 @@
 ---
 type: character
 name: Magnus
-legion: 
+legion: Thousand Sons
 status: [active]
 tags: [character, primarch]
 other_names: []
@@ -10,7 +10,8 @@ other_names: []
 - Legion/Faction: 
 
 # Role & Arc
-- Primarch of the
+- Primarch of the Thousand Sons
+- Has the best Psychic power out of all the Primarchs
 - Key Appearances:  
 - Fate/Status:  
 
