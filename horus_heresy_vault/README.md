@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 # Current Reading Status
 
 ```dataview
