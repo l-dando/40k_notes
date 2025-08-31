@@ -5,19 +5,7 @@ author: Graham McNeill
 order: 4
 date-started: 
 date-finished: 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-status: read
-=======
 status: finished
->>>>>>> Stashed changes
-=======
-status: finished
->>>>>>> Stashed changes
-=======
-status: finished
->>>>>>> Stashed changes
 tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries
