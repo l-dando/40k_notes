@@ -5,7 +5,11 @@ author: Dan Abnett
 order: 3
 date-started: 
 date-finished: 
+<<<<<<< Updated upstream
 status: read
+=======
+status: finished
+>>>>>>> Stashed changes
 tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries
