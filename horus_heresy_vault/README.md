@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # Current Reading Status
 
+=======
+ # Current Reading Status
+>>>>>>> Stashed changes
 =======
  # Current Reading Status
 >>>>>>> Stashed changes
@@ -17,7 +21,11 @@ table without id
 									   "Finished")) as Reading,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	choice(contains(tags,"Purchased"), "Purchased", 
+=======
+	choice(contains(tags,"Purchased"), "Purchased",  
+>>>>>>> Stashed changes
 =======
 	choice(contains(tags,"Purchased"), "Purchased",  
 >>>>>>> Stashed changes
