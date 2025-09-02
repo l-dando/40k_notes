@@ -6,7 +6,7 @@ status: [active]
 tags: [character, captain]
 ---
 # Affiliation
-- Legion/Faction: [[Word Bearers]]
+- Legion/Faction: [[horus_heresy_vault/05_legions/Word Bearers]]
 
 # Role & Arc
 - First Captain

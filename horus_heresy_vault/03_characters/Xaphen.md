@@ -6,7 +6,7 @@ status: [active]
 tags: [character, chaplain]
 ---
 # Affiliation
-- Legion/Faction: [[Word Bearers]]
+- Legion/Faction: [[horus_heresy_vault/05_legions/Word Bearers]]
 
 # Role & Arc
 - Chaplain of 7th Company

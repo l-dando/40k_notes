@@ -6,7 +6,7 @@ status: [active]
 tags: [character, chapter master]
 ---
 # Affiliation
-- Legion/Faction: [[Word Bearers]]
+- Legion/Faction: [[horus_heresy_vault/05_legions/Word Bearers]]
 
 # Role & Arc
 - Introduction:  

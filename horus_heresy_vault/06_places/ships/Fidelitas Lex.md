@@ -6,4 +6,4 @@ legion: Word Bearers
 ---
 
 # Appearances
- - [[The First Heretic]].
+ - [[horus_heresy_vault/02_books/The First Heretic]].

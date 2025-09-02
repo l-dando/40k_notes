@@ -2,6 +2,7 @@
 
 ```dataview
 table without id 
+    order as Order,
 	title as Title, 
 	author as Author, 
 	choice(contains(status,"to_read"), "To Read", 

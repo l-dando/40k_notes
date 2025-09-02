@@ -9,4 +9,4 @@ name: Khur
 Also known as the "Perfect City".
 
 # Appearances
- - [[The First Heretic]].
+ - [[horus_heresy_vault/02_books/The First Heretic]].

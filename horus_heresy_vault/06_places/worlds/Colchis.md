@@ -15,7 +15,7 @@ other_names: [The cradle of angels]
 
 
 # Appearances
- - [[The First Heretic]].
+ - [[horus_heresy_vault/02_books/The First Heretic]].
 
 # Races
 

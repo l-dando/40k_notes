@@ -6,7 +6,7 @@ status: [active]
 tags: [character]
 ---
 # Affiliation
-- Legion/Faction: [[Word Bearers]]
+- Legion/Faction: [[horus_heresy_vault/05_legions/Word Bearers]]
 
 # Role & Arc
 - Introduction:  
@@ -20,4 +20,4 @@ tags: [character]
 > “...” (source)
 
 # Notes
-- In [[The First Heretic]] he takes [[Argel Tal]] from his parents at a young age.
+- In [[horus_heresy_vault/02_books/The First Heretic]] he takes [[Argel Tal]] from his parents at a young age.

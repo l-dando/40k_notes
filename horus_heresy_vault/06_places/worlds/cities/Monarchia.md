@@ -8,5 +8,5 @@ other_names: [Perfect City]
 Found on the planet [[Khur]].
 
 # Appearances
- - [[The First Heretic]]
+ - [[horus_heresy_vault/02_books/The First Heretic]]
  - 

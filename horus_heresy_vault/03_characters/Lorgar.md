@@ -7,10 +7,10 @@ tags: [character, primarch]
 other_names: [Urizen, Golden One, Aurelian]
 ---
 # Affiliation
-- Legion/Faction: [[Word Bearers]]
+- Legion/Faction: [[horus_heresy_vault/05_legions/Word Bearers]]
 
 # Role & Arc
-- 17th Primarch of the [[Word Bearers]]
+- 17th Primarch of the [[horus_heresy_vault/05_legions/Word Bearers]]
 - Just called Lorgar by his Primarch brothers
 - Key Appearances:  
 - Fate/Status:  
