@@ -5,7 +5,7 @@ author: Graham McNeill
 order: 4
 date-started: 
 date-finished: 
-status: read
+status: finished
 tags: [book, heresy, Purchased]
 ---
 # Chapter Summaries
