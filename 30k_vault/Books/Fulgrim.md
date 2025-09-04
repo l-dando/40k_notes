@@ -1,6 +1,7 @@
 ---
 title: Fulgrim  
-author: Graham McNeill  
+author: Graham McNeill 
+owned: Yes 
 order: 12  
 era: Pre-Heresy  
 legions: [Emperor's Children]  

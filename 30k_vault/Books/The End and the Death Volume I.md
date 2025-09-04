@@ -1,6 +1,7 @@
 ---
 title: The End and the Death Volume I
 author: Dan Abnett
+owned: Yes
 order: 32
 era: Siege of Terra
 legions: [Sons of Horus, Adeptus Custodes]

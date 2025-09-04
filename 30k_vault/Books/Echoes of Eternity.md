@@ -1,6 +1,7 @@
 ---
 title: Echoes of Eternity
 author: Aaron Dembski-Bowden
+owned: Yes
 order: 31
 era: Siege of Terra
 legions: [Word Bearers, Thousand Sons]

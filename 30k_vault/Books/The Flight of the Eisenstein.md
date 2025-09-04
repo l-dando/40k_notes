@@ -1,6 +1,7 @@
 ---
 title: The Flight of the Eisenstein  
 author: James Swallow  
+owned: Yes
 order: 6  
 era: Pre-Heresy  
 legions: [Death Guard]  

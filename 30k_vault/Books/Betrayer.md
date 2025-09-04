@@ -1,6 +1,7 @@
 ---
 title: Betrayer  
 author: Aaron Dembski-Bowden  
+owned: Yes
 order: 15  
 era: Heresy  
 legions: [World Eaters, Word Bearers]  

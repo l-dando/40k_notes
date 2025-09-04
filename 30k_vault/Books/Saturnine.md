@@ -1,6 +1,7 @@
 ---
 title: Saturnine
 author: Dan Abnett
+owned: Yes
 order: 28
 era: Siege of Terra
 legions: [Blood Angels, Iron Hands]

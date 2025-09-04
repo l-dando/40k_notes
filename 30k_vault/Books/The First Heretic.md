@@ -1,6 +1,7 @@
 ---
 title: The First Heretic
 author: Aaron Dembski-Bowden
+owned: Yes
 order: 1
 era: Pre-Heresy
 legions: [Word Bearers]

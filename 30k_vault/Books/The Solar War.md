@@ -1,6 +1,7 @@
 ---
 title: The Solar War
 author: John French
+owned: Yes
 order: 25
 era: Siege of Terra
 legions: [Sons of Horus, Imperial Fists]

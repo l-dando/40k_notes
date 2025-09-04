@@ -1,6 +1,7 @@
 ---
 title: The First Wall
 author: Gav Thorpe
+owned: Yes
 order: 27
 era: Siege of Terra
 legions: [Imperial Fists, Adeptus Custodes, Sisters of Silence]

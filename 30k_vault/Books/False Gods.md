@@ -1,6 +1,7 @@
 ---
 title: False Gods
 author: Graham McNeill
+owned: Yes
 order: 4
 era: Pre-Heresy
 legions: [Luna Wolves, Word Bearers]

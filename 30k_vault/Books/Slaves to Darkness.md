@@ -1,6 +1,7 @@
 ---
 title: Slaves to Darkness  
 author: John French  
+owned: Yes
 order: 24  
 era: Heresy  
 legions: [Sons of Horus, Word Bearers, World Eaters, Emperor's Children]  

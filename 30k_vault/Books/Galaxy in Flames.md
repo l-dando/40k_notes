@@ -1,6 +1,7 @@
 ---
 title: Galaxy in Flames  
 author: Ben Counter  
+owned: Yes
 order: 5  
 era: Pre-Heresy  
 legions: [Luna Wolves, Emperor's Children, Death Guard, World Eaters]  

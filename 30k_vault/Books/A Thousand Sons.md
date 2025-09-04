@@ -1,6 +1,7 @@
 ---
 title: A Thousand Sons  
 author: Graham McNeill  
+owned: Yes
 order: 7  
 era: Pre-Heresy  
 legions: [Thousand Sons]  

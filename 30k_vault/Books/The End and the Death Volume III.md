@@ -1,6 +1,7 @@
 ---
 title: The End and the Death Volume III
 author: Dan Abnett
+owned: Yes
 order: 34
 era: Siege of Terra
 legions: [Sons of Horus, Imperial Fists, Adeptus Custodes]

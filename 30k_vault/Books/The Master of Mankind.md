@@ -1,6 +1,7 @@
 ---
 title: The Master of Mankind  
 author: Aaron Dembski-Bowden  
+owned: Yes
 order: 9
 era: Heresy  
 legions: [Custodes, Sisters of Silence]  

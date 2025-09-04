@@ -1,6 +1,7 @@
 ---
 title: The Lost and the Damned
 author: Guy Haley
+owned: Yes
 order: 26
 era: Siege of Terra
 legions: [Death Guard, Salamanders]

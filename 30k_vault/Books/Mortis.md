@@ -1,6 +1,7 @@
 ---
 title: Mortis
 author: John French
+owned: Yes
 order: 29
 era: Siege of Terra
 legions: [Sisters of Silence, Adeptus Custodes]

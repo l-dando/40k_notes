@@ -1,6 +1,7 @@
 ---
 title: Horus Rising
 author: Dan Abnett
+owned: Yes
 order: 3
 era: Pre-Heresy
 legions: [Luna Wolves]

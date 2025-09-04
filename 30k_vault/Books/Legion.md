@@ -1,6 +1,7 @@
 ---
 title: Legion  
 author: Dan Abnett  
+owned: Yes
 order: 2  
 era: Pre-Heresy  
 legions: [Alpha Legion]  

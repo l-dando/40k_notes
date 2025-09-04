@@ -4,7 +4,7 @@ Welcome to a chronological descent through the Horus Heresy. This vault tracks c
 
 ## 📚 Reading Progress
 ```dataview
-table order, title, status, rating, era
+table order, title, status, rating, owned
 from "30k_vault/Books"
 sort order asc
 ```

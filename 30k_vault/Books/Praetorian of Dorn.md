@@ -1,6 +1,7 @@
 ---
 title: Praetorian of Dorn  
-author: John French  
+author: John French 
+owned: Yes 
 order: 20  
 era: Heresy  
 legions: [Imperial Fists, Alpha Legion]  
