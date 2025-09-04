@@ -5,7 +5,7 @@ order: 2
 era: Pre-Heresy
 legions: [Luna Wolves, Word Bearers]
 themes: [Corruption, Betrayal, Chaos Influence, Loyalty]
-status: unread
+status: read
 rating:
 ---
 

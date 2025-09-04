@@ -5,7 +5,7 @@ order: 1
 era: Pre-Heresy
 legions: [Luna Wolves]
 themes: [Imperial Truth, Loyalty, Corruption]
-status: unread
+status: read
 rating:
 ---
 
