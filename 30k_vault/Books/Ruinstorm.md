@@ -1,7 +1,7 @@
 ---
 title: Ruinstorm  
 author: David Annandale  
-order: 21  
+order: 22  
 era: Heresy  
 legions: [Blood Angels, Ultramarines, Dark Angels]  
 themes: [Faith, Survival, Unity, Revelation]  

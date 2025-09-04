@@ -1,7 +1,7 @@
 ---
 title: Fear to Tread  
 author: James Swallow  
-order: 15  
+order: 11  
 era: Heresy  
 legions: [Blood Angels]  
 themes: [Temptation, Honor, Inner Conflict, Destiny]  

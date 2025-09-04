@@ -1,7 +1,7 @@
 ---
 title: Vengeful Spirit  
 author: Graham McNeill  
-order: 18  
+order: 17  
 era: Heresy  
 legions: [Luna Wolves, Sons of Horus]  
 themes: [Power, Legacy, Strategy, Corruption]  

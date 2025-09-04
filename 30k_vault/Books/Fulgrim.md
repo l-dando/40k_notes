@@ -1,7 +1,7 @@
 ---
 title: Fulgrim  
 author: Graham McNeill  
-order: 5  
+order: 12  
 era: Pre-Heresy  
 legions: [Emperor's Children]  
 themes: [Perfection, Pride, Corruption, Identity]  

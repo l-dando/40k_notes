@@ -1,7 +1,7 @@
 ---
 title: Betrayer  
 author: Aaron Dembski-Bowden  
-order: 12  
+order: 15  
 era: Heresy  
 legions: [World Eaters, Word Bearers]  
 themes: [Anger, Brotherhood, Manipulation, Loyalty]  

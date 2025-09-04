@@ -1,7 +1,7 @@
 ---
 title: Galaxy in Flames  
 author: Ben Counter  
-order: 3  
+order: 5  
 era: Pre-Heresy  
 legions: [Luna Wolves, Emperor's Children, Death Guard, World Eaters]  
 themes: [Betrayal, Loyalty, Chaos Influence, Ideological Fracture]  

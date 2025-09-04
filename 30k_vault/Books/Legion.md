@@ -1,7 +1,7 @@
 ---
 title: Legion  
 author: Dan Abnett  
-order: 7  
+order: 2  
 era: Pre-Heresy  
 legions: [Alpha Legion]  
 themes: [Secrecy, Duality, Espionage, Identity]  

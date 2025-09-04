@@ -1,7 +1,7 @@
 ---
 title: The First Heretic
 author: Aaron Dembski-Bowden
-order: 6
+order: 1
 era: Pre-Heresy
 legions: [Word Bearers]
 themes: [Chaos Influence, Faith, Betrayal]

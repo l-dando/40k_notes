@@ -1,7 +1,7 @@
 ---
 title: False Gods
 author: Graham McNeill
-order: 2
+order: 4
 era: Pre-Heresy
 legions: [Luna Wolves, Word Bearers]
 themes: [Corruption, Betrayal, Chaos Influence, Loyalty]

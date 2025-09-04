@@ -1,7 +1,7 @@
 ---
 title: Wolfsbane  
 author: Guy Haley  
-order: 24  
+order: 23  
 era: Heresy  
 legions: [Space Wolves, Sons of Horus]  
 themes: [Rivalry, Fate, Honor, Confrontation]  

@@ -1,7 +1,7 @@
 ---
 title: Horus Rising
 author: Dan Abnett
-order: 1
+order: 3
 era: Pre-Heresy
 legions: [Luna Wolves]
 themes: [Imperial Truth, Loyalty, Corruption]

@@ -1,7 +1,7 @@
 ---
 title: Slaves to Darkness  
 author: John French  
-order: 20  
+order: 24  
 era: Heresy  
 legions: [Sons of Horus, Word Bearers, World Eaters, Emperor's Children]  
 themes: [Transformation, Chaos, Allegiance, Finality]  

@@ -1,7 +1,7 @@
 ---
 title: Prospero Burns  
 author: Dan Abnett  
-order: 10  
+order: 8  
 era: Pre-Heresy  
 legions: [Space Wolves]  
 themes: [Duty, Perspective, Myth, Justice]  

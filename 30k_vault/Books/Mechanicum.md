@@ -1,7 +1,7 @@
 ---
 title: Mechanicum  
 author: Graham McNeill  
-order: 8  
+order: 10  
 era: Pre-Heresy  
 legions: [None — focuses on the Mechanicum faction]  
 themes: [Technology, Faith, Schism, Autonomy]  

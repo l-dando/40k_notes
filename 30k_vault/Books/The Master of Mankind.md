@@ -1,7 +1,7 @@
 ---
 title: The Master of Mankind  
 author: Aaron Dembski-Bowden  
-order: 22
+order: 9
 era: Heresy  
 legions: [Custodes, Sisters of Silence]  
 themes: [Sacrifice, Vision, Isolation, Power]  

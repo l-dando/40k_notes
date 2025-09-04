@@ -1,7 +1,7 @@
 ---
 title: Praetorian of Dorn  
 author: John French  
-order: 17  
+order: 20  
 era: Heresy  
 legions: [Imperial Fists, Alpha Legion]  
 themes: [Defense, Espionage, Duty, Identity]  

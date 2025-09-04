@@ -1,7 +1,7 @@
 ---
 title: The Path of Heaven  
 author: Chris Wraight  
-order: 23
+order: 21
 era: Heresy  
 legions: [White Scars]  
 themes: [Freedom, Strategy, Transformation, Journey]  

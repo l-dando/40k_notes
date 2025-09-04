@@ -1,7 +1,7 @@
 ---
 title: The Flight of the Eisenstein  
 author: James Swallow  
-order: 4  
+order: 6  
 era: Pre-Heresy  
 legions: [Death Guard]  
 themes: [Loyalty, Survival, Warning, Isolation]  

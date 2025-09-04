@@ -1,7 +1,7 @@
 ---
 title: Scars  
 author: Chris Wraight  
-order: 14  
+order: 16  
 era: Heresy  
 legions: [White Scars]  
 themes: [Freedom, Identity, Choice, Tradition]  

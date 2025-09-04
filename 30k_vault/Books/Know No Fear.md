@@ -1,7 +1,7 @@
 ---
 title: Know No Fear  
 author: Dan Abnett  
-order: 11  
+order: 13  
 era: Heresy  
 legions: [Ultramarines, Word Bearers]  
 themes: [Betrayal, Discipline, Strategy, Shock]  

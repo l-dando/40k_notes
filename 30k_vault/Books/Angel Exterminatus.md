@@ -1,7 +1,7 @@
 ---
 title: Angel Exterminatus  
 author: Graham McNeill  
-order: 13  
+order: 14  
 era: Heresy  
 legions: [Iron Warriors, Emperor's Children]  
 themes: [Artifice, Ambition, Legacy, Transformation]  

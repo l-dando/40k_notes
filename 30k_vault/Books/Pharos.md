@@ -1,7 +1,7 @@
 ---
 title: Pharos  
 author: Guy Haley  
-order: 16  
+order: 19  
 era: Heresy  
 legions: [Ultramarines]  
 themes: [Isolation, Strategy, Sacrifice, Communication]  

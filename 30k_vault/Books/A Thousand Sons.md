@@ -1,7 +1,7 @@
 ---
 title: A Thousand Sons  
 author: Graham McNeill  
-order: 9  
+order: 7  
 era: Pre-Heresy  
 legions: [Thousand Sons]  
 themes: [Knowledge, Hubris, Fate, Forbidden Power]  

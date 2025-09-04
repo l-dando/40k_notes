@@ -1,7 +1,7 @@
 ---
-title: The Unremembered Empire  
+title: Unremembered Empire  
 author: Dan Abnett  
-order: 19
+order: 18
 era: Heresy  
 legions: [Ultramarines, Blood Angels, Dark Angels]  
 themes: [Isolation, Unity, Leadership, Hope]  
