@@ -6,7 +6,7 @@ order: 5
 era: Pre-Heresy  
 legions: [Luna Wolves, Emperor's Children, Death Guard, World Eaters]  
 themes: [Betrayal, Loyalty, Chaos Influence, Ideological Fracture]  
-status: unread  
+status: reading  
 rating:  
 ---
 

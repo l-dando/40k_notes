@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "491981ab2b9ed441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "horus_heresy_vault/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "3e78c97c43ef39cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30k_vault/Home.md",
+                "file": "30k_vault/Characters/Kor Phaeron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Kor Phaeron"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,32 +196,32 @@
   },
   "active": "3e78c97c43ef39cd",
   "lastOpenFiles": [
-    "30k_vault/Books/The End and the Death Volume III.md",
-    "30k_vault/Books/The End and the Death Volume I.md",
-    "30k_vault/Books/Echoes of Eternity.md",
-    "30k_vault/Books/Mortis.md",
-    "30k_vault/Books/Saturnine.md",
-    "30k_vault/Books/The First Wall.md",
-    "30k_vault/Books/The Lost and the Damned.md",
-    "30k_vault/Books/The Solar War.md",
-    "30k_vault/Home.md",
-    "30k_vault/Books/The First Heretic.md",
-    "30k_vault/Books/Slaves to Darkness.md",
-    "30k_vault/Books/Praetorian of Dorn.md",
-    "30k_vault/Books/Betrayer.md",
-    "30k_vault/Books/Fulgrim.md",
-    "30k_vault/Books/The Master of Mankind.md",
-    "30k_vault/Books/A Thousand Sons.md",
-    "30k_vault/Books/The Flight of the Eisenstein.md",
-    "30k_vault/Books/Galaxy in Flames.md",
+    "30k_vault/Characters/Kyril Sindermann.md",
+    "30k_vault/Characters/Mersadie Oliton.md",
+    "30k_vault/Characters/Euphrati Keeler.md",
+    "30k_vault/Characters/Petronella Vivar.md",
+    "30k_vault/Characters/Horus Aximand.md",
+    "30k_vault/Characters/Ezekyle Abaddon.md",
+    "30k_vault/Characters/Tarik Torgaddon.md",
+    "30k_vault/Characters/Garviel Loken.md",
+    "30k_vault/Characters/Horus Lupercal.md",
+    "30k_vault/Characters/Erebus.md",
+    "30k_vault/Characters/Fabius Bile.md",
+    "30k_vault/Characters/Hektor Varvarus.md",
+    "30k_vault/Characters/Ing Mae Sing.md",
+    "30k_vault/Characters/Akshub.md",
+    "30k_vault/Characters/Tybalt Marr.md",
+    "30k_vault/Characters/Maggard.md",
+    "30k_vault/Characters/Eugen Temba.md",
     "30k_vault/Books/False Gods.md",
     "30k_vault/Books/Horus Rising.md",
-    "30k_vault/Books/Legion.md",
-    "30k_vault/Books/Wolfsbane.md",
-    "30k_vault/Books/Ruinstorm.md",
-    "30k_vault/Books/The Path of Heaven.md",
-    "30k_vault/Books/Path of Heaven.md",
-    "30k_vault/Books/Pharos.md",
+    "30k_vault/Characters/Eidolon.md",
+    "30k_vault/Home.md",
+    "30k_vault/Characters/Xavyer Jubal.md",
+    "30k_vault/Characters/Rogal Dorn.md",
+    "30k_vault/Characters/Ignace Karkasy.md",
+    "30k_vault/Characters/Sanguinius.md",
+    "30k_vault/Characters/Lucius.md",
     "30k_vault/Major Events",
     "30k_vault/Locations",
     "30k_vault/Characters",

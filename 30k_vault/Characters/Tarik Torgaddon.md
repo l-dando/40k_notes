@@ -1,26 +1,22 @@
 ---
 name: Tarik Torgaddon
-titles: [Captain]
-affiliation: Luna Wolves
+titles: [Captain of the 2nd Company, Mournival Member]
+affiliation: Luna Wolves / Sons of Horus
 first_appearance: Horus Rising
 books: [Horus Rising, False Gods]
 status: encountered
 ---
 
 ## 🧠 Summary
-Torgaddon brings sanguine energy and optimism to the Mournival, lightening tense council chambers with bold ideas—and sometimes misplaced confidence.
+A gregarious and sharp‑witted captain, Torgaddon balances humour with fierce loyalty to his friends. His easy camaraderie hides a deep moral core.
 
-## ⚔️ Role in Books
-- Horus Rising: Serves as the Mournival’s optimistic spark, proposing daring solutions and easing the burden of command.  
-- False Gods: Struggles to reconcile Horus’s new secretive orders with his natural faith in the Warmaster.
+## ⚔️ Role in the Great Crusade
+- Fights on Sixty‑Three Nineteen, Murder, and in the Interex campaign.
+- Member of the warrior lodge but values transparency and loyalty above secrecy.
+- On Davin, stands with [[Garviel Loken]] against taking Horus to the Serpent Lodge.
+- Rescues [[Euphrati Keeler]] from an attack, bringing her to Sindermann.
+- Quits the lodge after they plot to hand Loken over to [[Hektor Varvarus]].
+- Pledges with Loken to oppose the Legion’s descent into treachery.
 
 ## 🔗 Connections
-- Balances the more brooding voices of Loken and Aximand.  
-- His social nature makes him a key bridge between the Mournival and the wider Legion.
-
-## 📝 Notes
-- Sanguine temperament per the Four Humours.  
-- His humour and boldness hide a deep loyalty—and the potential for bitter disappointment.
-
-## 🏷︎ Tags
-#Captain #Mournival #LunaWolves #HorusRising #FalseGods  
+- Close ally of Loken; mutual respect with [[Saul Tarvitz]].

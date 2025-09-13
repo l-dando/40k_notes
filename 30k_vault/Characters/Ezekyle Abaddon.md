@@ -1,0 +1,21 @@
+---
+name: Ezekyle Abaddon
+titles: [First Captain, Mournival Member]
+affiliation: Luna Wolves / Sons of Horus
+first_appearance: Horus Rising
+books: [Horus Rising, False Gods]
+status: encountered
+---
+
+## 🧠 Summary
+The First Captain and Horus’s most devoted son, Abaddon is fiercely protective of the Warmaster’s honour and authority.
+
+## ⚔️ Role in the Great Crusade
+- Leads from the front on Sixty‑Three Nineteen, Murder, and the Interex.
+- Defends [[Erebus]] at the Davin war council, attacking [[Ignace Karkasy]] for questioning him.
+- Helps force a path through civilians during Horus’s evacuation, killing and injuring many.
+- Supports taking Horus to the Serpent Lodge, opposing Loken and [[Tarik Torgaddon]].
+
+## 🔗 Connections
+- Loyal to Horus above all.
+- Works closely with [[Horus Aximand]] in Mournival politics.

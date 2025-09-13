@@ -1,25 +1,22 @@
 ---
 name: Euphrati Keeler
-titles: [Remembrancer]
-affiliation: Civilian (63rd Expedition Fleet)
+titles: [Remembrancer, Pictographer]
+affiliation: Remembrancer Order
 first_appearance: Horus Rising
-books: [Horus Rising]
+books: [Horus Rising, False Gods]
 status: encountered
 ---
 
 ## 🧠 Summary
-A gifted Remembrancer whose latent psychic visions challenge the Imperial Truth. Euphrati’s presence forces Horus to confront the cost of censorship and control.
+A pictographer whose experiences with the supernatural lead her to embrace the Emperor as a divine being, becoming one of the first Imperial Saints.
 
-## ⚔️ Role in Books
-- Horus Rising: Joins the Crusade as an artist-historian, sparks controversy with her prophesied visions, and becomes a pawn in Lodge politics.
+## ⚔️ Role in the Great Crusade
+- Witnesses and records the Whisperheads daemon.
+- On Davin, openly preaches the *Lectitio Divinitatus*.
+- Rescued by [[Tarik Torgaddon]] from an attack by soldiers hostile to her faith.
+- While translating the *Book of Lorgar* with [[Kyril Sindermann]], accidentally summons a daemon.
+- Channels the Emperor’s power to banish it, falling into a coma.
 
 ## 🔗 Connections
-- Inspires both awe and fear in the Mournival.  
-- Her visions foreshadow events beyond the Great Crusade’s official narrative.
-
-## 📝 Notes
-- Symbolizes the clash between art, memory, and dogma.  
-- Her arc underscores the dangers of denying humanity’s spiritual side.
-
-## 🏷︎ Tags
-#Remembrancer #Civilian #HorusRising  
+- Allies with Sindermann and Loken.
+- Inspires faith among the fleet’s civilians.

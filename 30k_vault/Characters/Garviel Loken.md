@@ -1,26 +1,23 @@
 ---
 name: Garviel Loken
-titles: [Captain, Mournival Member]
-affiliation: Luna Wolves
+titles: [Captain of the 10th Company, Mournival Member]
+affiliation: Luna Wolves / Sons of Horus
 first_appearance: Horus Rising
 books: [Horus Rising, False Gods]
 status: encountered
 ---
 
 ## 🧠 Summary
-Captain of the Tenth Company, Loken is analytical and principled. His outsider’s view within Horus’s inner circle makes him the reader’s moral compass.
+An honourable and principled captain, Loken is respected for his humanity and moral clarity. Chosen for the Mournival to temper its more aggressive voices, he becomes a conscience within the Legion.
 
-## ⚔️ Role in Books
-- Horus Rising: Joins the Mournival, witnesses the brutality of the Crusade, and questions the cost of glory.  
-- False Gods: Grows uneasy with Horus’s changed behavior and investigates the Serpent Lodge’s hidden agenda.
+## ⚔️ Role in the Great Crusade
+- Serves with distinction on Sixty‑Three Nineteen, Murder, and during first contact with the Interex.
+- Investigates the Whisperheads incident, confronting the reality of Warp entities.
+- On Davin, suspects [[Erebus]]’s role in Horus’s wounding after finding the Anathame.
+- Opposes the decision to take Horus to the Serpent Lodge, splitting from [[Ezekyle Abaddon]] and [[Horus Aximand]].
+- Works with [[Kyril Sindermann]] and [[Euphrati Keeler]] to uncover Chaos cult links.
+- Vows with [[Tarik Torgaddon]] to resist the Legion’s corruption.
 
 ## 🔗 Connections
-- Close to Horus by merit, yet increasingly at odds with Lodge politics.  
-- Foreshadows the loyalist resistance within the Legion.
-
-## 📝 Notes
-- His journal entries capture the clash of Imperial Truth and faith.  
-- Represents the struggle between duty and conscience.
-
-## 🏷︎ Tags
-#Captain #Mournival #LunaWolves #HorusRising #FalseGods  
+- Trusted by [[Rogal Dorn]].
+- Close friendship with Torgaddon; ideological conflict with Abaddon and Aximand.

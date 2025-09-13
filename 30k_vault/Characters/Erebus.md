@@ -1,27 +1,22 @@
 ---
 name: Erebus
-titles: [First Chaplain]
+titles: [First Chaplain of the Word Bearers]
 affiliation: Word Bearers
 first_appearance: Horus Rising
-books: [The First Heretic, False Gods]
+books: [Horus Rising]
 status: encountered
 ---
 
 ## 🧠 Summary
-Word Bearers’ schemer and architect of heresy. Erebus’s faith in Chaos drives his covert manipulation of Horus and Lorgar alike.
+A manipulative and calculating Chaplain of the Word Bearers, travelling with the 63rd Expedition Fleet under diplomatic pretence.
 
-## ⚔️ Role in Books
-- Horus Rising: Appears in vision-form to influence Horus’s thoughts (prologue foreshadow).  
-- False Gods: Orchestrates Horus’s ritual cure on Davin, embedding the first seeds of corruption.  
-- The First Heretic: Acts as Lorgar’s shadow advisor, formalizing the Word Bearers’ break with the Imperial Truth.
+## ⚔️ Role in Horus Rising
+- Secretly steals the Interex’s anathame during negotiations.
+- Sets in motion events that will have galaxy‑shaking consequences.
 
 ## 🔗 Connections
-- Liaison between Horus and the Chaos gods.  
-- Catalyst for both Heresy and the Word Bearers’ rebellion.
-
-## 📝 Notes
-- His devotion to prophecy makes him a dangerous zealot.  
-- Operates in the shadows, binding events to Chaos’s greater design.
+- Serves [[Lorgar Aurelian]].
+- Manipulates [[Horus Lupercal]] and the Sons of Horus.
 
 ## 🏷︎ Tags
-#Chaplain #WordBearers #FalseGods #TheFirstHeretic  
+#Erebus #WordBearers #HorusRising

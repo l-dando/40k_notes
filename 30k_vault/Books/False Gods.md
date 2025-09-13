@@ -10,28 +10,39 @@ status: read
 rating:
 ---
 
-## 🧭 Summary (Chapter Breakdown)
-- Prologue: [[Horus Lupercal]] lies critically wounded on Davin, setting the stage for a desperate bid to save the Warmaster.  
-- Chapter 1: [[Horus Lupercal]] is taken to the Serpent Lodge for a ritual cure, unaware of its deeper purpose.  
-- Chapter 2: [[Erebus]] orchestrates subtle manipulations, planting seeds of doubt in [[Horus Lupercal]]’s mind.  
-- Chapter 3: [[Garviel Loken]] grows wary of [[Horus Lupercal]]’s altered behavior and the lodge’s secretive rites.  
-- Chapter 4: Tensions rise within the Luna Wolves as conflicting advice from [[Ezekyle Abaddon]] and [[Tarik Torgaddon]] tests [[Horus Lupercal]]’s judgment.  
-- Chapter 5: A prophetic vision hints at [[Horus Lupercal]]’s grand destiny, fueling his ego and insecurity.  
-- Chapter 6: [[Garviel Loken]] and [[Ezekyle Abaddon]] debate the ethics of [[Horus Lupercal]]’s new orders, foreshadowing internal strife.  
-- Chapter 7: Whispers of Chaos gods begin to surface through veiled arguments in [[Horus Lupercal]]’s council.  
-- Chapter 8: Another lodge ceremony cements [[Horus Lupercal]]’s shift, veering him away from the Emperor’s creed.  
-- Chapter 9: [[Garviel Loken]] uncovers cryptic references to forbidden worship among the ranks.  
-- Chapter 10: [[Horus Lupercal]] issues a controversial directive that contradicts Imperial dogma.  
-- Chapter 11: Factional infighting erupts within the lodge as personal ambitions clash.  
-- Chapter 12: [[Garviel Loken]] confronts [[Horus Lupercal]] privately, warning of the path he treads.  
-- Chapter 13: A tactical operation reveals [[Horus Lupercal]]’s growing paranoia and isolation.  
-- Chapter 14: [[Garviel Loken]]’s faith in his commander falters, intensifying his moral dilemma.  
-- Chapter 15: The bond between brothers frays as loyalty and fear collide.  
-- Chapter 16: Hidden messages from Chaos cultists infiltrate the lodge’s communications.  
-- Chapter 17: [[Garviel Loken]] weighs the price of defiance against the ruin of his Legion.  
-- Chapter 18: [[Horus Lupercal]]’s final acceptance of forbidden power seals the trajectory of his fall.  
-- Chapter 19: In the aftermath, [[Ezekyle Abaddon]] steps into [[Horus Lupercal]]’s shadow, setting up future rivalries.  
-- Chapter 20: Reflections on loyalty and betrayal close out the volume, leading into *Galaxy in Flames*.  
+## ## 🧭 Overview
+
+The 63rd Expeditionary Fleet, led by Warmaster [[Horus Lupercal]], arrives on Davin to meet elements of the Word Bearers under First Chaplain [[Erebus]]. Among the arrivals is [[Petronella Vivar]], a noblewoman from Terra assigned to chronicle Horus’s deeds. At a War Council, Erebus claims that planetary governor [[Eugen Temba]] has turned traitor after leading his forces to Davin’s moon to suppress a tribal rebellion. Horus, enraged, orders an immediate assault.
+
+[[Ignace Karkasy]] reports the meeting to [[Garviel Loken]], suggesting Erebus manipulated Horus. Their conversation is interrupted by [[Ezekyle Abaddon]], who defends Erebus and scorns Loken’s association with remembrancers. When Karkasy questions Abaddon about a silver coin he gave Erebus, Abaddon tries to kill him, but Loken intervenes and swears Karkasy to silence.
+
+The “speartip” — six companies of the Sons of Horus, the Byzant Janizars, three Titans of the Legio Mortis, and Erebus’s Word Bearers — lands on Davin’s moon. Instead of dry forest, they find a stinking, rotted swamp. A broadcast praising “Nurgh‑leth” echoes eerily, reminding Loken of the Whisperheads.
+
+---
+
+Advancing through the mire, the Sons of Horus are attacked by plague‑ridden corpses of Temba’s men. The Titan *Dies Irae*, blinded by fog, shoots down an incoming craft — [[Petronella Vivar]]’s skiff, defying Horus’s orders. Her bodyguard Maggard holds off the undead until the burning wreck draws Astartes to their position.
+
+The force discovers the wreck of Temba’s flagship, the *Glory of Terra*, rotting and broadcasting the unsettling signal. Horus leads four companies inside, leaving Loken and [[Tarik Torgaddon]] to guard the entrance. Inside, Horus is separated from his men and fights through plague zombies to reach the bridge, where he confronts a bloated, corrupted Temba wielding the [[Anathame]]. Horus is wounded in the shoulder before killing Temba, who dies repentant, confessing his fall to Chaos. Destroying the broadcast machinery ends the zombie threat just in time to save the outer defence.
+
+Horus collapses from his wound. The Mournival rush him back to the fleet, but the hangar is choked with panicked civilians. In their desperation, Abaddon and others kill or maim those in their way. From above, Karkasy and [[Mersadie Oliton]] watch in horror as [[Euphrati Keeler]] distributes *Lectitio Divinitatus* pamphlets to the wounded. Apothecaries keep Horus alive but cannot halt the toxin’s spread. Believing he is dying, Horus confides in Vivar, revealing secrets of the primarch brotherhood.
+
+Seeking answers, Loken and Torgaddon return to the *Glory of Terra* with [[Tybalt Marr]], finding the Anathame. Loken recognises it as the blade stolen from the Hall of Devices on Xenobia, concluding Erebus orchestrated Horus’s wounding. Meanwhile, the Sons of Horus’ warrior lodge, swayed by Erebus, decides to take Horus to the Serpent Lodge temple on Davin, claiming its occult rites can heal him.
+
+---
+
+At the temple, the lodge seals Horus inside. In the spirit realm, Erebus — disguised as [[Hastur Sejanus]] — guides Horus through visions: a shrine‑world of the far future where the Emperor and nine loyal primarchs are worshipped as gods, secret laboratories beneath Terra where the Emperor used Warp‑born knowledge to create the primarchs, and the scattering of the primarchs. Erebus claims the Emperor seeks godhood for himself and will abandon his sons. Horus also glimpses a hellish industrial wasteland beneath the idyllic surface.
+
+In the material realm, Loken learns from [[Kyril Sindermann]] of the link between serpent cults and Chaos. Karkasy writes damning poetry about the embarkation deck massacre. Keeler, attacked for her faith, is rescued by Torgaddon and taken to Sindermann. Translating the *Book of Lorgar*, they accidentally summon a daemon, which Keeler miraculously banishes by channelling the Emperor’s power before collapsing into a coma.
+
+In the Warp, [[Magnus the Red]] appears as the leader of the wolf pack in Horus’s vision, stripping Erebus of his disguise and warning Horus of manipulation. Distrustful of Magnus yet inflamed by pride and betrayal, Horus resolves to rebel against the Emperor. He emerges from the temple healed, to the cheers of his Legion.
+
+---
+
+The 63rd Expedition moves on, encountering the Auretian Technocracy — an advanced human civilisation. Horus engineers war by slaughtering their ambassadors, promising their STCs to Adept Regulus of the Mechanicum in exchange for support. The lodge plots to hand Loken over for execution to appease [[Hektor Varvarus]] and silence Karkasy, but Torgaddon refuses and quits the lodge.
+
+Joined by [[Angron]] and the World Eaters, the war lasts nine brutal months. During a visit from the Emperor’s Children, [[Fabius Bile]] takes the Anathame and gives it to [[Fulgrim]]. In the final assault, Angron is buried in rubble; as the last Auretians surrender to Varvarus, Angron bursts free and attacks, forcing a massacre in which Varvarus is killed.
+
+After Varvarus’s funeral, Horus begins “cleaning house.” Maggard, now a lodge member, murders Karkasy; his death is passed off as suicide. Horus kills Petronella Vivar himself to silence her. Loken and Torgaddon vow to resist the Legion’s corruption. In a secret meeting, Horus declares his intent to overthrow the Emperor and begins planning an operation in the Isstvan system.
 
 ## 🧠 Themes
 - Seduction of power through hidden rituals  
