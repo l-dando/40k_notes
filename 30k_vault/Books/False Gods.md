@@ -10,7 +10,7 @@ status: read
 rating:
 ---
 
-## ## 🧭 Overview
+## 🧭 Overview
 
 The 63rd Expeditionary Fleet, led by Warmaster [[Horus Lupercal]], arrives on Davin to meet elements of the Word Bearers under First Chaplain [[Erebus]]. Among the arrivals is [[Petronella Vivar]], a noblewoman from Terra assigned to chronicle Horus’s deeds. At a War Council, Erebus claims that planetary governor [[Eugen Temba]] has turned traitor after leading his forces to Davin’s moon to suppress a tribal rebellion. Horus, enraged, orders an immediate assault.
 

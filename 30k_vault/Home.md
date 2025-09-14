@@ -1,6 +1,6 @@
 # 🏛️ Warhammer 30K Reading Campaign
 
-Welcome to a chronological descent through the Horus Heresy. This vault tracks current progress, explores Legion ideologies, and surfaces thematic arcs across the galaxy’s unraveling.
+Welcome to a chronological descent through the Horus Heresy. This vault tracks current progress, explores Legion ideologies, and surfaces thematic arcs across the galaxy’s unravelling.
 
 ## 📚 Reading Progress
 ```dataview

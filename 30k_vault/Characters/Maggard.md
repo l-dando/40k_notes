@@ -4,7 +4,7 @@ titles: [Bodyguard to Petronella Vivar]
 affiliation: House Vivar, later Sons of Horus (lodge member)
 first_appearance: False Gods
 books: [False Gods]
-status: deceased
+status: encountered
 ---
 
 ## 🧠 Summary
