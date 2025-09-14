@@ -40,7 +40,7 @@ In the Warp, [[Magnus the Red]] appears as the leader of the wolf pack in Horus�
 
 The 63rd Expedition moves on, encountering the Auretian Technocracy — an advanced human civilisation. Horus engineers war by slaughtering their ambassadors, promising their STCs to Adept Regulus of the Mechanicum in exchange for support. The lodge plots to hand Loken over for execution to appease [[Hektor Varvarus]] and silence Karkasy, but Torgaddon refuses and quits the lodge.
 
-Joined by [[Angron]] and the World Eaters, the war lasts nine brutal months. During a visit from the Emperor’s Children, [[Fabius Bile]] takes the Anathame and gives it to [[Fulgrim]]. In the final assault, Angron is buried in rubble; as the last Auretians surrender to Varvarus, Angron bursts free and attacks, forcing a massacre in which Varvarus is killed.
+Joined by [[Angron]] and the World Eaters, the war lasts nine brutal months. During a visit from the Emperor’s Children, [[Fabius Bile]] takes the Anathame and gives it to [[30k_vault/Books/Fulgrim]]. In the final assault, Angron is buried in rubble; as the last Auretians surrender to Varvarus, Angron bursts free and attacks, forcing a massacre in which Varvarus is killed.
 
 After Varvarus’s funeral, Horus begins “cleaning house.” Maggard, now a lodge member, murders Karkasy; his death is passed off as suicide. Horus kills Petronella Vivar himself to silence her. Loken and Torgaddon vow to resist the Legion’s corruption. In a secret meeting, Horus declares his intent to overthrow the Emperor and begins planning an operation in the Isstvan system.
 

@@ -12,10 +12,10 @@ The Chief Apothecary of the Emperor’s Children, infamous for his twisted geniu
 
 ## ⚔️ Role in False Gods
 - Visits the 63rd Expedition during the Auretian campaign.
-- Takes possession of the [[Anathame]] and delivers it to [[Fulgrim]].
+- Takes possession of the [[Anathame]] and delivers it to [[30k_vault/Books/Fulgrim]].
 
 ## 🔗 Connections
-- Serves under [[Fulgrim]].
+- Serves under [[30k_vault/Books/Fulgrim]].
 - Interacts with [[Horus Lupercal]]’s forces during the campaign.
 
 ## 🏷︎ Tags
