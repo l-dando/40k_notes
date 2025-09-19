@@ -1,6 +1,7 @@
 ---
 title: Warhawk
 author: Chris Wraight
+owned: Yes
 order: 30
 era: Siege of Terra
 legions: [Space Wolves, Raven Guard]

@@ -1,6 +1,7 @@
 ---
 title: Know No Fear  
 author: Dan Abnett  
+owned: Yes
 order: 13  
 era: Heresy  
 legions: [Ultramarines, Word Bearers]  

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30k_vault/Characters/Erebus.md",
+                "file": "30k_vault/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erebus"
+              "title": "Home"
             }
           }
         ]
@@ -196,6 +196,11 @@
   },
   "active": "3e78c97c43ef39cd",
   "lastOpenFiles": [
+    "30k_vault/Books/Warhawk.md",
+    "30k_vault/Books/Know No Fear.md",
+    "30k_vault/Books/Horus Rising.md",
+    "30k_vault/Home.md",
+    "30k_vault/Characters/Erebus.md",
     "30k_vault/Characters/Maggard.md",
     "30k_vault/Characters/Fabius Bile.md",
     "30k_vault/Characters/Eidolon.md",
@@ -217,11 +222,6 @@
     "30k_vault/Characters/Luc Sedirae.md",
     "30k_vault/Characters/Serghar Targost.md",
     "30k_vault/Characters/Iacton Qruze.md",
-    "30k_vault/Characters/Titus Cassar.md",
-    "30k_vault/Characters/Jonah Aruken.md",
-    "30k_vault/Books/The Flight of the Eisenstein.md",
-    "30k_vault/Home.md",
-    "30k_vault/Books/The End and the Death Volume II.md",
     "30k_vault/Major Events",
     "30k_vault/Locations",
     "30k_vault/Characters",
