@@ -15,7 +15,10 @@ The First Captain and Horus’s most devoted son, Abaddon is fiercely protective
 - Defends [[Erebus]] at the Davin war council, attacking [[Ignace Karkasy]] for questioning him.
 - Helps force a path through civilians during Horus’s evacuation, killing and injuring many.
 - Supports taking Horus to the Serpent Lodge, opposing Loken and [[Tarik Torgaddon]].
+- Commands traitor forces during the Isstvan III ground war.
+- Personally duels [[Garviel Loken]] in the parliament building, leaving him gravely wounded before the *Dies Irae* collapses the structure.
 
 ## 🔗 Connections
 - Loyal to Horus above all.
 - Works closely with [[Horus Aximand]] in Mournival politics.
+

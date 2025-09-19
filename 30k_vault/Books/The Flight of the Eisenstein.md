@@ -6,7 +6,7 @@ order: 6
 era: Pre-Heresy  
 legions: [Death Guard]  
 themes: [Loyalty, Survival, Warning, Isolation]  
-status: unread  
+status: reading  
 rating:  
 ---
 

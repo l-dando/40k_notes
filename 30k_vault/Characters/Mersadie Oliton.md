@@ -15,6 +15,8 @@ A remembrancer assigned to the 63rd Expedition, Mersadie becomes a trusted confi
 - Witnesses the embarkation deck massacre with [[Ignace Karkasy]].
 - Keeps vigil at [[Euphrati Keeler]]’s bedside after her collapse.
 - Distressed by the deaths of Karkasy and [[Petronella Vivar]].
+- Witness to the embarkation deck massacre (False Gods) and Horus’s remembrancer purge on the *Vengeful Spirit*.
+- Escapes the massacre with [[Euphrati Keeler]], [[Kyril Sindermann]], and [[Iacton Qruze]].
 
 ## 🔗 Connections
 - Close to Loken and Karkasy.

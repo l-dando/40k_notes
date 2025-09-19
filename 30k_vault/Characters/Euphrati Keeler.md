@@ -16,7 +16,12 @@ A pictographer whose experiences with the supernatural lead her to embrace the E
 - Rescued by [[Tarik Torgaddon]] from an attack by soldiers hostile to her faith.
 - While translating the *Book of Lorgar* with [[Kyril Sindermann]], accidentally summons a daemon.
 - Channels the Emperor’s power to banish it, falling into a coma.
+- In a coma after Davin, develops a cult following aboard the *Vengeful Spirit*.
+- Awakens during an assassination attempt by [[Maggard]], using her powers to save herself and her rescuers.
+- Foresees the virus‑bombing of Isstvan III and transmits the vision to [[Kyril Sindermann]] and [[Mersadie Oliton]].
+- Escapes Horus’s remembrancer massacre with Sindermann, Oliton, and [[Iacton Qruze]], fleeing to the *Eisenstein*.
 
 ## 🔗 Connections
 - Allies with Sindermann and Loken.
 - Inspires faith among the fleet’s civilians.
+

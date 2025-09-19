@@ -4,7 +4,7 @@ titles: [Bodyguard to Petronella Vivar]
 affiliation: House Vivar, later Sons of Horus (lodge member)
 first_appearance: False Gods
 books: [False Gods]
-status: encountered
+status: deceased
 ---
 
 ## 🧠 Summary
@@ -15,6 +15,8 @@ A mute, golden‑eyed warrior and bodyguard to [[Petronella Vivar]], skilled wit
 - Joins the Sons of Horus’ warrior lodge.
 - Murders [[Ignace Karkasy]] on Horus’s orders.
 - Does not intervene when Horus kills Vivar.
+- Attempts to kill [[Euphrati Keeler]] in her quarters; thwarted when she awakens and uses her powers.
+- Killed in the *Vengeful Spirit*’s hangar by [[Iacton Qruze]] with help from [[Kyril Sindermann]] during the loyalists’ escape.
 
 ## 🔗 Connections
 - Serves [[Petronella Vivar]] until shifting loyalty to [[Horus Lupercal]].

@@ -14,6 +14,9 @@ Nicknamed “Little Horus” for his resemblance to the Warmaster, Aximand is a 
 - Serves on Sixty‑Three Nineteen, Murder, and in the Interex campaign.
 - Supports [[Ezekyle Abaddon]] in defending Erebus and the lodge’s decision to take Horus to the Serpent Lodge.
 - Opposes Loken and Torgaddon during the Mournival split.
+- Supports Horus’s rebellion and participates in the Isstvan III betrayal.
+- Duels [[Tarik Torgaddon]] in the parliament building, killing him.
+- Shows visible sorrow at Torgaddon’s death despite his treachery.
 
 ## 🔗 Connections
 - Trusted by Horus; aligned with Abaddon in lodge politics.

@@ -1,6 +1,7 @@
 ---
 title: The End and the Death Volume II
 author: Dan Abnett
+owned: Yes
 order: 33
 era: Siege of Terra
 legions: [Sons of Horus, Sisters of Silence]
