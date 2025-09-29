@@ -4,6 +4,8 @@ author: Ben Counter
 owned: Yes
 order: 5  
 era: Pre-Heresy  
+omnibus: "1: Heresy Rising"
+omnibus_order: 3
 legions: [Luna Wolves, Emperor's Children, Death Guard, World Eaters]  
 themes: [Betrayal, Loyalty, Chaos Influence, Ideological Fracture]  
 status: read  

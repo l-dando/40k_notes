@@ -4,6 +4,8 @@ author: Aaron Dembski-Bowden
 owned: Yes
 order: 1
 era: Pre-Heresy
+omnibus: "2: Shadow Crusade I: Only The Faithful"
+omnibus_order: 2
 legions: [Word Bearers]
 themes: [Chaos Influence, Faith, Betrayal]
 status: read

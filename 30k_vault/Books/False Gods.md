@@ -4,6 +4,8 @@ author: Graham McNeill
 owned: Yes
 order: 4
 era: Pre-Heresy
+omnibus: "1: Heresy Rising"
+omnibus_order: 2
 legions: [Luna Wolves, Word Bearers]
 themes: [Corruption, Betrayal, Chaos Influence, Loyalty]
 status: read

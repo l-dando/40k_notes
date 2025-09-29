@@ -4,6 +4,8 @@ author: Dan Abnett
 owned: Yes
 order: 3
 era: Pre-Heresy
+omnibus: "1: Heresy Rising"
+omnibus_order: 1
 legions: [Luna Wolves]
 themes: [Imperial Truth, Loyalty, Corruption]
 status: read

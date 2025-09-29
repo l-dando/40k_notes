@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30k_vault/Home.md",
+                "file": "30k_vault/Books/Fulgrim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Fulgrim"
             }
           }
         ]
@@ -196,8 +196,15 @@
   },
   "active": "3e78c97c43ef39cd",
   "lastOpenFiles": [
-    "30k_vault/Books/Warhawk.md",
+    "30k_vault/Books/Prospero Burns.md",
+    "30k_vault/Books/A Thousand Sons.md",
     "30k_vault/Books/Know No Fear.md",
+    "30k_vault/Books/The First Heretic.md",
+    "30k_vault/Books/Battle For The Abyss.md",
+    "30k_vault/Books/Fulgrim.md",
+    "30k_vault/Books/The Flight of the Eisenstein.md",
+    "30k_vault/Books/Galaxy in Flames.md",
+    "30k_vault/Books/False Gods.md",
     "30k_vault/Books/Horus Rising.md",
     "30k_vault/Home.md",
     "30k_vault/Characters/Erebus.md",
@@ -215,13 +222,6 @@
     "30k_vault/Characters/Garviel Loken.md",
     "30k_vault/Characters/Horus Lupercal.md",
     "30k_vault/Characters/Khârn.md",
-    "30k_vault/Books/Galaxy in Flames.md",
-    "30k_vault/Characters/Esau Turnet.md",
-    "30k_vault/Characters/Vardus Praal.md",
-    "30k_vault/Characters/Charmosian.md",
-    "30k_vault/Characters/Luc Sedirae.md",
-    "30k_vault/Characters/Serghar Targost.md",
-    "30k_vault/Characters/Iacton Qruze.md",
     "30k_vault/Major Events",
     "30k_vault/Locations",
     "30k_vault/Characters",

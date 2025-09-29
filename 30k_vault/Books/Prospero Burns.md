@@ -3,6 +3,8 @@ title: Prospero Burns
 author: Dan Abnett  
 order: 8  
 era: Pre-Heresy  
+omnibus: "3: The Burning of Prospero"
+omnibus_order: 2
 legions: [Space Wolves]  
 themes: [Duty, Perspective, Myth, Justice]  
 status: unread  

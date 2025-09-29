@@ -4,6 +4,8 @@ author: Graham McNeill
 owned: Yes
 order: 7  
 era: Pre-Heresy  
+omnibus: "3: The Burning of Prospero"
+omnibus_order: 1
 legions: [Thousand Sons]  
 themes: [Knowledge, Hubris, Fate, Forbidden Power]  
 status: unread  

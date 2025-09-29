@@ -4,6 +4,8 @@ author: Dan Abnett
 owned: Yes
 order: 13  
 era: Heresy  
+omnibus: "2: Shadow Crusade I: Only The Faithful"
+omnibus_order: 3
 legions: [Ultramarines, Word Bearers]  
 themes: [Betrayal, Discipline, Strategy, Shock]  
 status: unread  

@@ -4,6 +4,8 @@ author: James Swallow
 owned: Yes
 order: 6  
 era: Pre-Heresy  
+omnibus: "1: Heresy Rising"
+omnibus_order: 4
 legions: [Death Guard]  
 themes: [Loyalty, Survival, Warning, Isolation]  
 status: reading  
