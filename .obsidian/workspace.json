@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30k_vault/Books/Fulgrim.md",
+                "file": "30k_vault/Characters/Ignatius Grulgor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fulgrim"
+              "title": "Ignatius Grulgor"
             }
           }
         ]
@@ -196,13 +196,19 @@
   },
   "active": "3e78c97c43ef39cd",
   "lastOpenFiles": [
+    "30k_vault/Characters/Mortarion.md",
+    "30k_vault/Characters/Nathaniel Garro.md",
+    "30k_vault/Characters/Amendera Kendel.md",
+    "30k_vault/Characters/Solun Decius.md",
+    "30k_vault/Characters/Calas Typhon.md",
+    "30k_vault/Characters/Ignatius Grulgor.md",
+    "30k_vault/Books/The Flight of the Eisenstein.md",
+    "30k_vault/Books/Fulgrim.md",
     "30k_vault/Books/Prospero Burns.md",
     "30k_vault/Books/A Thousand Sons.md",
     "30k_vault/Books/Know No Fear.md",
     "30k_vault/Books/The First Heretic.md",
     "30k_vault/Books/Battle For The Abyss.md",
-    "30k_vault/Books/Fulgrim.md",
-    "30k_vault/Books/The Flight of the Eisenstein.md",
     "30k_vault/Books/Galaxy in Flames.md",
     "30k_vault/Books/False Gods.md",
     "30k_vault/Books/Horus Rising.md",
@@ -216,12 +222,6 @@
     "30k_vault/Characters/Kyril Sindermann.md",
     "30k_vault/Characters/Mersadie Oliton.md",
     "30k_vault/Characters/Euphrati Keeler.md",
-    "30k_vault/Characters/Tarik Torgaddon.md",
-    "30k_vault/Characters/Horus Aximand.md",
-    "30k_vault/Characters/Ezekyle Abaddon.md",
-    "30k_vault/Characters/Garviel Loken.md",
-    "30k_vault/Characters/Horus Lupercal.md",
-    "30k_vault/Characters/Khârn.md",
     "30k_vault/Major Events",
     "30k_vault/Locations",
     "30k_vault/Characters",
