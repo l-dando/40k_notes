@@ -4,11 +4,9 @@ author: Graham McNeill
 owned: Yes 
 order: 12  
 era: Pre-Heresy  
-omnibus: [1: Heresy Rising, 2: Shattersong]
-omnibus_order: [5, 1]
 legions: [Emperor's Children]  
 themes: [Perfection, Pride, Corruption, Identity]  
-status: unread  
+status: reading  
 rating:  
 ---
 

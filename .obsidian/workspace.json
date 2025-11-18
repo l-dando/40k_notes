@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30k_vault/Characters/Ignatius Grulgor.md",
+                "file": "30k_vault/Books/Fulgrim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ignatius Grulgor"
+              "title": "Fulgrim"
             }
           }
         ]
@@ -196,23 +196,25 @@
   },
   "active": "3e78c97c43ef39cd",
   "lastOpenFiles": [
+    "30k_vault/Books/False Gods.md",
+    "30k_vault/Characters/Fulgrim.md",
+    "30k_vault/Books/Fulgrim.md",
+    "30k_vault/Omnibus",
+    "30k_vault/Books/The Flight of the Eisenstein.md",
+    "30k_vault/Home.md",
+    "30k_vault/Characters/Ignatius Grulgor.md",
     "30k_vault/Characters/Mortarion.md",
     "30k_vault/Characters/Nathaniel Garro.md",
     "30k_vault/Characters/Amendera Kendel.md",
     "30k_vault/Characters/Solun Decius.md",
     "30k_vault/Characters/Calas Typhon.md",
-    "30k_vault/Characters/Ignatius Grulgor.md",
-    "30k_vault/Books/The Flight of the Eisenstein.md",
-    "30k_vault/Books/Fulgrim.md",
     "30k_vault/Books/Prospero Burns.md",
     "30k_vault/Books/A Thousand Sons.md",
     "30k_vault/Books/Know No Fear.md",
     "30k_vault/Books/The First Heretic.md",
     "30k_vault/Books/Battle For The Abyss.md",
     "30k_vault/Books/Galaxy in Flames.md",
-    "30k_vault/Books/False Gods.md",
     "30k_vault/Books/Horus Rising.md",
-    "30k_vault/Home.md",
     "30k_vault/Characters/Erebus.md",
     "30k_vault/Characters/Maggard.md",
     "30k_vault/Characters/Fabius Bile.md",
@@ -221,7 +223,6 @@
     "30k_vault/Characters/Lucius.md",
     "30k_vault/Characters/Kyril Sindermann.md",
     "30k_vault/Characters/Mersadie Oliton.md",
-    "30k_vault/Characters/Euphrati Keeler.md",
     "30k_vault/Major Events",
     "30k_vault/Locations",
     "30k_vault/Characters",
@@ -231,7 +232,6 @@
     "30k_vault/Themes",
     "30k_vault/Books",
     "30k_vault",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
