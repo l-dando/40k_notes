@@ -22,17 +22,29 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "20b974682c604300",
+=======
+            "id": "9cdc1367ca3ce559",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "30k_vault/Characters/Vespasian.md",
+=======
+                "file": "30k_vault/Books/The Flight of the Eisenstein.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Vespasian"
+=======
+              "title": "The Flight of the Eisenstein"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -210,6 +222,7 @@
   },
   "active": "3e78c97c43ef39cd",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "30k_vault/Characters/Marius Vairosean.md",
     "30k_vault/Characters/Vespasian.md",
     "30k_vault/Characters/Eldrad Ulthran.md",
@@ -226,6 +239,27 @@
     "30k_vault/Omnibus",
     "30k_vault/Books/The Flight of the Eisenstein.md",
     "30k_vault/Home.md",
+=======
+    "30k_vault/Home.md",
+    "30k_vault/Omnibus Volumes/IV. Shattersong.md",
+    "30k_vault/Omnibus Volumes/III. The Burning of Prospero.md",
+    "30k_vault/Omnibus Volumes/II. Shadow Crusade I - Only The Faithful.md",
+    "30k_vault/Books/The Flight of the Eisenstein.md",
+    "30k_vault/Books/Mechanicum.md",
+    "30k_vault/Omnibus Volumes/I. Heresy Rising.md",
+    "30k_vault/Books/Galaxy in Flames.md",
+    "30k_vault/Books/False Gods.md",
+    "30k_vault/Books/Horus Rising.md",
+    "30k_vault/Books/Fulgrim.md",
+    "30k_vault/Books/Angel Exterminatus.md",
+    "30k_vault/Omnibus Volumes/V. Shadow of the Warmaster I - Knives in the Dark.md",
+    "30k_vault/Omnibus Volumes",
+    "30k_vault/Books/Battle For The Abyss.md",
+    "30k_vault/Books/Betrayer.md",
+    "30k_vault/Books/Fear to Tread.md",
+    "30k_vault/Dataview Queries.md",
+    "README.md",
+>>>>>>> Stashed changes
     "30k_vault/Characters/Ignatius Grulgor.md",
     "30k_vault/Characters/Mortarion.md",
     "30k_vault/Characters/Nathaniel Garro.md",
@@ -234,9 +268,12 @@
     "30k_vault/Characters/Calas Typhon.md",
     "30k_vault/Books/Prospero Burns.md",
     "30k_vault/Books/A Thousand Sons.md",
+<<<<<<< Updated upstream
     "30k_vault/Books/Know No Fear.md",
     "30k_vault/Books/The First Heretic.md",
     "30k_vault/Books/Battle For The Abyss.md",
+=======
+>>>>>>> Stashed changes
     "30k_vault/Major Events",
     "30k_vault/Locations",
     "30k_vault/Characters",

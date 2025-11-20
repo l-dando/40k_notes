@@ -1,6 +1,7 @@
 ---
 title: Fear to Tread  
-author: James Swallow  
+author: James Swallow 
+owned: Yes  
 order: 11  
 era: Heresy  
 legions: [Blood Angels]  
