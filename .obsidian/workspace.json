@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30k_vault/Characters/Vespasian.md",
+                "file": "30k_vault/Books/Fulgrim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vespasian"
+              "title": "Fulgrim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e78c97c43ef39cd",
+  "active": "20b974682c604300",
   "lastOpenFiles": [
-    "30k_vault/Characters/Marius Vairosean.md",
     "30k_vault/Characters/Vespasian.md",
+    "30k_vault/Characters/Marius Vairosean.md",
     "30k_vault/Characters/Eldrad Ulthran.md",
     "30k_vault/Books/Fulgrim.md",
     "30k_vault/Books/False Gods.md",
