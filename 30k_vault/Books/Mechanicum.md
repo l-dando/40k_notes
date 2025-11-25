@@ -1,6 +1,7 @@
 ---
 title: Mechanicum  
 author: Graham McNeill  
+owned: Yes 
 order: 10  
 era: Pre-Heresy  
 legions: [None — focuses on the Mechanicum faction]  
