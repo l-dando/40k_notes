@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heresy_Omnibus/Books/Novellas/The Crimson Fist.md",
+                "file": "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Crimson Fist"
+              "title": "Angel Exterminatus"
             }
           }
         ]
@@ -196,13 +196,15 @@
   },
   "active": "6e2c7283b102015a",
   "lastOpenFiles": [
+    "Heresy_Omnibus/Books/Novellas/The Reflection Crack'd.md",
+    "Heresy_Omnibus/Books/Novels/False Gods.md",
+    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
+    "Heresy_Omnibus/Books/Novels/Fulgrim.md",
+    "Heresy_Omnibus/Books/Novellas/The Crimson Fist.md",
     "Heresy_Omnibus/Characters/Erasmus Golg.md",
     "Heresy_Omnibus/Characters/Amandus Tyr.md",
     "Heresy_Omnibus/Characters/Sigismund.md",
     "Heresy_Omnibus/Characters/Alexis Polux.md",
-    "Heresy_Omnibus/Books/Novellas/The Crimson Fist.md",
-    "Heresy_Omnibus/Books/Novels/False Gods.md",
-    "Heresy_Omnibus/Books/Novels/Fulgrim.md",
     "Heresy_Omnibus/Books/Novels/Galaxy in Flames.md",
     "Heresy_Omnibus/Books/Novels/Horus Rising.md",
     "Heresy_Omnibus/Books/Novels/Legion.md",
@@ -220,8 +222,6 @@
     "Heresy_Omnibus/Characters/Barabas Dantioch.md",
     "Heresy_Omnibus/Characters/Angron.md",
     "Heresy_Omnibus/Characters/Garviel Loken.md",
-    "Heresy_Omnibus/Books/Novels/The Lost and the Damned.md",
-    "Heresy_Omnibus/Books/Novels/The First Wall.md",
     "Heresy_Omnibus/Books/Short Stories",
     "Heresy_Omnibus/Books/Novellas",
     "Heresy_Omnibus/Omnibus Map/Phase VIII (Siege of Terra)",

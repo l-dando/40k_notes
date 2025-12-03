@@ -7,7 +7,7 @@ omnibus: "IV. Shattersong "
 omnibus_order: 4
 legions: []  
 themes: []  
-status: reading  
+status: read  
 rating:  
 essential: No
 ---
