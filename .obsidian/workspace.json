@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c3e36de09991b5",
+        "id": "f6757131ae16f37b",
         "type": "tabs",
         "children": [
           {
-            "id": "6e2c7283b102015a",
+            "id": "a994bf05ccfe30c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,22 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e2c7283b102015a",
+  "active": "a994bf05ccfe30c2",
   "lastOpenFiles": [
-    "Heresy_Omnibus/Books/Novellas/The Reflection Crack'd.md",
     "Heresy_Omnibus/Books/Novels/False Gods.md",
     "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
+    "Heresy_Omnibus/Books/Novels/Horus Rising.md",
+    "Heresy_Omnibus/Books/Novels/The Flight of the Eisenstein.md",
+    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
+    "Heresy_Omnibus/Books/Novels/Legion.md",
+    "Heresy_Omnibus/Books/Novels/Galaxy in Flames.md",
     "Heresy_Omnibus/Books/Novels/Fulgrim.md",
+    "Untitled.base",
     "Heresy_Omnibus/Books/Novellas/The Crimson Fist.md",
+    "Heresy_Omnibus/Books/Novellas/The Reflection Crack'd.md",
     "Heresy_Omnibus/Characters/Erasmus Golg.md",
     "Heresy_Omnibus/Characters/Amandus Tyr.md",
     "Heresy_Omnibus/Characters/Sigismund.md",
     "Heresy_Omnibus/Characters/Alexis Polux.md",
-    "Heresy_Omnibus/Books/Novels/Galaxy in Flames.md",
-    "Heresy_Omnibus/Books/Novels/Horus Rising.md",
-    "Heresy_Omnibus/Books/Novels/Legion.md",
-    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
-    "Heresy_Omnibus/Books/Novels/The Flight of the Eisenstein.md",
     "Heresy_Omnibus/Books/Short Stories/The Wolf of Ash and Fire.md",
     "Heresy_Omnibus/Books/Short Stories/The Iron Within.md",
     "Heresy_Omnibus/Books/Short Stories/Lord of the Red Sands.md",
@@ -221,7 +222,6 @@
     "Heresy_Omnibus/Characters/Idriss Krendl.md",
     "Heresy_Omnibus/Characters/Barabas Dantioch.md",
     "Heresy_Omnibus/Characters/Angron.md",
-    "Heresy_Omnibus/Characters/Garviel Loken.md",
     "Heresy_Omnibus/Books/Short Stories",
     "Heresy_Omnibus/Books/Novellas",
     "Heresy_Omnibus/Omnibus Map/Phase VIII (Siege of Terra)",
@@ -231,7 +231,6 @@
     "Heresy_Omnibus/Omnibus Map",
     "Heresy_Omnibus/Characters",
     "Heresy_Omnibus/Books",
-    "Heresy_Omnibus/Characters",
     "Untitled.canvas"
   ]
 }
