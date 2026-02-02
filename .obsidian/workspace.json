@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Angel Exterminatus"
             }
-          },
-          {
-            "id": "bcb2d77178c6fcfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heresy_Omnibus/Omnibus Map/Phase II/III. The Burning of Prospero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "III. The Burning of Prospero"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,25 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcb2d77178c6fcfb",
+  "active": "a994bf05ccfe30c2",
   "lastOpenFiles": [
     "Heresy_Omnibus/Omnibus Map/Phase II/V. Shadow of the Warmaster I - Knives in the Dark.md",
     "Heresy_Omnibus/Omnibus Map/Phase II/IV. Shattersong.md",
     "Heresy_Omnibus/Omnibus Map/Phase II/III. The Burning of Prospero.md",
     "Heresy_Omnibus/Omnibus Map/Phase II/II. Shadow Crusade I - Only the Faithful.md",
-    "Heresy_Omnibus/Omnibus Map/Phase I/I. Heresy Rising.md",
-    "Heresy_Omnibus/Books/Short Stories/Chirurgeon.md",
-    "Heresy_Omnibus/Omnibus Map/Phase II",
     "Heresy_Omnibus/Books/Short Stories/Lucius The Eternal Blademaster.md",
     "Heresy_Omnibus/Books/Short Stories/Ironfire.md",
-    "Heresy_Omnibus/Books/Short Stories/The Wolf of Ash and Fire.md",
-    "Heresy_Omnibus/Books/Short Stories/The Iron Within.md",
-    "Heresy_Omnibus/Books/Short Stories/Lord of the Red Sands.md",
-    "Heresy_Omnibus/Books/Short Stories/Kryptos.md",
     "Heresy_Omnibus/Books/Short Stories/Imperfect.md",
-    "Heresy_Omnibus/Books/Short Stories/Death of a Silversmith.md",
-    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
+    "Heresy_Omnibus/Books/Short Stories/Chirurgeon.md",
     "Heresy_Omnibus/Books/Novels/False Gods.md",
+    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
     "Heresy_Omnibus/Books/Novels/Horus Rising.md",
     "Heresy_Omnibus/Books/Novels/The Flight of the Eisenstein.md",
     "Heresy_Omnibus/Books/Novels/The First Heretic.md",
@@ -239,6 +217,12 @@
     "Heresy_Omnibus/Books/Novellas/The Reflection Crack'd.md",
     "Heresy_Omnibus/Characters/Erasmus Golg.md",
     "Heresy_Omnibus/Characters/Amandus Tyr.md",
+    "Heresy_Omnibus/Characters/Sigismund.md",
+    "Heresy_Omnibus/Characters/Alexis Polux.md",
+    "Heresy_Omnibus/Books/Short Stories/The Wolf of Ash and Fire.md",
+    "Heresy_Omnibus/Books/Short Stories/The Iron Within.md",
+    "Heresy_Omnibus/Books/Short Stories/Lord of the Red Sands.md",
+    "Heresy_Omnibus/Books/Short Stories/Kryptos.md",
     "Heresy_Omnibus/Books/Short Stories",
     "Heresy_Omnibus/Books/Novellas",
     "Heresy_Omnibus/Omnibus Map/Phase VIII (Siege of Terra)",
@@ -247,6 +231,7 @@
     "Heresy_Omnibus/Books/Novels",
     "Heresy_Omnibus/Omnibus Map",
     "Heresy_Omnibus/Characters",
+    "Heresy_Omnibus/Books",
     "Untitled.canvas"
   ]
 }
