@@ -2,7 +2,7 @@
 title: Angel Exterminatus
 author: Graham McNeill
 owned: Yes
-omnibus: "IV. Shattersong "
+omnibus: "IV. Shattersong"
 omnibus_order: 6
 legions: []  
 themes: []  
