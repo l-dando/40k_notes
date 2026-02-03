@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40K/Order.md",
+                "file": "Heresy_Omnibus/Books/Short Stories/Chirurgeon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Order"
+              "title": "Chirurgeon"
             }
           }
         ]
@@ -194,11 +194,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c3a87f958872bd5",
+  "active": "a994bf05ccfe30c2",
   "lastOpenFiles": [
-    "40K/Characters",
-    "40K/Books",
-    "Heresy_Omnibus/Books/Short Stories/Chirurgeon.md",
     "40K/Order.md",
     "40K",
     "Heresy_Omnibus/Books/Short Stories/Lucius The Eternal Blademaster.md",
@@ -209,6 +206,7 @@
     "Heresy_Omnibus/Omnibus Map/Phase II/III. The Burning of Prospero.md",
     "Heresy_Omnibus/Omnibus Map/Phase II/II. Shadow Crusade I - Only the Faithful.md",
     "Heresy_Omnibus/Books/Short Stories/Imperfect.md",
+    "Heresy_Omnibus/Books/Short Stories/Chirurgeon.md",
     "Heresy_Omnibus/Books/Novels/False Gods.md",
     "Heresy_Omnibus/Books/Novels/Horus Rising.md",
     "Heresy_Omnibus/Books/Novels/The Flight of the Eisenstein.md",
@@ -225,6 +223,7 @@
     "Heresy_Omnibus/Characters/Alexis Polux.md",
     "Heresy_Omnibus/Books/Short Stories/The Wolf of Ash and Fire.md",
     "Heresy_Omnibus/Books/Short Stories/The Iron Within.md",
+    "Heresy_Omnibus/Books/Short Stories/Lord of the Red Sands.md",
     "Heresy_Omnibus/Books/Short Stories",
     "Heresy_Omnibus/Books/Novellas",
     "Heresy_Omnibus/Omnibus Map/Phase VIII (Siege of Terra)",
@@ -232,6 +231,7 @@
     "Heresy_Omnibus/Omnibus Map/Phase I",
     "Heresy_Omnibus/Books/Novels",
     "Heresy_Omnibus/Omnibus Map",
+    "Heresy_Omnibus/Characters",
     "Untitled.canvas"
   ]
 }
