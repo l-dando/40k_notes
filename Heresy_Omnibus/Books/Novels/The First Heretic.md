@@ -2,8 +2,8 @@
 title: The First Heretic
 author: Aaron Dembski-Bowden
 owned: Yes
-omnibus: ""
-omnibus_order: 
+omnibus: "II. Shadow Crusade I - Only the Faithful"
+omnibus_order: 3
 legions: [Word Bearers]
 themes: [Chaos Influence, Faith, Betrayal]
 status: read
