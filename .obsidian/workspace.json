@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
+                "file": "Heresy_Omnibus/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Honour to the Dead"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "c414e04fef5dd2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heresy_Omnibus/Books/Novels/Betrayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Betrayer"
             }
           }
         ]
@@ -196,14 +210,32 @@
   },
   "active": "a994bf05ccfe30c2",
   "lastOpenFiles": [
+    "Heresy_Omnibus/Omnibus Map/Phase III/VI. Shadow Crusade II - Underworld War.md",
     "Heresy_Omnibus/Books/Novels/Know No Fear.md",
-    "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
-    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
-    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
+    "Heresy_Omnibus/Omnibus Map/Phase III",
+    "Heresy_Omnibus/Home.md",
     "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
-    "Heresy_Omnibus/Books/Short Stories/Scions of the Storm.md",
-    "Heresy_Omnibus/Omnibus Map/Phase II/II. Shadow Crusade I - Only the Faithful.md",
+    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
     "Heresy_Omnibus/Books/Novels/Legion.md",
+    "Heresy_Omnibus/Books/Novels/Betrayer.md",
+    "Heresy_Omnibus/Books/Novels/Slaves to Darkness.md",
+    "Heresy_Omnibus/Omnibus Map/Phase VII/XX. Shadow of the Warmaster IV - The Dead and the Dying.md",
+    "Heresy_Omnibus/Books/Novels/The Master of Mankind.md",
+    "Heresy_Omnibus/Books/Novels/The Master of Mankind 1.md",
+    "Heresy_Omnibus/Omnibus Map/Phase VII",
+    "Heresy_Omnibus/Books/Novels/Prospero Burns.md",
+    "Heresy_Omnibus/Omnibus Map/Phase VI/XVIII. Omnissiah II - End of Empires.md",
+    "Heresy_Omnibus/Books/Novels/Praetorian of Dorn.md",
+    "Heresy_Omnibus/Omnibus Map/Phase VI",
+    "Heresy_Omnibus/Omnibus Map/Phase V/XV. Scale and Stone.md",
+    "Heresy_Omnibus/Omnibus Map/Phase IV/X. Shadow Crusade III - Chosen of Chaos.md",
+    "Heresy_Omnibus/Omnibus Map/Phase V",
+    "Heresy_Omnibus/Omnibus Map/Phase II/II. Shadow Crusade I - Only the Faithful.md",
+    "Heresy_Omnibus/Omnibus Map/Phase IV",
+    "Heresy_Omnibus/Books/Novels/Know no Fe.md",
+    "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
+    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
+    "Heresy_Omnibus/Books/Short Stories/Scions of the Storm.md",
     "40K/Order.md",
     "40K/Characters",
     "40K/Books",
@@ -212,26 +244,8 @@
     "Heresy_Omnibus/Books/Short Stories/Lucius The Eternal Blademaster.md",
     "Heresy_Omnibus/Books/Short Stories/Ironfire.md",
     "Heresy_Omnibus/Omnibus Map/Phase II/V. Shadow of the Warmaster I - Knives in the Dark.md",
-    "Heresy_Omnibus/Omnibus Map/Phase II/IV. Shattersong.md",
-    "Heresy_Omnibus/Omnibus Map/Phase II/III. The Burning of Prospero.md",
-    "Heresy_Omnibus/Books/Short Stories/Imperfect.md",
-    "Heresy_Omnibus/Books/Novels/False Gods.md",
-    "Heresy_Omnibus/Books/Novels/Horus Rising.md",
-    "Heresy_Omnibus/Books/Novels/The Flight of the Eisenstein.md",
-    "Heresy_Omnibus/Books/Novels/Galaxy in Flames.md",
-    "Heresy_Omnibus/Books/Novels/Fulgrim.md",
     "Untitled.base",
-    "Heresy_Omnibus/Books/Novellas/The Crimson Fist.md",
-    "Heresy_Omnibus/Books/Novellas/The Reflection Crack'd.md",
-    "Heresy_Omnibus/Characters/Erasmus Golg.md",
-    "Heresy_Omnibus/Characters/Amandus Tyr.md",
-    "Heresy_Omnibus/Characters/Sigismund.md",
     "Heresy_Omnibus/Books/Short Stories",
-    "Heresy_Omnibus/Books/Novellas",
-    "Heresy_Omnibus/Omnibus Map/Phase VIII (Siege of Terra)",
-    "Heresy_Omnibus/Omnibus Map/Phase II",
-    "Heresy_Omnibus/Omnibus Map/Phase I",
-    "Heresy_Omnibus/Books/Novels",
     "Untitled.canvas"
   ]
 }

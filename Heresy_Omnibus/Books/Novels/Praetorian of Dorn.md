@@ -1,9 +1,9 @@
 ---
-title: Know No Fear
-author: Dan Abnett
+title: Praetorian of Dorn
+author: John French
 owned: Yes
-omnibus: "VI. Shadow Crusade II - Underworld War"
-omnibus_order: 2
+omnibus: "XV. Scale and Stone"
+omnibus_order: 12
 legions: []  
 themes: []  
 status: to_read  

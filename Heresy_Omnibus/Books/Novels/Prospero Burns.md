@@ -1,9 +1,9 @@
 ---
-title: Know No Fear
+title: Prospero Burns
 author: Dan Abnett
 owned: Yes
-omnibus: "VI. Shadow Crusade II - Underworld War"
-omnibus_order: 2
+omnibus: "III. The Burning of Prospero"
+omnibus_order: 3
 legions: []  
 themes: []  
 status: to_read  
@@ -12,4 +12,3 @@ essential: Yes
 ---
 
 # 🧭 Overview
-
