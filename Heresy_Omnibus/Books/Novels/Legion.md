@@ -8,7 +8,7 @@ legions: [Alpha Legion]
 themes: [Secrecy, Duality, Espionage, Identity]  
 status: read  
 rating:  
-essential: Yes
+essential: No
 ---
 
 ## 🧭 Overview

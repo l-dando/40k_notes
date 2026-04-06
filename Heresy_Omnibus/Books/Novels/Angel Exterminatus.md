@@ -8,7 +8,7 @@ legions: []
 themes: []  
 status: read  
 rating:  
-essential: Yes
+essential: No
 ---
 
 # 🧭 Overview
