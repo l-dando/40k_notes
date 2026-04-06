@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40K/Order.md",
+                "file": "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Order"
+              "title": "Battle for the Abyss"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c3a87f958872bd5",
+  "active": "a994bf05ccfe30c2",
   "lastOpenFiles": [
+    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
+    "40K/Order.md",
     "Heresy_Omnibus/Omnibus Map/Phase I/I. Heresy Rising.md",
     "Heresy_Omnibus/Books/Novels/Betrayer.md",
     "Heresy_Omnibus/Home.md",
@@ -204,7 +206,6 @@
     "Heresy_Omnibus/Books/Novels/Know No Fear.md",
     "Heresy_Omnibus/Omnibus Map/Phase III",
     "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
-    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
     "Heresy_Omnibus/Books/Novels/Legion.md",
     "Heresy_Omnibus/Books/Novels/Slaves to Darkness.md",
     "Heresy_Omnibus/Omnibus Map/Phase VII/XX. Shadow of the Warmaster IV - The Dead and the Dying.md",
@@ -224,7 +225,6 @@
     "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
     "Heresy_Omnibus/Books/Novels/The First Heretic.md",
     "Heresy_Omnibus/Books/Short Stories/Scions of the Storm.md",
-    "40K/Order.md",
     "40K/Characters",
     "40K/Books",
     "Heresy_Omnibus/Books/Short Stories/Chirurgeon.md",
