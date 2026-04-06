@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Luce Spinoza"
             }
+          },
+          {
+            "id": "0a7a6b37e61d5d58",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,14 +189,23 @@
               "icon": "lucide-info",
               "title": "File properties for README"
             }
+          },
+          {
+            "id": "7e17a20fe35fccd7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +219,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a994bf05ccfe30c2",
+  "active": "0a7a6b37e61d5d58",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "40K/Characters/Luce Spinoza.md",
     "40K/Characters/Erasmus Crowl.md",
     "40K/Books/The Carrion Throne.md",
-    "40K/Characters/Luce Spinoza.md",
     "Erasmus Crowl.md",
     "40K/Order.md",
     "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
@@ -226,7 +252,6 @@
     "Heresy_Omnibus/Omnibus Map/Phase II/II. Shadow Crusade I - Only the Faithful.md",
     "Heresy_Omnibus/Omnibus Map/Phase IV",
     "Heresy_Omnibus/Books/Novels/Know no Fe.md",
-    "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
     "40K/Characters",
     "40K/Books",
     "40K",
