@@ -13,27 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40K/Characters/Luce Spinoza.md",
+                "file": "40K/Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luce Spinoza"
+              "title": "Order"
             }
           },
           {
-            "id": "0a7a6b37e61d5d58",
+            "id": "32160969b0e28c37",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Heresy_Omnibus/Books/Novels/The First Heretic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "The First Heretic"
             }
           }
         ],
@@ -191,7 +190,7 @@
             }
           },
           {
-            "id": "7e17a20fe35fccd7",
+            "id": "7c47b6db4055d2ed",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -219,43 +218,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a7a6b37e61d5d58",
+  "active": "32160969b0e28c37",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "40K/Characters/Luce Spinoza.md",
-    "40K/Characters/Erasmus Crowl.md",
-    "40K/Books/The Carrion Throne.md",
-    "Erasmus Crowl.md",
-    "40K/Order.md",
-    "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
-    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
-    "Heresy_Omnibus/Omnibus Map/Phase I/I. Heresy Rising.md",
-    "Heresy_Omnibus/Books/Novels/Betrayer.md",
     "Heresy_Omnibus/Home.md",
     "Heresy_Omnibus/Books/Novels/Fulgrim.md",
-    "Heresy_Omnibus/Omnibus Map/Phase III/VI. Shadow Crusade II - Underworld War.md",
-    "Heresy_Omnibus/Books/Novels/Know No Fear.md",
-    "Heresy_Omnibus/Omnibus Map/Phase III",
-    "Heresy_Omnibus/Books/Novels/Legion.md",
-    "Heresy_Omnibus/Books/Novels/Slaves to Darkness.md",
-    "Heresy_Omnibus/Omnibus Map/Phase VII/XX. Shadow of the Warmaster IV - The Dead and the Dying.md",
-    "Heresy_Omnibus/Books/Novels/The Master of Mankind.md",
-    "Heresy_Omnibus/Books/Novels/The Master of Mankind 1.md",
-    "Heresy_Omnibus/Omnibus Map/Phase VII",
-    "Heresy_Omnibus/Books/Novels/Prospero Burns.md",
-    "Heresy_Omnibus/Omnibus Map/Phase VI/XVIII. Omnissiah II - End of Empires.md",
-    "Heresy_Omnibus/Books/Novels/Praetorian of Dorn.md",
-    "Heresy_Omnibus/Omnibus Map/Phase VI",
-    "Heresy_Omnibus/Omnibus Map/Phase V/XV. Scale and Stone.md",
-    "Heresy_Omnibus/Omnibus Map/Phase IV/X. Shadow Crusade III - Chosen of Chaos.md",
-    "Heresy_Omnibus/Omnibus Map/Phase V",
+    "Heresy_Omnibus/Books/Novels/Betrayer.md",
+    "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
+    "Heresy_Omnibus/Books/Novels/Angel Exterminatus.md",
+    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
     "Heresy_Omnibus/Omnibus Map/Phase II/II. Shadow Crusade I - Only the Faithful.md",
-    "Heresy_Omnibus/Omnibus Map/Phase IV",
-    "Heresy_Omnibus/Books/Novels/Know no Fe.md",
+    "Heresy_Omnibus/Omnibus Map/Phase II/III. The Burning of Prospero.md",
+    "Heresy_Omnibus/Omnibus Map/Phase II/IV. Shattersong.md",
+    "Heresy_Omnibus/Omnibus Map/Phase II/V. Shadow of the Warmaster I - Knives in the Dark.md",
+    "Heresy_Omnibus/Omnibus Map/Phase III/VI. Shadow Crusade II - Underworld War.md",
+    "Untitled.base",
+    "Erasmus Crowl.md",
+    "README.md",
+    "40K/Books/The Carrion Throne.md",
+    "40K/Characters/Luce Spinoza.md",
+    "40K/Characters/Erasmus Crowl.md",
     "40K/Characters",
     "40K/Books",
+    "conflict-files-obsidian-git.md",
+    "Heresy_Omnibus/Omnibus Map/Phase VI/XVIII. Omnissiah II - End of Empires.md",
+    "Heresy_Omnibus/Omnibus Map/Phase V/XV. Scale and Stone.md",
+    "Heresy_Omnibus/Omnibus Map/Phase V",
+    "Heresy_Omnibus/Omnibus Map/Phase IV/X. Shadow Crusade III - Chosen of Chaos.md",
+    "Heresy_Omnibus/Omnibus Map/Phase IV",
+    "Heresy_Omnibus/Omnibus Map/Phase III",
+    "Heresy_Omnibus/Books/Short Stories/Scions of the Storm.md",
+    "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
+    "Heresy_Omnibus/Books/Novels/The Master of Mankind.md",
+    "Heresy_Omnibus/Books/Novels/Slaves to Darkness.md",
+    "Heresy_Omnibus/Books/Novels/Prospero Burns.md",
+    "Heresy_Omnibus/Books/Novels/Praetorian of Dorn.md",
+    "Heresy_Omnibus/Omnibus Map/Phase VII",
+    "Heresy_Omnibus/Omnibus Map/Phase VI",
     "40K",
-    "Untitled.base",
     "Heresy_Omnibus/Books/Short Stories",
     "Untitled.canvas"
   ]
