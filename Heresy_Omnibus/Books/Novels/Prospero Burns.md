@@ -4,15 +4,15 @@ author: Dan Abnett
 owned: Yes
 omnibus: "III. The Burning of Prospero"
 omnibus_order: 3
-legions: []  
-themes: []  
-status: read  
-rating:  
+legions: [Space Wolves, Thousand Sons]
+themes: [Identity, Memory, Manipulation, Retribution]
+status: read
+rating:
 essential: Yes
 ---
 
 
-# 🧭 Overview
+## 🧭 Overview
 *Prospero Burns* tells the story of Kasper Ansbach Hawser — a Terran conservator, scholar, and unwitting pawn — whose life becomes entangled with the Space Wolves Legion. Through his eyes, the novel explores the culture of the VI Legion, the mysteries of Fenris, and the hidden manipulations that lead to the burning of Prospero. It is a tale of identity, memory, and the shadow war between the Wolves and the Thousand Sons.
 
 ---
@@ -51,6 +51,24 @@ Bear’s true name is revealed as **Bjorn**, the future Dreadnought hero of the 
 After the battle, Hawser speaks with Leman Russ one final time before voluntarily entering indefinite stasis, ensuring he can never again be used as a weapon against the Wolves.
 
 ---
+
+## 🧠 Themes
+- Identity fractured by psychic manipulation  
+- Loyalty tested by secrecy and vengeance  
+- Memory as both weapon and shield
+
+## ⚔️ Legion Focus
+- Space Wolves: [[Heresy_Omnibus/Characters/Leman Russ|Leman Russ]], [[Heresy_Omnibus/Characters/Bjorn|Bjorn]], [[Heresy_Omnibus/Characters/Ohthere Wyrdmake|Ohthere Wyrdmake]]  
+- Thousand Sons: [[Heresy_Omnibus/Characters/Amon (Thousand Sons)|Amon]], [[Magnus the Red]]
+
+## 📝 Notes
+- [[Heresy_Omnibus/Characters/Kasper Hawser|Kasper Hawser]] is positioned as both narrator and manipulated vector.  
+- The repeated line “there are no wolves on Fenris” reinforces the novel’s ambiguity and mythic framing.  
+- The confrontation on Prospero reveals third-party Warp manipulation behind key escalation points.
+
+## 🔗 Connections
+- Directly intersects with the Burning of Prospero arc and the enforcement of the Edict of Nikaea  
+- Complements Thousand Sons perspectives from parallel Heresy-era narratives
 
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
