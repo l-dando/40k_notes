@@ -75,6 +75,27 @@ Alone with [[Cyrene Valantion|Cyrene]]’s final message, [[Argel Tal]] mourns h
 ## 🧩 Tags
 #TheFirstHeretic #WordBearers #HeraldsOfHeresy #ChaosPilgrimage #PreHeresy
 
+## 🎭 Dramatis Personae
+- [[Emperor]]
+- [[Lorgar Aurelian]]
+- [[Argel Tal]]
+- [[Horus Lupercal]]
+- [[Cyrene Valantion]]
+- [[Malcador the Sigillite]]
+- [[Kor Phaeron]]
+- [[Erebus]]
+- [[Magnus the Red]]
+- [[Ingethel]]
+- [[Vendatha]]
+- [[Aquillon]]
+- [[Raum]]
+- [[Corvus Corax]]
+- [[Konrad Curze]]
+- [[Dagotal]]
+- [[Malnor]]
+- [[Xaphen]]
+
+
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
 - Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

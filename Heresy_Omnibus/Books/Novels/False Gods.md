@@ -66,6 +66,31 @@ After Varvarus’s funeral, [[Horus Lupercal|Horus]] begins “cleaning house.�
 ## 🧩 Tags
 #FalseGods #LunaWolves #WordBearers #ChaosInfluence #Betrayal #PreHeresy
 
+## 🎭 Dramatis Personae
+- [[Horus Lupercal]]
+- [[Erebus]]
+- [[Petronella Vivar]]
+- [[Eugen Temba]]
+- [[Ignace Karkasy]]
+- [[Garviel Loken]]
+- [[Ezekyle Abaddon]]
+- [[Maggard]]
+- [[Tarik Torgaddon]]
+- [[Mersadie Oliton]]
+- [[Euphrati Keeler]]
+- [[Tybalt Marr]]
+- [[Hastur Sejanus]]
+- [[Emperor]]
+- [[Kyril Sindermann]]
+- [[Lorgar Aurelian]]
+- [[Magnus the Red]]
+- [[Regulus]]
+- [[Hektor Varvarus]]
+- [[Angron]]
+- [[Fabius Bile]]
+- [[Fulgrim]]
+
+
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
 - Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

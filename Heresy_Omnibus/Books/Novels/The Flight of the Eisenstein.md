@@ -51,6 +51,25 @@ Summoned before [[Malcador the Sigillite]], [[Nathaniel Garro|Garro]], Qruze, an
 - Follows directly from *[[Galaxy in Flames]]*  
 - Bridges the gap between early Heresy and Terra’s response
 
+## 🎭 Dramatis Personae
+- [[Horus Lupercal]]
+- [[Nathaniel Garro]]
+- [[Emperor]]
+- [[Eidolon]]
+- [[Fabius Bile]]
+- [[Ignatius Grulgor]]
+- [[Saul Tarvitz]]
+- [[Kyril Sindermann]]
+- [[Euphrati Keeler]]
+- [[Mersadie Oliton]]
+- [[Iacton Qruze]]
+- [[Calas Typhon]]
+- [[Solun Decius]]
+- [[Rogal Dorn]]
+- [[Malcador the Sigillite]]
+- [[Amendera Kendel]]
+
+
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
 - Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

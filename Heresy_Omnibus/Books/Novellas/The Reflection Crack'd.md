@@ -28,6 +28,18 @@ In the Apothecarion, the conspirators torture [[Heresy_Omnibus/Characters/Fulgri
 ## 🏷︎ Tags
 #TheReflectionCrackd #Fulgrim #EmperorsChildren #Lucius #Chaos #HorusHeresy
 
+## 🎭 Dramatis Personae
+- [[Emperor]]
+- [[Fulgrim]]
+- [[Horus Lupercal]]
+- [[Eidolon]]
+- [[Lucius]]
+- [[Julius Kaesoron]]
+- [[Fabius Bile]]
+- [[Marius Vairosean]]
+- [[Perturabo]]
+
+
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
 - Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

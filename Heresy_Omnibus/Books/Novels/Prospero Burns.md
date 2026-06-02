@@ -71,35 +71,45 @@ After the battle, [[Kasper Hawser|Hawser]] speaks with [[Leman Russ]] one final 
 - Complements Thousand Sons perspectives from parallel Heresy-era narratives
 
 ## 🎭 Dramatis Personae
-- [[Leman Russ]] — Primarch of the Space Wolves  
-- [[Magnus the Red]] — Primarch of the Thousand Sons  
-- [[Gunnar Gunnhilt]] — Lord of the 1st Company  
-- [[Amlodhi Skarssen Skarssensson]] — Lord of the 5th Company  
-- [[Ogvai Ogvai Helmschrot]] — Lord of the 3rd Company  
-- [[Bjorn|Bear (Bjorn)]] — of the 3rd Company  
-- [[Varangr]] — Herald to Lord Skarssensson  
-- [[Ulvurul Heoroth]] — Rune Priest  
-- [[Aun Helwintr]] — Rune Priest of the 3rd Company  
-- [[Ohthere Wyrdmake]] — Rune Priest of the 5th Company  
-- [[Aeska]]  
-- [[Fith Godsmote]]  
-- [[Orcir]]  
-- [[Jormungndr]]  
-- [[Ullste]]  
-- [[Erthung Redhand]]  
-- [[Oje]]  
-- [[Svessl]]  
-- [[Emrah]]  
-- [[Horune]]  
-- [[Najot Threader]] — Wolf Priest  
-- [[Trunc]]  
-- [[Bitur Bercaw]]  
-- [[Kasper Hawser]] (Kasper Ansbach [[Kasper Hawser|Hawser]] / Ahmad Ibn Rustah) — Conservator  
-- [[Rector Uwe]]  
-- [[Fith of the Ascomanni]]  
-- [[Guthox of the Ascomanni]]  
-- [[Brom of the Ascomanni]]  
+- [[Kasper Hawser]]
+- [[Amlodhi Skarssen Skarssensson]]
+- [[Ohthere Wyrdmake]]
+- [[Ulvurul Heoroth]]
+- [[Aun Helwintr]]
+- [[Leman Russ]]
+- [[Fulgrim]]
+- [[Constantin Valdor]]
+- [[Raldoron]]
+- [[Calas Typhon]]
+- [[Amon Tauromachian]]
+- [[Emperor]]
+- [[Fith Godsmote]]
+- [[Eada Haelwolf]]
+- [[Horus Lupercal]]
+- [[Magnus the Red]]
+- [[Bjorn]]
+- [[Amon (Thousand Sons)]]
+- [[Gunnar Gunnhilt]]
+- [[Ogvai Ogvai Helmschrot]]
+- [[Varangr]]
+- [[Aeska]]
+- [[Orcir]]
+- [[Jormungndr]]
+- [[Ullste]]
+- [[Erthung Redhand]]
+- [[Oje]]
+- [[Svessl]]
+- [[Emrah]]
+- [[Horune]]
+- [[Najot Threader]]
+- [[Trunc]]
+- [[Bitur Bercaw]]
+- [[Rector Uwe]]
+- [[Fith of the Ascomanni]]
+- [[Guthox of the Ascomanni]]
+- [[Brom of the Ascomanni]]
 - [[Lern of the Ascomanni]]
+
 
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Prospero_Burns_(Novel)

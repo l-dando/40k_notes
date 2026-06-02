@@ -62,6 +62,27 @@ The [[Drop Site Massacre]] begins. The [[Iron Hands]], Salamanders, and [[Raven 
 - Deepens the portrayal of Chaos’s subtle influence  
 -
 
+## 🎭 Dramatis Personae
+- [[Emperor]]
+- [[Serena d’Angelus]]
+- [[Ostian Delafour]]
+- [[Bequa Kynska]]
+- [[Fulgrim]]
+- [[Fabius Bile]]
+- [[Eidolon]]
+- [[Solomon Demeter]]
+- [[Julius Kaesoron]]
+- [[Ferrus Manus]]
+- [[Eldrad Ulthran]]
+- [[Leopold Cadmus]]
+- [[Horus Lupercal]]
+- [[Ormond Braxton]]
+- [[Lucius]]
+- [[Erebus]]
+- [[Saul Tarvitz]]
+- [[Vespasian]]
+
+
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
 - Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

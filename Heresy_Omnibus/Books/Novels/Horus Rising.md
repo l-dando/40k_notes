@@ -62,6 +62,28 @@ The Interex are subjugated, but [[Garviel Loken|Loken]] takes no pride in the vi
 ## 🧩 Tags
 #HorusRising #LunaWolves #ImperialTruth #Loyalty #Corruption #PreHeresy  
 
+## 🎭 Dramatis Personae
+- [[Horus Lupercal]]
+- [[Emperor]]
+- [[Hastur Sejanus]]
+- [[Ezekyle Abaddon]]
+- [[Tarik Torgaddon]]
+- [[Horus Aximand]]
+- [[Garviel Loken]]
+- [[Mersadie Oliton]]
+- [[Kyril Sindermann]]
+- [[Ignace Karkasy]]
+- [[Rogal Dorn]]
+- [[Xavyer Jubal]]
+- [[Euphrati Keeler]]
+- [[Eidolon]]
+- [[Saul Tarvitz]]
+- [[Lucius]]
+- [[Nero Vipus]]
+- [[Sanguinius]]
+- [[Erebus]]
+
+
 ## 📚 Sources
 - Lexicanum (archived): https://web.archive.org/web/20260309001155/https://wh40k.lexicanum.com/wiki/Horus_Rising_(Novel)
 - Warhammer 40k Fandom Wiki (archived root): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

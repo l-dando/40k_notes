@@ -58,6 +58,37 @@ In the ruins of the parliament building, [[Garviel Loken|Loken]] duels [[Ezekyle
 - Concludes the opening trilogy  
 - Sets the stage for broader conflict across the Imperium
 
+## 🎭 Dramatis Personae
+- [[Horus Lupercal]]
+- [[Angron]]
+- [[Mortarion]]
+- [[Fulgrim]]
+- [[Emperor]]
+- [[Euphrati Keeler]]
+- [[Kyril Sindermann]]
+- [[Ing Mae Sing]]
+- [[Titus Cassar]]
+- [[Jonah Aruken]]
+- [[Maggard]]
+- [[Nathaniel Garro]]
+- [[Eidolon]]
+- [[Saul Tarvitz]]
+- [[Fabius Bile]]
+- [[Garviel Loken]]
+- [[Tarik Torgaddon]]
+- [[Lucius]]
+- [[Vardus Praal]]
+- [[Mersadie Oliton]]
+- [[Esau Turnet]]
+- [[Iacton Qruze]]
+- [[Charmosian]]
+- [[Serghar Targost]]
+- [[Luc Sedirae]]
+- [[Ezekyle Abaddon]]
+- [[Horus Aximand]]
+- [[Khârn]]
+
+
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
 - Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
