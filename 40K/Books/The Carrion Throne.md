@@ -18,3 +18,8 @@ essential: Yes
 In the decaying sprawl of Holy Terra at the end of the 41st Millennium, Inquisitor [[Erasmus Crowl]] of the Ordo Hereticus uncovers signs of a hidden conspiracy festering at the very heart of the Imperium. Assisted by his newly elevated acolyte [[Luce Spinoza]], Crowl follows a trail of murders, forbidden technologies, and political manipulation through the underhives, administratum warrens, and the shadowed precincts surrounding the Imperial Palace.
 
 As their investigation deepens, the pair are hunted by unknown forces—heretics, xenos agents, cultists, or even rival Inquisitors—each seemingly intent on burying the truth. What begins as a routine inquiry spirals into a revelation so dangerous that its exposure could destabilize the Imperium itself. The novel paints Terra not as a shining beacon of humanity, but as a suffocating, paranoid metropolis where faith, bureaucracy, and corruption intertwine, and where even the Inquisition must tread carefully.
+
+## 📚 Sources
+- Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
+- Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
+- Heresy Omnibus: https://www.heresyomnibus.com/
