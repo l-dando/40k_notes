@@ -26,3 +26,6 @@ An honourable and principled captain, Loken is respected for his humanity and mo
 - Trusted by [[Heresy_Omnibus/Characters/Rogal Dorn]].
 - Close friendship with Torgaddon; ideological conflict with Abaddon and Aximand.
 
+## 📚 Sources
+- Lexicanum (archived): https://web.archive.org/web/20251222004814/https://wh40k.lexicanum.com/wiki/Garviel_Loken
+- Warhammer 40k Fandom Wiki (archived root): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

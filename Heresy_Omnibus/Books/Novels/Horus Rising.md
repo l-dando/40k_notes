@@ -61,3 +61,7 @@ The Interex are subjugated, but Loken takes no pride in the victory, born of a m
 
 ## 🧩 Tags
 #HorusRising #LunaWolves #ImperialTruth #Loyalty #Corruption #PreHeresy  
+
+## 📚 Sources
+- Lexicanum (archived): https://web.archive.org/web/20260309001155/https://wh40k.lexicanum.com/wiki/Horus_Rising_(Novel)
+- Warhammer 40k Fandom Wiki (archived root): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
