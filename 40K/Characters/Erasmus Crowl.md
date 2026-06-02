@@ -1,11 +1,18 @@
 ---
-name: Erasmus Cowl
+name: Erasmus Crowl
 titles: [Inquisitor of the Ordo Hereticus]
-affiliation: 
-first_appearance: 
-books: 
+affiliation: Ordo Hereticus
+first_appearance: Vaults of Terra: The Carrion Throne
+books: [Vaults of Terra: The Carrion Throne]
 status: encountered
 ---
-## Overview
-A seasoned, sharp‑minded Inquisitor whose authority is matched only by his paranoia. Crowl is deeply embedded in the political and bureaucratic labyrinth of Terra, navigating its corruption with a mixture of cynicism and duty.
 
+## Overview
+A seasoned, suspicious, and highly capable inquisitor operating in the political and institutional labyrinth of Holy Terra.
+
+## Connections
+- Protagonist of [[40K/Books/The Carrion Throne]].
+- Mentor to [[40K/Characters/Luce Spinoza]].
+
+## Tags
+#ErasmusCrowl #Inquisition #VaultsOfTerra

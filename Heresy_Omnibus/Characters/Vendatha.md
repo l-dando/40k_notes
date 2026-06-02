@@ -13,7 +13,7 @@ A Shield-Captain of the Custodes assigned to monitor the Word Bearers during the
 ## ⚔️ Role in The First Heretic
 - Accompanies the 1,301st Expedition into the Cadian system.
 - Opposes [[Heresy_Omnibus/Characters/Lorgar Aurelian]]’s participation in the tribal ritual on Cadia.
-- Kills [[horus_heresy_vault/03_characters/Deumos]] and two other Word Bearers before being mortally wounded by [[Xaphen]] and [[Argel Tal]].
+- Kills [[Heresy_Omnibus/Characters/Deumos|Deumos]] and two other Word Bearers before being mortally wounded by [[Xaphen]] and [[Argel Tal]].
 - Used as the tenth sacrifice in Ingethel’s ritual.
 
 ## 🔗 Connections

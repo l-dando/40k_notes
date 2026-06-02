@@ -39,7 +39,7 @@ Horus seeks peaceful relations with the Interex, travelling to their homeworld f
 
 At a reception, Loken learns from an Interex guard that they fear the taint of “Kaos” in the newcomers — a threat described by the Eldar as insidious and destructive. Loken begins to bridge understanding, but before progress can be made, an alarm sounds: the Interex’s museum of dangerous xenos artefacts has been breached. Believing the Astartes responsible, the Interex attack. Horus’s pleas for a cease‑fire are ignored, and the Luna Wolves fight through the city.
 
-The Interex are subjugated, but Loken takes no pride in the victory, born of a misunderstanding over the theft of an anathame — a semi‑sentient weapon forged by one of the Interex’s subject races. Horus denies involvement, but in secret, First Chaplain [[Erebus]] of the Word Bearers examines the stolen blade aboard the *Vengeful Spirit*, contemplating its potential. Keeler thanks the Emperor for placing humanity’s fate in Horus’s hands, as the Luna Wolves are renamed the Sons of Horus. Loken tells Oliton their next destination: a small moon in the Davin System, at Erebus’s request…
+The Interex are subjugated, but Loken takes no pride in the victory, born of a misunderstanding over the theft of an [[Heresy_Omnibus/Items/Anathame|anathame]] — a semi‑sentient weapon forged by one of the Interex’s subject races. Horus denies involvement, but in secret, First Chaplain [[Erebus]] of the Word Bearers examines the stolen blade aboard the *Vengeful Spirit*, contemplating its potential. Keeler thanks the Emperor for placing humanity’s fate in Horus’s hands, as the Luna Wolves are renamed the Sons of Horus. Loken tells Oliton their next destination: a small moon in the Davin System, at Erebus’s request…
 
 ## 🧠 Themes
 - Imperial Truth challenged by individual faith  
@@ -61,3 +61,7 @@ The Interex are subjugated, but Loken takes no pride in the victory, born of a m
 
 ## 🧩 Tags
 #HorusRising #LunaWolves #ImperialTruth #Loyalty #Corruption #PreHeresy  
+
+## 📚 Sources
+- Lexicanum (archived): https://web.archive.org/web/20260309001155/https://wh40k.lexicanum.com/wiki/Horus_Rising_(Novel)
+- Warhammer 40k Fandom Wiki (archived root): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki

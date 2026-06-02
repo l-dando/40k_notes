@@ -13,7 +13,7 @@ A painter obsessed with sensation and perfection, d’Angelus becomes increasing
 ## ⚔️ Role in Fulgrim
 - Attends Bequa Kynska’s recital aboard the *Pride of the Emperor*.
 - Obsessed with the Laer temple, begins painting with blood to overcome her artistic block.
-- Creates a distorted portrait of [[30k_vault/Characters/Fulgrim]], reflecting his corruption.
+- Creates a distorted portrait of [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]], reflecting his corruption.
 - Confesses her murder of [[Heresy_Omnibus/Characters/Leopold Cadmus]] to [[Heresy_Omnibus/Characters/Lucius]], inspiring his self‑scarification.
 - Finds [[Heresy_Omnibus/Characters/Ostian Delafour]]’s corpse and, overcome with grief, commits suicide.
 

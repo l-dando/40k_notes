@@ -1,11 +1,18 @@
 ---
 name: Luce Spinoza
-titles: [Acolyte]
-affiliation: 
-first_appearance: 
-books: 
+titles: [Interrogator]
+affiliation: Ordo Hereticus
+first_appearance: Vaults of Terra: The Carrion Throne
+books: [Vaults of Terra: The Carrion Throne]
 status: encountered
 ---
 
 ## Overview
- A former Arbitrator with a strong sense of justice and a grounded, practical approach to danger. Spinoza serves as the reader’s primary viewpoint, offering a more human perspective on Terra’s oppressive environment.
+A former Arbitrator turned inquisitorial agent whose discipline and pragmatism ground the investigation on Terra.
+
+## Connections
+- Works with [[40K/Characters/Erasmus Crowl]].
+- Central to [[40K/Books/The Carrion Throne]].
+
+## Tags
+#LuceSpinoza #Inquisition #VaultsOfTerra

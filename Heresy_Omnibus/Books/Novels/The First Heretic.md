@@ -12,7 +12,7 @@ essential: Yes
 ---
 
 ## 🧭 Overview
-*The First Heretic* chronicles the fall of the Word Bearers — the first Legion to turn from the Emperor — and follows their Primarch, [[Lorgar]], and Captain [[Argel Tal]] through the events that ignite the Horus Heresy. It is a story of faith, betrayal, revelation, and damnation, tracing the XVII Legion’s transformation from devout Imperial missionaries into the Imperium’s most fanatical heretics.
+*The First Heretic* chronicles the fall of the Word Bearers — the first Legion to turn from the Emperor — and follows their Primarch, [[Heresy_Omnibus/Characters/Lorgar Aurelian|Lorgar]], and Captain [[Heresy_Omnibus/Characters/Argel Tal|Argel Tal]] through the events that ignite the Horus Heresy. It is a story of faith, betrayal, revelation, and damnation, tracing the XVII Legion’s transformation from devout Imperial missionaries into the Imperium’s most fanatical heretics.
 
 ---
 
@@ -64,12 +64,12 @@ Alone with Cyrene’s final message, Argel Tal mourns his fallen brothers as the
 
 ## 📝 Notes
 - The First Heretic reframes loyalty as worship, showing how zealotry can outstrip even genetics.  
-- Dark Apostles serve as the ideological backbone for the [[Drop Site Massacre]].  
-- [[Cadia]]’s early exposure to Chaos foreshadows its later role as the Imperium’s bulwark.
+- Dark Apostles serve as the ideological backbone for the [[Heresy_Omnibus/Events/Drop Site Massacre|Drop Site Massacre]].  
+- [[Heresy_Omnibus/Places/Cadia|Cadia]]’s early exposure to Chaos foreshadows its later role as the Imperium’s bulwark.
 
 ## 🔗 Connections
-- Builds on the censure event on [[Monarchia]] from earlier volumes.  
-- Foreshadows the [[Drop Site Massacre]] at [[Isstvan V]].  
+- Builds on the censure event on [[Heresy_Omnibus/Places/Monarchia|Monarchia]] from earlier volumes.  
+- Foreshadows the [[Heresy_Omnibus/Events/Drop Site Massacre|Drop Site Massacre]] at [[Heresy_Omnibus/Places/Isstvan V|Isstvan V]].  
 - Sets the stage for *Galaxy in Flames* and the wider Horus Heresy series.
 
 ## 🧩 Tags
