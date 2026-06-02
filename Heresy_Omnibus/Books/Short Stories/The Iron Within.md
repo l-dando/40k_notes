@@ -3,7 +3,7 @@ title: The Iron Within
 author: Rob Sanders
 anthology: Age of Darkness
 owned: Yes
-omnibus: "IV. Shattersong "
+omnibus: "IV. Shattersong"
 omnibus_order: 3
 legions: []  
 themes: []  

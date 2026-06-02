@@ -12,4 +12,6 @@ essential: Yes
 ---
 
 # 🧭 Overview
+Deep beneath Terra, the Emperor wages a secret war in the Webway while the Custodian Guard and Sisters of Silence fight to hold a collapsing front against daemonic invasion. At the same time, the wider Imperium fractures under the Heresy, placing impossible pressure on the Throneworld.
 
+The novel is essential for understanding the Emperor's long game, the burden of the Golden Throne, and why Terra becomes the final battleground of the conflict.

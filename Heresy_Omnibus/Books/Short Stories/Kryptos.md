@@ -1,9 +1,9 @@
 ---
-title: The Iron Within
+title: Kryptos
 author: Graham McNeill
 anthology: Legacies of Betrayal
 owned: Yes
-omnibus: "IV. Shattersong "
+omnibus: "IV. Shattersong"
 omnibus_order: 2
 legions: []  
 themes: []  
@@ -12,7 +12,7 @@ rating:
 essential: No
 ---
 
-## ## 🧭 Overview
+## 🧭 Overview
 *Kryptos* follows the Shattered Legions in the aftermath of the Dropsite Massacre, as survivors of the [[Heresy_Omnibus/Items/Raven Guard|Raven Guard]] and [[Heresy_Omnibus/Items/Iron Hands|Iron Hands]] continue their war against Horus and his traitor allies. Though bloodied, they remain determined to strike back, carrying the fight into the heart of enemy territory.
 
 On the doomed forge world of Cavor Sarta, two veteran warriors of the Imperium infiltrate the strongholds of the Dark Mechanicum. With bolter and blade, they carve a path through corrupted defenders, seeking to deny the traitors their most valued prize: the mysterious Kryptos. Their mission embodies the resilience of the Shattered Legions — broken but unbowed, still striking at the Warmaster’s war machine even in the face of overwhelming odds.
