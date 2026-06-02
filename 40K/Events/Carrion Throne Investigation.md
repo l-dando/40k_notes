@@ -7,4 +7,4 @@ tags: [event, 40k]
 
 # Carrion Throne Investigation
 
-Inquisitor Erasmus Crowl and Luce Spinoza unravel a conspiracy rooted deep within Terra's institutions.
+Inquisitor [[Erasmus Crowl]] and [[Luce Spinoza]] unravel a conspiracy rooted deep within Terra's institutions.

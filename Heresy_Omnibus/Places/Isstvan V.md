@@ -7,4 +7,4 @@ tags: [place, heresy]
 
 # Isstvan V
 
-The world where the Drop Site Massacre takes place.
+The world where the [[Drop Site Massacre]] takes place.

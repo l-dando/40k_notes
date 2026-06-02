@@ -6,4 +6,4 @@ tags: [reference, heresy]
 
 # Mournival
 
-The Warmaster's informal advisory circle within the Luna Wolves/Sons of Horus command structure.
+The Warmaster's informal advisory circle within the Luna Wolves/Sons of [[Horus Lupercal|Horus]] command structure.

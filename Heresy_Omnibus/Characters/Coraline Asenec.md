@@ -7,17 +7,17 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An Imperial command‑side figure in *Fulgrim*, representing the non‑Astartes command apparatus that operates alongside Legion fleets during the Great Crusade’s later years. Asenec’s role is brief but useful for tracking Imperial institutional presence around the Emperor’s Children campaign.
+An Imperial command‑side figure in *[[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]*, representing the non‑Astartes command apparatus that operates alongside Legion fleets during the Great Crusade’s later years. Asenec’s role is brief but useful for tracking Imperial institutional presence around the [[Emperor]]’s Children campaign.
 
 ## 📖 Book-by-book
-### [[Heresy_Omnibus/Books/Novels/Fulgrim|Fulgrim]]
-- Appears in the supporting cast around the 28th Expedition and Emperor’s Children operations.
+### [[Heresy_Omnibus/Books/Novels/Fulgrim]]
+- Appears in the supporting cast around the 28th Expedition and [[Emperor]]’s Children operations.
 - Provides part of the baseline Imperial command context that contrasts with the Legion’s moral collapse.
 - Not developed as a major narrative viewpoint character.
 
 ## 🔗 Connections
 - Associated with the wider Imperial command structure operating near [[Heresy_Omnibus/Characters/Fulgrim]]’s Legion.
-- In the same novel thread as [[Heresy_Omnibus/Characters/Evander Tobias]] and [[Heresy_Omnibus/Characters/Thaddeus Fayle]].
+- In the same novel thread as [[Evander Tobias]] and [[Thaddeus Fayle]].
 
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page

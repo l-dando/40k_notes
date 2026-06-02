@@ -8,4 +8,4 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Master of the Fleet for the 140th Imperial Expeditionary Fleet, operating alongside the 63rd Expedition during the Great Crusade under Warmaster [[Heresy_Omnibus/Characters/Horus Lupercal]].
+Master of the Fleet for the 140th Imperial Expeditionary Fleet, operating alongside the 63rd Expedition during the Great Crusade under Warmaster [[Horus Lupercal]].

@@ -11,8 +11,8 @@ status: encountered
 An Iterator tasked with spreading the Imperial Truth, Sindermann is a scholar and mentor whose faith in secularism is shaken by direct encounters with the Warp.
 
 ## ⚔️ Role in the Great Crusade
-- Advises [[Heresy_Omnibus/Characters/Garviel Loken]] on his role in the Mournival.
-- Researches Chaos and serpent cults after Horus’s wounding
-- Becomes a believer in the Emperor’s divinity after witnessing miracles by [[Heresy_Omnibus/Characters/Euphrati Keeler]].
-- Helps rescue Keeler from [[Heresy_Omnibus/Characters/Maggard]].
-- Survives Horus’s remembrancer massacre, escaping with Keeler, [[Heresy_Omnibus/Characters/Mersadie Oliton]], and [[Heresy_Omnibus/Characters/Iacton Qruze]].
+- Advises [[Garviel Loken]] on his role in the [[Mournival]].
+- Researches Chaos and serpent cults after [[Horus Lupercal|Horus]]’s wounding
+- Becomes a believer in the [[Emperor]]’s divinity after witnessing miracles by [[Euphrati Keeler]].
+- Helps rescue [[Euphrati Keeler|Keeler]] from [[Maggard]].
+- Survives [[Horus Lupercal|Horus]]’s remembrancer massacre, escaping with [[Euphrati Keeler|Keeler]], [[Mersadie Oliton]], and [[Iacton Qruze]].

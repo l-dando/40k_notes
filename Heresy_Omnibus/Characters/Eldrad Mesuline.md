@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Cabal member connected to John Grammaticus in Legion.
+A Cabal member connected to [[John Grammaticus]] in Legion.
 
 ## 🏷︎ Tags
 #EldradMesuline

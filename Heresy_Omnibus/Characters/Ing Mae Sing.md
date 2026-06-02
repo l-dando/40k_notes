@@ -10,13 +10,13 @@ status: encountered
 ## 🧠 Summary
 The 63rd Expedition’s chief astropath, a powerful psyker serving aboard the *Vengeful Spirit*.
 
-## ⚔️ Role in False Gods
-- Assists [[Heresy_Omnibus/Characters/Kyril Sindermann]] and [[Heresy_Omnibus/Characters/Euphrati Keeler]] when they accidentally summon a daemon while translating the *Book of Lorgar*.
-- Helps hold the creature at bay until Keeler banishes it.
+## ⚔️ Role in [[False Gods]]
+- Assists [[Kyril Sindermann]] and [[Euphrati Keeler]] when they accidentally summon a daemon while translating the *Book of [[Lorgar Aurelian|Lorgar]]*.
+- Helps hold the creature at bay until [[Euphrati Keeler|Keeler]] banishes it.
 
 ## 🔗 Connections
 - Works closely with the fleet’s command staff.
-- Ally to Keeler and Sindermann.
+- Ally to [[Euphrati Keeler|Keeler]] and [[Kyril Sindermann|Sindermann]].
 
 ## 🏷︎ Tags
 #IngMaeSing #Astropath #FalseGods

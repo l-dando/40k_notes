@@ -8,17 +8,17 @@ status: deceased
 ---
 
 ## 🧠 Summary
-A sculptor aboard the *Pride of the Emperor*, Delafour values passion over perfection in art, clashing with Fulgrim’s ideals.
+A sculptor aboard the *Pride of the [[Emperor]]*, Delafour values passion over perfection in art, clashing with [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]’s ideals.
 
-## ⚔️ Role in Fulgrim
-- Rejects [[Heresy_Omnibus/Characters/Bequa Kynska]]’s advances and focuses on his sculpture.
-- Works on a marble statue of the Emperor, angering [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]] with his philosophy of passion.
-- Confronted and impaled by Fulgrim upon his own statue.
-- His death devastates [[Heresy_Omnibus/Characters/Serena d’Angelus]], leading to her suicide.
+## ⚔️ Role in [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]
+- Rejects [[Bequa Kynska]]’s advances and focuses on his sculpture.
+- Works on a marble statue of the [[Emperor]], angering [[Heresy_Omnibus/Characters/Fulgrim]] with his philosophy of passion.
+- Confronted and impaled by [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]] upon his own statue.
+- His death devastates [[Serena d’Angelus]], leading to her suicide.
 
 ## 🔗 Connections
-- Rival to Serena d’Angelus.
-- Victim of Fulgrim’s corruption.
+- Rival to [[Serena d’Angelus]].
+- Victim of [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]’s corruption.
 
 ## 🏷︎ Tags
 #OstianDelafour #Remembrancer #Fulgrim

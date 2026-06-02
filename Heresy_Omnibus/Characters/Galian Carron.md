@@ -7,17 +7,17 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A minor Emperor’s Children figure in *Angel Exterminatus*, present within the Legion’s increasingly unstable military and social hierarchy. Carron’s mention helps track the secondary officers orbiting Fulgrim’s corrupted command.
+A minor [[Emperor]]’s Children figure in *[[Angel Exterminatus]]*, present within the Legion’s increasingly unstable military and social hierarchy. Carron’s mention helps track the secondary officers orbiting [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]’s corrupted command.
 
 ## 📖 Book-by-book
-### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]
-- Appears as part of the Emperor’s Children contingent on the joint expedition with the Iron Warriors.
+### [[Angel Exterminatus]]
+- Appears as part of the [[Emperor]]’s Children contingent on the joint expedition with the Iron Warriors.
 - Exists in the same narrative lane as the Legion’s descent into excess and ritualized violence.
 - Not treated as a major point-of-view or independent plot driver.
 
 ## 🔗 Connections
 - Attached to [[Heresy_Omnibus/Characters/Fulgrim]]’s warhost.
-- In shared campaign context with [[Heresy_Omnibus/Characters/Krysander of the Blades]] and [[Heresy_Omnibus/Characters/Bastarnae Abranxe]].
+- In shared campaign context with [[Krysander of the Blades]] and [[Bastarnae Abranxe]].
 
 ## 📚 Sources
 - Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page

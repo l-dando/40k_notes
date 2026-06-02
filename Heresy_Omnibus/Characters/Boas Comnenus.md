@@ -8,7 +8,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Master of the Fleet for the 63rd Expeditionary Fleet, responsible for the naval operations and coordination of the armada serving under Warmaster [[Heresy_Omnibus/Characters/Horus Lupercal]] during the Great Crusade.
+Master of the Fleet for the 63rd Expeditionary Fleet, responsible for the naval operations and coordination of the armada serving under Warmaster [[Horus Lupercal]] during the Great Crusade.
 
 ## 🔗 Connections
-- Served alongside [[Heresy_Omnibus/Characters/Hektor Varvarus]] and [[Heresy_Omnibus/Characters/Ing Mae Sing]] in the senior staff of the 63rd Expedition.
+- Served alongside [[Hektor Varvarus]] and [[Ing Mae Sing]] in the senior staff of the 63rd Expedition.

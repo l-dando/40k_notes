@@ -7,4 +7,4 @@ tags: [place, heresy]
 
 # Isstvan III
 
-The site of Horus's purge of loyalist elements from traitor legions.
+The site of [[Horus Lupercal|Horus]]'s purge of loyalist elements from traitor legions.

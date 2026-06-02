@@ -2,8 +2,8 @@
 
 This Obsidian vault tracks reading notes for two timelines:
 
-- [[Heresy_Omnibus/Home|Horus Heresy (30K)]]
-- [[40K/Order|Warhammer 40,000 (40K)]]
+- [[Home|Horus Heresy (30K)]]
+- [[Order|Warhammer 40,000 (40K)]]
 
 ## Folder Map
 

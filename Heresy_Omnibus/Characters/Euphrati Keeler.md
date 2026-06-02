@@ -8,20 +8,20 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A pictographer whose experiences with the supernatural lead her to embrace the Emperor as a divine being, becoming one of the first Imperial Saints.
+A pictographer whose experiences with the supernatural lead her to embrace the [[Emperor]] as a divine being, becoming one of the first Imperial Saints.
 
 ## ⚔️ Role in the Great Crusade
 - Witnesses and records the Whisperheads daemon.
-- On Davin, openly preaches the *Lectitio Divinitatus*.
-- Rescued by [[Heresy_Omnibus/Characters/Tarik Torgaddon]] from an attack by soldiers hostile to her faith.
-- While translating the *Book of Lorgar* with [[Heresy_Omnibus/Characters/Kyril Sindermann]], accidentally summons a daemon.
-- Channels the Emperor’s power to banish it, falling into a coma.
-- In a coma after Davin, develops a cult following aboard the *Vengeful Spirit*.
-- Awakens during an assassination attempt by [[Heresy_Omnibus/Characters/Maggard]], using her powers to save herself and her rescuers.
-- Foresees the virus‑bombing of Isstvan III and transmits the vision to [[Heresy_Omnibus/Characters/Kyril Sindermann]] and [[Heresy_Omnibus/Characters/Mersadie Oliton]].
-- Escapes Horus’s remembrancer massacre with Sindermann, Oliton, and [[Heresy_Omnibus/Characters/Iacton Qruze]], fleeing to the *Eisenstein*.
+- On [[Davin]], openly preaches the *Lectitio Divinitatus*.
+- Rescued by [[Tarik Torgaddon]] from an attack by soldiers hostile to her faith.
+- While translating the *Book of [[Lorgar Aurelian|Lorgar]]* with [[Kyril Sindermann]], accidentally summons a daemon.
+- Channels the [[Emperor]]’s power to banish it, falling into a coma.
+- In a coma after [[Davin]], develops a cult following aboard the *Vengeful Spirit*.
+- Awakens during an assassination attempt by [[Maggard]], using her powers to save herself and her rescuers.
+- Foresees the virus‑bombing of [[Isstvan III]] and transmits the vision to [[Kyril Sindermann]] and [[Mersadie Oliton]].
+- Escapes [[Horus Lupercal|Horus]]’s remembrancer massacre with [[Kyril Sindermann|Sindermann]], [[Mersadie Oliton|Oliton]], and [[Iacton Qruze]], fleeing to the *Eisenstein*.
 
 ## 🔗 Connections
-- Allies with Sindermann and Loken.
+- Allies with [[Kyril Sindermann|Sindermann]] and [[Garviel Loken|Loken]].
 - Inspires faith among the fleet’s civilians.
 

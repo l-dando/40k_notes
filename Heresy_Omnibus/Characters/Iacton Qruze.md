@@ -8,16 +8,16 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An aged and often‑overlooked captain of the Sons of Horus, nicknamed “The Half‑Heard” for his tendency to be dismissed by younger warriors.
+An aged and often‑overlooked captain of the Sons of [[Horus Lupercal|Horus]], nicknamed “The Half‑Heard” for his tendency to be dismissed by younger warriors.
 
-## ⚔️ Role in Galaxy in Flames
-- Rescues [[Heresy_Omnibus/Characters/Kyril Sindermann]], [[Heresy_Omnibus/Characters/Mersadie Oliton]], and [[Heresy_Omnibus/Characters/Euphrati Keeler]] from Horus’s remembrancer massacre.
-- Duels [[Heresy_Omnibus/Characters/Maggard]] in the *Vengeful Spirit*’s hangar, killing him with Sindermann’s help.
+## ⚔️ Role in [[Galaxy in Flames]]
+- Rescues [[Kyril Sindermann]], [[Mersadie Oliton]], and [[Euphrati Keeler]] from [[Horus Lupercal|Horus]]’s remembrancer massacre.
+- Duels [[Maggard]] in the *Vengeful Spirit*’s hangar, killing him with [[Kyril Sindermann|Sindermann]]’s help.
 - Steals a Thunderhawk and escapes with the loyalists to the *Eisenstein*.
 
 ## 🔗 Connections
-- Loyal to the Emperor despite Horus’s rebellion.
-- Later serves under [[Heresy_Omnibus/Characters/Nathaniel Garro]] aboard the *Eisenstein*.
+- Loyal to the [[Emperor]] despite [[Horus Lupercal|Horus]]’s rebellion.
+- Later serves under [[Nathaniel Garro]] aboard the *Eisenstein*.
 
 ## 🏷︎ Tags
 #IactonQruze #SonsOfHorus #GalaxyInFlames
