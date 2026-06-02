@@ -13,4 +13,4 @@ essential: No
 ---
 
 ## 🧭 Overview
-
+A Word Bearers‑focused short story exploring the Legion's doctrine, ritual culture, and identity in the era before the Heresy breaks into open civil war. It serves as atmospheric setup for the Legion's later role in corruption and betrayal.

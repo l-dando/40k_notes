@@ -51,3 +51,8 @@ Bear’s true name is revealed as **Bjorn**, the future Dreadnought hero of the 
 After the battle, Hawser speaks with Leman Russ one final time before voluntarily entering indefinite stasis, ensuring he can never again be used as a weapon against the Wolves.
 
 ---
+
+## 📚 Sources
+- Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
+- Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
+- Heresy Omnibus: https://www.heresyomnibus.com/

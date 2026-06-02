@@ -1,9 +1,9 @@
 ---
-title: The Iron Within
+title: Kryptos
 author: Graham McNeill
 anthology: Legacies of Betrayal
 owned: Yes
-omnibus: "IV. Shattersong "
+omnibus: "IV. Shattersong"
 omnibus_order: 2
 legions: []  
 themes: []  
@@ -12,7 +12,7 @@ rating:
 essential: No
 ---
 
-## ## 🧭 Overview
+## 🧭 Overview
 *Kryptos* follows the Shattered Legions in the aftermath of the Dropsite Massacre, as survivors of the [[Heresy_Omnibus/Items/Raven Guard|Raven Guard]] and [[Heresy_Omnibus/Items/Iron Hands|Iron Hands]] continue their war against Horus and his traitor allies. Though bloodied, they remain determined to strike back, carrying the fight into the heart of enemy territory.
 
 On the doomed forge world of Cavor Sarta, two veteran warriors of the Imperium infiltrate the strongholds of the Dark Mechanicum. With bolter and blade, they carve a path through corrupted defenders, seeking to deny the traitors their most valued prize: the mysterious Kryptos. Their mission embodies the resilience of the Shattered Legions — broken but unbowed, still striking at the Warmaster’s war machine even in the face of overwhelming odds.
@@ -25,4 +25,7 @@ On the doomed forge world of Cavor Sarta, two veteran warriors of the Imperium i
 ## 🏷︎ Tags
 #Kryptos #ShatteredLegions #RavenGuard #IronHands #DarkMechanicum #HorusHeresy
 
-
+## 📚 Sources
+- Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
+- Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
+- Heresy Omnibus: https://www.heresyomnibus.com/

@@ -56,4 +56,9 @@ In the ruins of the parliament building, Loken duels Abaddon while Torgaddon fig
 
 ## 🔗 Connections  
 - Concludes the opening trilogy  
-- Sets the stage for broader conflict across the Imperium  
+- Sets the stage for broader conflict across the Imperium
+
+## 📚 Sources
+- Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
+- Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
+- Heresy Omnibus: https://www.heresyomnibus.com/

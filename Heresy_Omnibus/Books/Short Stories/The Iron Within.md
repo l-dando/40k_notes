@@ -3,7 +3,7 @@ title: The Iron Within
 author: Rob Sanders
 anthology: Age of Darkness
 owned: Yes
-omnibus: "IV. Shattersong "
+omnibus: "IV. Shattersong"
 omnibus_order: 3
 legions: []  
 themes: []  
@@ -28,3 +28,7 @@ Eventually overwhelmed, Dantioch enacts his contingency plan. Retreating with Ni
 ## 🏷︎ Tags
 #TheIronWithin #IronWarriors #BarabasDantioch #TauroNicodemus #HorusHeresy
 
+## 📚 Sources
+- Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
+- Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
+- Heresy Omnibus: https://www.heresyomnibus.com/

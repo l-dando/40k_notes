@@ -60,4 +60,9 @@ The Drop Site Massacre begins. The Iron Hands, Salamanders, and Raven Guard form
 ## 🔗 Connections  
 - Complements *The First Heretic* thematically  
 - Deepens the portrayal of Chaos’s subtle influence  
-- 
+-
+
+## 📚 Sources
+- Lexicanum (archived entry): https://web.archive.org/web/20260505175147/https://wh40k.lexicanum.com/wiki/Main_Page
+- Warhammer 40k Fandom Wiki (archived entry): https://web.archive.org/web/20260527163341/https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki
+- Heresy Omnibus: https://www.heresyomnibus.com/
