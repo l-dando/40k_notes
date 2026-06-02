@@ -6,7 +6,7 @@ omnibus: "VI. Shadow Crusade II - Underworld War"
 omnibus_order: 2
 legions: []  
 themes: []  
-status: to_read  
+status: reading  
 rating:  
 essential: Yes
 ---

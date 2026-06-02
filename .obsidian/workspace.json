@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40K/Order.md",
+                "file": "Heresy_Omnibus/Books/Novels/Know No Fear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Order"
+              "title": "Know No Fear"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heresy_Omnibus/Books/Novels/The First Heretic.md",
+                "file": "Heresy_Omnibus/Books/Novels/Prospero Burns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The First Heretic"
+              "title": "Prospero Burns"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32160969b0e28c37",
+  "active": "a994bf05ccfe30c2",
   "lastOpenFiles": [
-    "Heresy_Omnibus/Characters/Lorgar Aurelian.md",
-    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
     "Heresy_Omnibus/Home.md",
+    "Heresy_Omnibus/Books/Novels/Prospero Burns.md",
+    "40K/Order.md",
+    "Heresy_Omnibus/Books/Novels/The First Heretic.md",
+    "Heresy_Omnibus/Characters/Lorgar Aurelian.md",
     "Heresy_Omnibus/Books/Novels/Fulgrim.md",
     "Heresy_Omnibus/Books/Novels/Betrayer.md",
     "Heresy_Omnibus/Books/Novels/Battle for the Abyss.md",
@@ -250,8 +251,6 @@
     "Heresy_Omnibus/Books/Short Stories/Scions of the Storm.md",
     "Heresy_Omnibus/Books/Short Stories/Honour to the Dead.md",
     "Heresy_Omnibus/Books/Novels/The Master of Mankind.md",
-    "Heresy_Omnibus/Books/Novels/Slaves to Darkness.md",
-    "Heresy_Omnibus/Books/Novels/Prospero Burns.md",
     "Heresy_Omnibus/Omnibus Map/Phase VII",
     "Heresy_Omnibus/Omnibus Map/Phase VI",
     "40K",
