@@ -10,7 +10,7 @@ status: encountered
 ## 🧠 Summary
 A Warsmith of the Iron Warriors, Krendl serves Horus during the Heresy. Once subordinate to [[Barabas Dantioch]], he returns to Lesser Damantyne to gather forces for the Warmaster’s campaign.
 
-## ⚔️ Role in The Iron Within
+## ⚔️ Role in [[Heresy_Omnibus/Books/Short Stories/The Iron Within|The Iron Within]]
 - Arrives at the Schadenhold to recruit Dantioch’s garrison for Horus.
 - Confronted by Dantioch and [[Vastopol]], whose sudden attack forces him to flee.
 - Besieges the Schadenhold for a year, eventually overwhelming its defenders.
@@ -19,8 +19,8 @@ A Warsmith of the Iron Warriors, Krendl serves Horus during the Heresy. Once sub
 
 ## 🔗 Connections
 - Former subordinate of Dantioch.
-- Loyal to Perturabo and Horus.
-- Opposed by Vastopol and Nicodemus.
+- Loyal to [[Heresy_Omnibus/Characters/Perturabo|Perturabo]] and Horus.
+- Opposed by [[Heresy_Omnibus/Characters/Vastopol|Vastopol]] and Nicodemus.
 
 ## 🏷︎ Tags
 #IdrissKrendl #IronWarriors #TheIronWithin #Traitor

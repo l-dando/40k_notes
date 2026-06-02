@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-The Master of Mankind and architect of the Great Crusade. During the Heresy era, His absence from frontline command and hidden work on Terra shape the political and spiritual vacuum that Horus exploits.
+[[Heresy_Omnibus/Books/Novels/The Master of Mankind|The Master of Mankind]] and architect of the Great Crusade. During the Heresy era, His absence from frontline command and hidden work on Terra shape the political and spiritual vacuum that Horus exploits.
 
 ## 🔗 Connections
 - Father of [[Heresy_Omnibus/Characters/Horus Lupercal]] and the primarchs.

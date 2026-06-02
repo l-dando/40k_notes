@@ -10,7 +10,7 @@ status: encountered
 ## 🧠 Summary
 A champion of the Ultramarines and one of the Tetrarchs of Ultramar, Nicodemus disguises himself as a clerk to warn [[Barabas Dantioch]] of Horus’s treachery. He plays a pivotal role in the defence of the Schadenhold.
 
-## ⚔️ Role in The Iron Within
+## ⚔️ Role in [[Heresy_Omnibus/Books/Short Stories/The Iron Within|The Iron Within]]
 - Reveals his identity after Krendl’s failed attempt to recruit Dantioch.
 - Vows to aid Dantioch in the coming siege.
 - Fights alongside Dantioch and [[Vastopol]] during the year‑long defence.
@@ -18,7 +18,7 @@ A champion of the Ultramarines and one of the Tetrarchs of Ultramar, Nicodemus d
 - Offers Dantioch a new purpose: to travel to Terra and help fortify the Imperial Palace.
 
 ## 🔗 Connections
-- Ally of Dantioch and Vastopol.
+- Ally of Dantioch and [[Heresy_Omnibus/Characters/Vastopol|Vastopol]].
 - Opposes Krendl and the traitor Iron Warriors.
 - Representative of Ultramar’s loyalty to the Imperium.
 

@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Raven Guard marksman of the Shattered Legions, known for stealth, patience, and precision. In the post‑Isstvan war he operates as a lethal loyalist counterweight to traitor advances.
+A [[Heresy_Omnibus/Items/Raven Guard|Raven Guard]] marksman of the Shattered Legions, known for stealth, patience, and precision. In the post‑Isstvan war he operates as a lethal loyalist counterweight to traitor advances.
 
 ## 🔗 Connections
 - Acts alongside [[Heresy_Omnibus/Characters/Sabik Wayland]] in the Shattered Legions thread.

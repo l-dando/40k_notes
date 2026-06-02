@@ -10,7 +10,7 @@ status: encountered
 ## 🧠 Summary
 The 63rd Expedition’s chief astropath, a powerful psyker serving aboard the *Vengeful Spirit*.
 
-## ⚔️ Role in False Gods
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
 - Assists [[Heresy_Omnibus/Characters/Kyril Sindermann]] and [[Heresy_Omnibus/Characters/Euphrati Keeler]] when they accidentally summon a daemon while translating the *Book of Lorgar*.
 - Helps hold the creature at bay until Keeler banishes it.
 

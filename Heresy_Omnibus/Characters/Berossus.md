@@ -7,12 +7,12 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An Iron Warriors officer present in *Angel Exterminatus*, appearing amid [[Heresy_Omnibus/Characters/Perturabo]]’s alliance‑of‑necessity with Fulgrim. Berossus contributes to the Legion-level perspective of siege warfare, internal brutality, and traitor fragmentation.
+An Iron Warriors officer present in *[[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]*, appearing amid [[Heresy_Omnibus/Characters/Perturabo]]’s alliance‑of‑necessity with Fulgrim. Berossus contributes to the Legion-level perspective of siege warfare, internal brutality, and traitor fragmentation.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]
 - Appears as part of the Iron Warriors command structure during the Hydra Cordatus and Iydris campaign arc.
-- Positioned within Perturabo’s military machine as the Iron Warriors clash with Imperial Fists, Shattered Legions, and unreliable allies.
+- Positioned within [[Heresy_Omnibus/Characters/Perturabo|Perturabo]]’s military machine as the Iron Warriors clash with Imperial Fists, Shattered Legions, and unreliable allies.
 - Treated as supporting cast rather than a central point-of-view character.
 
 ## 🔗 Connections

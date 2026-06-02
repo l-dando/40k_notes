@@ -10,13 +10,13 @@ status: encountered
 ## 🧠 Summary
 A captain in the Sons of Horus Legion, known for his ambition and opportunism.
 
-## ⚔️ Role in False Gods
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
 - Joins [[Heresy_Omnibus/Characters/Garviel Loken]] and [[Heresy_Omnibus/Characters/Tarik Torgaddon]] in returning to the *Glory of Terra* to investigate Horus’s wounding.
-- Seeks the site where Captain Verulam Moy died.
+- Seeks the site where Captain [[Heresy_Omnibus/Characters/Verulam Moy|Verulam Moy]] died.
 
 ## 🔗 Connections
 - Serves under [[Heresy_Omnibus/Characters/Horus Lupercal]].
-- Interacts with the Mournival during the Davin campaign.
+- Interacts with the [[Heresy_Omnibus/Items/Mournival|Mournival]] during the [[Heresy_Omnibus/Places/Davin|Davin]] campaign.
 
 ## 🏷︎ Tags
 #TybaltMarr #SonsOfHorus #FalseGods

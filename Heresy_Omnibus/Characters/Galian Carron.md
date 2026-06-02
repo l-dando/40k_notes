@@ -7,11 +7,11 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A minor Emperor’s Children figure in *Angel Exterminatus*, present within the Legion’s increasingly unstable military and social hierarchy. Carron’s mention helps track the secondary officers orbiting Fulgrim’s corrupted command.
+A minor [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children figure in *[[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]*, present within the Legion’s increasingly unstable military and social hierarchy. Carron’s mention helps track the secondary officers orbiting Fulgrim’s corrupted command.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]
-- Appears as part of the Emperor’s Children contingent on the joint expedition with the Iron Warriors.
+- Appears as part of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children contingent on the joint expedition with the Iron Warriors.
 - Exists in the same narrative lane as the Legion’s descent into excess and ritualized violence.
 - Not treated as a major point-of-view or independent plot driver.
 

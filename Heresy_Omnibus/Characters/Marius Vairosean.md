@@ -8,7 +8,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A captain of the Emperor’s Children whose corruption leads him to become the first of the Noise Marines.
+A captain of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children whose corruption leads him to become the first of the Noise Marines.
 
 ## ⚔️ Role in Fulgrim
 - Takes up a strange instrument created by [[Heresy_Omnibus/Characters/Bequa Kynska]].

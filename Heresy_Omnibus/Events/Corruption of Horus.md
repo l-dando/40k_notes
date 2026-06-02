@@ -7,4 +7,4 @@ tags: [event, heresy]
 
 # Corruption of Horus
 
-The sequence beginning with Horus's wounding on Davin and ending in his open rebellion against the Emperor.
+The sequence beginning with Horus's wounding on [[Heresy_Omnibus/Places/Davin|Davin]] and ending in his open rebellion against the [[Heresy_Omnibus/Characters/Emperor|Emperor]].

@@ -8,13 +8,13 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Primarch of the Word Bearers, Lorgar’s insatiable quest for meaning puts him at odds with the Emperor’s secular vision. His fall from grace ignites the ideological flames of heresy.
+Primarch of the Word Bearers, Lorgar’s insatiable quest for meaning puts him at odds with the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s secular vision. His fall from grace ignites the ideological flames of heresy.
 
 ## ⚔️ Role in Books
-- The First Heretic: Endures censure for his religious fervor, embarks on a pilgrimage into the Warp, and returns as the Word Bearers’ spiritual leader.
+- [[Heresy_Omnibus/Books/Novels/The First Heretic|The First Heretic]]: Endures censure for his religious fervor, embarks on a pilgrimage into the Warp, and returns as the Word Bearers’ spiritual leader.
 
 ## 🔗 Connections
-- Mentor to Kor Phaeron and Erebus.  
+- Mentor to [[Heresy_Omnibus/Characters/Kor Phaeron|Kor Phaeron]] and [[Heresy_Omnibus/Characters/Erebus|Erebus]].  
 - His defiance defines the Word Bearers’ path and influences Horus’s destiny.
 
 ## 📝 Notes

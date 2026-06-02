@@ -8,7 +8,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A loyalist Astartes serving with the Shattered Legions aboard the *Sisypheum* during the Angel Exterminatus campaign. Cassander attempted to kill [[Heresy_Omnibus/Characters/Fabius Bile]] in the Emperor's Children's apothecarion, but was instead captured and transformed by Bile into a terata — a monstrous, corrupted creature. His fate served as a grim warning to the other loyalists of the dangers of confronting the traitors' most twisted practitioner directly.
+A loyalist Astartes serving with the Shattered Legions aboard the *Sisypheum* during the [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]] campaign. Cassander attempted to kill [[Heresy_Omnibus/Characters/Fabius Bile]] in the [[Heresy_Omnibus/Characters/Emperor|Emperor]]'s Children's apothecarion, but was instead captured and transformed by Bile into a terata — a monstrous, corrupted creature. His fate served as a grim warning to the other loyalists of the dangers of confronting the traitors' most twisted practitioner directly.
 
 ## 🔗 Connections
 - Served alongside [[Heresy_Omnibus/Characters/Nykona Sharrowkyn]] and [[Heresy_Omnibus/Characters/Sabik Wayland]] in the Shattered Legions.

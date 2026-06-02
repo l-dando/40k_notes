@@ -14,9 +14,9 @@ essential: Yes
 ## 🧭 Overview
 
 ### Part One — The Blinded Star
-In the build‑up to the Horus Heresy, the Death Guard battle the alien Jorgall in their bottle‑ships. Battle‑Captain [[Nathaniel Garro]] of the 7th Great Company leads part of the assault, securing victory. Soon after, the Legion travels to the Isstvan system under the pretence of crushing rebellion on Isstvan III.
+In the build‑up to the Horus Heresy, the Death Guard battle the alien Jorgall in their bottle‑ships. Battle‑Captain [[Nathaniel Garro]] of the 7th Great Company leads part of the assault, securing victory. Soon after, the Legion travels to the Isstvan system under the pretence of crushing rebellion on [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]].
 
-In a preliminary assault, the Death Guard and Emperor’s Children encounter a Warsinger whose sonic powers devastate the loyalists. Garro is badly wounded, his torso and leg shattered, before Lord Commander [[Eidolon]] kills the Warsinger with an illegal sonic organ implanted by [[Fabius Bile]]. Recuperating in‑fleet, Garro is deemed too loyal to the Emperor to be trusted with Horus’s rebellion, yet too injured to be sent to the surface to die in the virus‑bombing. As a solution, he is given joint command of the frigate *Eisenstein* alongside Captain [[Ignatius Grulgor]], secretly ordered to kill him. Before Grulgor can act, Garro is contacted by [[Saul Tarvitz]], who warns him of Horus’s imminent betrayal.
+In a preliminary assault, the Death Guard and [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children encounter a Warsinger whose sonic powers devastate the loyalists. Garro is badly wounded, his torso and leg shattered, before Lord Commander [[Eidolon]] kills the Warsinger with an illegal sonic organ implanted by [[Fabius Bile]]. Recuperating in‑fleet, Garro is deemed too loyal to the [[Heresy_Omnibus/Characters/Emperor|Emperor]] to be trusted with Horus’s rebellion, yet too injured to be sent to the surface to die in the virus‑bombing. As a solution, he is given joint command of the frigate *Eisenstein* alongside Captain [[Ignatius Grulgor]], secretly ordered to kill him. Before Grulgor can act, Garro is contacted by [[Saul Tarvitz]], who warns him of Horus’s imminent betrayal.
 
 ---
 
@@ -48,7 +48,7 @@ Summoned before [[Malcador the Sigillite]], Garro, Qruze, and Sister [[Amendera 
 - Highlights the importance of individual agency  
 
 ## 🔗 Connections  
-- Follows directly from *Galaxy in Flames*  
+- Follows directly from *[[Heresy_Omnibus/Books/Novels/Galaxy in Flames|Galaxy in Flames]]*  
 - Bridges the gap between early Heresy and Terra’s response
 
 ## 📚 Sources

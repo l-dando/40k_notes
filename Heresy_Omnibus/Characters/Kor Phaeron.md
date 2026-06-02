@@ -11,10 +11,10 @@ status: encountered
 Chief orator and ritualist of the Word Bearers, Kor Phaeron crafts the liturgies that bind his Legion to Chaos. His persuasive sermons seal the legion’s fate.
 
 ## ⚔️ Role in Books
-- The First Heretic: Guides Lorgar through forbidden rites, engineers the Word Bearers’ first departure from Imperial dogma.
+- [[Heresy_Omnibus/Books/Novels/The First Heretic|The First Heretic]]: Guides Lorgar through forbidden rites, engineers the Word Bearers’ first departure from Imperial dogma.
 
 ## 🔗 Connections
-- Works closely with Erebus to implement heretical ceremonies.  
+- Works closely with [[Heresy_Omnibus/Characters/Erebus|Erebus]] to implement heretical ceremonies.  
 - His influence spreads Chaos worship beyond Korax’s inner circle.
 
 ## 📝 Notes

@@ -10,7 +10,7 @@ status: encountered
 ## 🧠 Summary
 A veteran Sergeant in [[Heresy_Omnibus/Characters/Garviel Loken]]’s 10th Company, known for his loyalty and easy camaraderie. Vipus is revealed to be a member of the secretive Warrior Lodges, causing tension with Loken.
 
-## ⚔️ Role in Horus Rising
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Horus Rising|Horus Rising]]
 - Serves as Loken’s trusted second during the Sixty‑Three Nineteen and Murder campaigns.
 - His lodge membership forces Loken to confront the growing influence of these secret fraternities.
 

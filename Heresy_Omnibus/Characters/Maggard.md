@@ -10,8 +10,8 @@ status: deceased
 ## 🧠 Summary
 A mute, golden‑eyed warrior and bodyguard to [[Heresy_Omnibus/Characters/Petronella Vivar]], skilled with an ancient Terran blade. Respected by Horus for his martial prowess.
 
-## ⚔️ Role in False Gods
-- Defends Vivar during the Davin moon campaign.
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
+- Defends Vivar during the [[Heresy_Omnibus/Places/Davin|Davin]] moon campaign.
 - Joins the Sons of Horus’ warrior lodge.
 - Murders [[Heresy_Omnibus/Characters/Ignace Karkasy]] on Horus’s orders.
 - Does not intervene when Horus kills Vivar.
@@ -20,7 +20,7 @@ A mute, golden‑eyed warrior and bodyguard to [[Heresy_Omnibus/Characters/Petro
 
 ## 🔗 Connections
 - Serves [[Heresy_Omnibus/Characters/Petronella Vivar]] until shifting loyalty to [[Heresy_Omnibus/Characters/Horus Lupercal]].
-- Acts as an enforcer for Maloghurst after enhancement.
+- Acts as an enforcer for [[Heresy_Omnibus/Characters/Maloghurst|Maloghurst]] after enhancement.
 
 ## 🏷︎ Tags
 #Maggard #FalseGods #SonsOfHorus

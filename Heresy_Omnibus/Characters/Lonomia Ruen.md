@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A remembrancer-side supporting figure in *Angel Exterminatus*, positioned within the cultural and documentary layer that follows the Legions into catastrophe. Ruen’s role is limited, but marks the continued civilian witness perspective inside traitor-led campaigns.
+A remembrancer-side supporting figure in *[[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]*, positioned within the cultural and documentary layer that follows the Legions into catastrophe. Ruen’s role is limited, but marks the continued civilian witness perspective inside traitor-led campaigns.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]

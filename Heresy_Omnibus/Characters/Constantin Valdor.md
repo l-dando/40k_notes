@@ -8,11 +8,11 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Constantin Valdor was the Chief Custodian — leader of the Emperor's personal bodyguard, the Adeptus Custodes. Regarded as the greatest warrior in the Imperium save only for the Primarchs and the Emperor Himself, Valdor was a towering figure of martial and political authority. He served as one of the Emperor's most trusted aides and the supreme commander of the golden-armoured warriors who guarded the Master of Mankind.
+Constantin Valdor was the Chief Custodian — leader of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]'s personal bodyguard, the Adeptus Custodes. Regarded as the greatest warrior in the Imperium save only for the Primarchs and the [[Heresy_Omnibus/Characters/Emperor|Emperor]] Himself, Valdor was a towering figure of martial and political authority. He served as one of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]'s most trusted aides and the supreme commander of the golden-armoured warriors who guarded the Master of Mankind.
 
 ## ⚔️ Role in the Heresy Era
 - Represented the Adeptus Custodes at the Council of Nikaea, helping determine the fate of the Thousand Sons' sorcery.
-- Oversaw investigations into potential threats to the Emperor's person and agenda throughout the Great Crusade.
+- Oversaw investigations into potential threats to the [[Heresy_Omnibus/Characters/Emperor|Emperor]]'s person and agenda throughout the Great Crusade.
 
 ## 🔗 Connections
 - Direct servant of the [[Heresy_Omnibus/Characters/Emperor]].

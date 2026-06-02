@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Raven Guard survivor within the Shattered Legions narrative. Wayland represents the loyalist remnants who continue covert resistance after Isstvan.
+A [[Heresy_Omnibus/Items/Raven Guard|Raven Guard]] survivor within the Shattered Legions narrative. Wayland represents the loyalist remnants who continue covert resistance after Isstvan.
 
 ## 🔗 Connections
 - Works in proximity to [[Heresy_Omnibus/Characters/Nykona Sharrowkyn]].

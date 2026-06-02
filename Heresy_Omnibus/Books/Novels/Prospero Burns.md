@@ -18,9 +18,9 @@ essential: Yes
 ---
 
 ## Part One — The Upplander
-On Fenris, the Ascomanni tribe shelters a “bad star” fallen from the sky — in truth, **Kasper Hawser**, whose craft was accidentally shot down by the Space Wolves. Pursued by rival tribes, Hawser is defended by four Ascomanni warriors, two of whom die protecting him. As the survivors face death, a lone Space Wolf — **Bear** — arrives, massacres their attackers, and extracts Hawser and the remaining warriors, Fith and Brom. Before Hawser loses consciousness, Bear gouges out his augmented eye, a taboo among the Wolves.
+On Fenris, the Ascomanni tribe shelters a “bad star” fallen from the sky — in truth, **[[Heresy_Omnibus/Characters/Kasper Hawser|Kasper Hawser]]**, whose craft was accidentally shot down by the Space Wolves. Pursued by rival tribes, Hawser is defended by four Ascomanni warriors, two of whom die protecting him. As the survivors face death, a lone Space Wolf — **Bear** — arrives, massacres their attackers, and extracts Hawser and the remaining warriors, Fith and Brom. Before Hawser loses consciousness, Bear gouges out his augmented eye, a taboo among the Wolves.
 
-Hawser awakens in the **Aett**, the fortress of the Space Wolves, where he learns he has been kept in induced sleep for nineteen Fenrisian years — nearly seventy Terran. His body has been rebuilt and enhanced, and his missing eye replaced with a wolf’s eye. Captain **Amlodhi Skarssen Skarssensson** and Rune Priest **Ohthere Wyrdmake** cannot explain why Hawser now understands the Wolves’ languages.
+Hawser awakens in the **Aett**, the fortress of the Space Wolves, where he learns he has been kept in induced sleep for nineteen Fenrisian years — nearly seventy Terran. His body has been rebuilt and enhanced, and his missing eye replaced with a wolf’s eye. Captain **[[Heresy_Omnibus/Characters/Amlodhi Skarssen Skarssensson|Amlodhi Skarssen Skarssensson]]** and Rune Priest **[[Heresy_Omnibus/Characters/Ohthere Wyrdmake|Ohthere Wyrdmake]]** cannot explain why Hawser now understands the Wolves’ languages.
 
 Flashbacks reveal Hawser’s past: his childhood in a desert orphanage, his career with the Conservatory, and a disturbing encounter with the Thousand Sons, who took an unusual interest in his name. Though Hawser believes he came to Fenris out of academic curiosity, others hint that the idea may have been planted in his mind.
 
@@ -29,13 +29,13 @@ Flashbacks reveal Hawser’s past: his childhood in a desert orphanage, his care
 ## Part Two — Wolf Tales
 Hawser becomes the **skjald** of Tra (Third) Company, chronicling their deeds during the Great Crusade. He witnesses the Wolves’ brutal assault on the **Olamic Quietude**, and later survives an attack by Imperial Army soldiers who resent the VI Legion. His enhanced strength and reflexes reveal the extent of the Wolves’ “repairs.”
 
-During a Quietude assault, Rune Priest **Ulvurul Heoroth** dies defending Hawser. In a shared dream‑state, Heoroth shows Hawser a vision of a great black wolf — the reincarnated spirit of Brom, the Ascomanni warrior who died protecting him. Hawser refuses to believe it, even as the Wolves insist that “there are no wolves on Fenris.”
+During a Quietude assault, Rune Priest **[[Heresy_Omnibus/Characters/Ulvurul Heoroth|Ulvurul Heoroth]]** dies defending Hawser. In a shared dream‑state, Heoroth shows Hawser a vision of a great black wolf — the reincarnated spirit of Brom, the Ascomanni warrior who died protecting him. Hawser refuses to believe it, even as the Wolves insist that “there are no wolves on Fenris.”
 
-After Heoroth’s funeral, Hawser recognises a ritual knife as one he saw in the hands of a Terran cultist years earlier. Rune Priest **Aun Helwintr** explains that Hawser has been psychically manipulated, causing memories to blur. The Wolves reveal they have long suspected Hawser is a spy — but kept him close to see what would unfold.
+After Heoroth’s funeral, Hawser recognises a ritual knife as one he saw in the hands of a Terran cultist years earlier. Rune Priest **[[Heresy_Omnibus/Characters/Aun Helwintr|Aun Helwintr]]** explains that Hawser has been psychically manipulated, causing memories to blur. The Wolves reveal they have long suspected Hawser is a spy — but kept him close to see what would unfold.
 
-At the **Council of Nikaea**, Hawser is interrogated by Leman Russ, Fulgrim, Constantin Valdor, Raldoron, Typhon, and others. The Wolves, Custodians, and Sisters of Silence conclude that Hawser is a deep‑cover agent implanted by the Thousand Sons decades earlier. Custodian **Amon Tauromachian** escorts him out — only for **Amon of the Thousand Sons** to appear, paralyse him, and confirm the truth. Bear and Helwintr intervene, driving the sorcerer off.
+At the **Council of Nikaea**, Hawser is interrogated by [[Heresy_Omnibus/Characters/Leman Russ|Leman Russ]], Fulgrim, [[Heresy_Omnibus/Characters/Constantin Valdor|Constantin Valdor]], [[Heresy_Omnibus/Characters/Raldoron|Raldoron]], Typhon, and others. The Wolves, Custodians, and Sisters of Silence conclude that Hawser is a deep‑cover agent implanted by the Thousand Sons decades earlier. Custodian **[[Heresy_Omnibus/Characters/Amon Tauromachian|Amon Tauromachian]]** escorts him out — only for **Amon of the Thousand Sons** to appear, paralyse him, and confirm the truth. Bear and Helwintr intervene, driving the sorcerer off.
 
-After the Emperor’s verdict, the Wolves deploy to **Thardia**, where Helwintr helps Hawser explore a recurring dream of a shadowy figure behind him. Fith Godsmote — now a Space Wolf — teaches him axework. But when Rune Priest **Eada Haelwolf** attempts to break into Hawser’s mind, he becomes possessed. In a violent confrontation, Haelwolf transforms into a monstrous shadow‑wolf before being slain. His dying words warn of a plot against Horus, but Ogvai dismisses the claim and executes him.
+After the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s verdict, the Wolves deploy to **Thardia**, where Helwintr helps Hawser explore a recurring dream of a shadowy figure behind him. [[Heresy_Omnibus/Characters/Fith Godsmote|Fith Godsmote]] — now a Space Wolf — teaches him axework. But when Rune Priest **[[Heresy_Omnibus/Characters/Eada Haelwolf|Eada Haelwolf]]** attempts to break into Hawser’s mind, he becomes possessed. In a violent confrontation, Haelwolf transforms into a monstrous shadow‑wolf before being slain. His dying words warn of a plot against Horus, but Ogvai dismisses the claim and executes him.
 
 ---
 
@@ -46,9 +46,9 @@ The Wolves invade. Hawser makes his first kill against a Prospero Spireguard, bu
 
 Fith, Bear, and Helwintr arrive, but the entity uses their names to overpower them — except Bear, whose true name it does not know. When the entity sets Bear’s arm ablaze, Hawser severs it to save him. Silent Sisters and Dreadnoughts arrive, their null‑fields stripping the entity of power, and it is destroyed.
 
-Bear’s true name is revealed as **Bjorn**, the future Dreadnought hero of the Space Wolves. The Thousand Sons are defeated, and Prospero burns.
+Bear’s true name is revealed as **[[Heresy_Omnibus/Characters/Bjorn|Bjorn]]**, the future Dreadnought hero of the Space Wolves. The Thousand Sons are defeated, and Prospero burns.
 
-After the battle, Hawser speaks with Leman Russ one final time before voluntarily entering indefinite stasis, ensuring he can never again be used as a weapon against the Wolves.
+After the battle, Hawser speaks with [[Heresy_Omnibus/Characters/Leman Russ|Leman Russ]] one final time before voluntarily entering indefinite stasis, ensuring he can never again be used as a weapon against the Wolves.
 
 ---
 

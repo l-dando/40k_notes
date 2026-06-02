@@ -7,11 +7,11 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A minor Sons of Horus figure in *False Gods*, present during the Legion’s transition from Warmaster-led crusade force to conspiratorial traitor engine. Tsepha is part of the wider officer-layer continuity surrounding Davin and the run-up to Isstvan.
+A minor Sons of Horus figure in *[[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]*, present during the Legion’s transition from Warmaster-led crusade force to conspiratorial traitor engine. Tsepha is part of the wider officer-layer continuity surrounding [[Heresy_Omnibus/Places/Davin|Davin]] and the run-up to Isstvan.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
-- Appears among Sons of Horus personnel during the Davin campaign and subsequent political hardening of the Legion.
+- Appears among Sons of Horus personnel during the [[Heresy_Omnibus/Places/Davin|Davin]] campaign and subsequent political hardening of the Legion.
 - Sits inside the same command ecosystem influenced by [[Heresy_Omnibus/Characters/Horus Lupercal]], [[Heresy_Omnibus/Characters/Ezekyle Abaddon]], and lodge politics.
 - Recorded as supporting roster continuity rather than a focal narrative arc.
 

@@ -15,7 +15,7 @@ A Terran emissary sent to investigate the conduct of Fulgrim’s fleet.
 - Mocked by [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]], who dismisses his warnings.
 
 ## 🔗 Connections
-- Representative of the Emperor’s Council.
+- Representative of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Council.
 - Opposed by Fulgrim.
 
 ## 🏷︎ Tags

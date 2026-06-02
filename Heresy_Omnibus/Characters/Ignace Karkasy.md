@@ -10,7 +10,7 @@ status: encountered
 ## 🧠 Summary
 A talented but flawed poet, Karkasy is known for his sharp wit, heavy drinking, and uncompromising honesty. His work often critiques the Imperium’s methods, earning him both admiration and enemies.
 
-## ⚔️ Role in Horus Rising
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Horus Rising|Horus Rising]]
 - Writes poetry inspired by the conquest of Sixty‑Three Nineteen.
 - Publicly criticises the Imperial campaign, nearly beaten to death by Imperial Army troops.
 - Supported by [[Heresy_Omnibus/Characters/Mersadie Oliton]] and [[Heresy_Omnibus/Characters/Garviel Loken]] despite his controversial views.

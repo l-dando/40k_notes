@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Word Bearers legionary referenced in The First Heretic era material.
+Word Bearers legionary referenced in [[Heresy_Omnibus/Books/Novels/The First Heretic|The First Heretic]] era material.
 
 ## 🏷︎ Tags
 #Malnor

@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An Iron Warriors supporting character in *Angel Exterminatus*, active in the background of Perturabo’s war machine during the Hydra Cordatus-to-Iydris arc. Zakayo’s role is minor, but helps complete roster-level tracking of the Legion’s field command personnel.
+An Iron Warriors supporting character in *[[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]*, active in the background of [[Heresy_Omnibus/Characters/Perturabo|Perturabo]]’s war machine during the Hydra Cordatus-to-Iydris arc. Zakayo’s role is minor, but helps complete roster-level tracking of the Legion’s field command personnel.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]
