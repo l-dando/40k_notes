@@ -8,12 +8,12 @@ status: encountered
 ---
 
 ## 🧠 Summary
-The Chief Apothecary of the Emperor’s Children, infamous for his twisted genius and disregard for morality in pursuit of knowledge.
+The Chief Apothecary of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children, infamous for his twisted genius and disregard for morality in pursuit of knowledge.
 
-## ⚔️ Role in False Gods
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
 - Visits the 63rd Expedition during the Auretian campaign.
 - Takes possession of the [[Heresy_Omnibus/Items/Anathame|Anathame]] and delivers it to [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]].
-- Reveals his program of surgical enhancements to [[Heresy_Omnibus/Characters/Saul Tarvitz]] aboard the *Pride of the Emperor*.
+- Reveals his program of surgical enhancements to [[Heresy_Omnibus/Characters/Saul Tarvitz]] aboard the *Pride of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]*.
 - Offers Tarvitz a place in the “new order,” which is refused.
 
 ## 🔗 Connections

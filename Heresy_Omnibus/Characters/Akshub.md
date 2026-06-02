@@ -8,11 +8,11 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Chaos cult priestess of the Serpent Lodge on Davin, instrumental in the ritual to heal Horus.
+A Chaos cult priestess of the Serpent Lodge on [[Heresy_Omnibus/Places/Davin|Davin]], instrumental in the ritual to heal Horus.
 
-## ⚔️ Role in False Gods
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
 - Oversees the ritual to send [[Heresy_Omnibus/Characters/Erebus]] into the spirit realm.
-- Slits Erebus’s throat as part of the rite.
+- Slits [[Heresy_Omnibus/Characters/Erebus|Erebus]]’s throat as part of the rite.
 
 ## 🔗 Connections
 - Serves the Serpent Lodge and the Ruinous Powers.

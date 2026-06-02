@@ -8,10 +8,10 @@ status: deceased
 ---
 
 ## 🧠 Summary
-A devout believer in the Emperor’s divinity, Cassar serves aboard the *Dies Irae* and is a close friend of [[Heresy_Omnibus/Characters/Jonah Aruken]].
+A devout believer in the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s divinity, Cassar serves aboard the *Dies Irae* and is a close friend of [[Heresy_Omnibus/Characters/Jonah Aruken]].
 
-## ⚔️ Role in Galaxy in Flames
-- Helps [[Heresy_Omnibus/Characters/Kyril Sindermann]] and Jonah Aruken rescue [[Heresy_Omnibus/Characters/Euphrati Keeler]] from [[Heresy_Omnibus/Characters/Maggard]].
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Galaxy in Flames|Galaxy in Flames]]
+- Helps [[Heresy_Omnibus/Characters/Kyril Sindermann]] and [[Heresy_Omnibus/Characters/Jonah Aruken|Jonah Aruken]] rescue [[Heresy_Omnibus/Characters/Euphrati Keeler]] from [[Heresy_Omnibus/Characters/Maggard]].
 - Survives the virus‑bombing aboard the *Dies Irae*.
 - Realises the truth of Horus’s betrayal and attacks [[Heresy_Omnibus/Characters/Esau Turnet]], pleading for Aruken’s help.
 - Killed by Aruken for his faith and refusal to side with the Warmaster.

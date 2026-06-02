@@ -5,4 +5,4 @@
 1. [[Heresy_Omnibus/Books/Novels/Betrayer|Betrayer]]
 
 # Overview
-This phase highlights character-defining turns for Angron, Lorgar, and the commanders around them.
+This phase highlights character-defining turns for [[Heresy_Omnibus/Characters/Angron|Angron]], Lorgar, and the commanders around them.

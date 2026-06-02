@@ -1,5 +1,5 @@
 # The Story
-*The Emperor's hidden war beneath Terra collides with the Imperium's collapse above, redefining what can still be saved.*
+*The [[Heresy_Omnibus/Characters/Emperor|Emperor]]'s hidden war beneath Terra collides with the Imperium's collapse above, redefining what can still be saved.*
 
 # Reading Order
 1. [[Heresy_Omnibus/Books/Novels/The Master of Mankind|The Master of Mankind]]

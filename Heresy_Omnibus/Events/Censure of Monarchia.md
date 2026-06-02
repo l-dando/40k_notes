@@ -5,6 +5,6 @@ known_from: [The First Heretic]
 tags: [event, heresy]
 ---
 
-# Censure of Monarchia
+# Censure of [[Heresy_Omnibus/Places/Monarchia|Monarchia]]
 
-The Emperor publicly disciplines Lorgar and the Word Bearers by ordering Monarchia's destruction.
+The [[Heresy_Omnibus/Characters/Emperor|Emperor]] publicly disciplines Lorgar and the Word Bearers by ordering [[Heresy_Omnibus/Places/Monarchia|Monarchia]]'s destruction.

@@ -8,10 +8,10 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Terran-born Astartes of the Death Guard, Garro is one of the few captains to remain loyal to the Emperor during the Horus Heresy. Honourable and steadfast, he becomes the first to carry word of Horus’s betrayal to Terra.
+A Terran-born Astartes of the Death Guard, Garro is one of the few captains to remain loyal to the [[Heresy_Omnibus/Characters/Emperor|Emperor]] during the Horus Heresy. Honourable and steadfast, he becomes the first to carry word of Horus’s betrayal to Terra.
 
 ## ⚔️ Role in Flight of the Eisenstein
-- Leads the 7th Great Company against the Jorgall and later at Isstvan III.
+- Leads the 7th Great Company against the Jorgall and later at [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]].
 - Wounded by a Warsinger before the virus-bombing, preventing his deployment to the surface.
 - Given joint command of the *Eisenstein* with [[Heresy_Omnibus/Characters/Ignatius Grulgor]], who plots to kill him.
 - Warned by [[Heresy_Omnibus/Characters/Saul Tarvitz]], he exposes Grulgor’s treachery and ejects him into space.
@@ -21,7 +21,7 @@ A Terran-born Astartes of the Death Guard, Garro is one of the few captains to r
 - Brought before [[Heresy_Omnibus/Characters/Malcador the Sigillite]], implied to be among the first of the Inquisition’s Knights-Errant.
 
 ## 🔗 Connections
-- Loyal to the Emperor, opposed to [[Heresy_Omnibus/Characters/Mortarion]] and [[Heresy_Omnibus/Characters/Calas Typhon]].
+- Loyal to the [[Heresy_Omnibus/Characters/Emperor|Emperor]], opposed to [[Heresy_Omnibus/Characters/Mortarion]] and [[Heresy_Omnibus/Characters/Calas Typhon]].
 - Close ally of Tarvitz, Keeler, Sindermann, and Qruze.
 
 ## 🏷︎ Tags

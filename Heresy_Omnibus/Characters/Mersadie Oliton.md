@@ -15,7 +15,7 @@ A remembrancer assigned to the 63rd Expedition, Mersadie becomes a trusted confi
 - Witnesses the embarkation deck massacre with [[Heresy_Omnibus/Characters/Ignace Karkasy]].
 - Keeps vigil at [[Heresy_Omnibus/Characters/Euphrati Keeler]]’s bedside after her collapse.
 - Distressed by the deaths of Karkasy and [[Heresy_Omnibus/Characters/Petronella Vivar]].
-- Witness to the embarkation deck massacre (False Gods) and Horus’s remembrancer purge on the *Vengeful Spirit*.
+- Witness to the embarkation deck massacre ([[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]) and Horus’s remembrancer purge on the *Vengeful Spirit*.
 - Escapes the massacre with [[Heresy_Omnibus/Characters/Euphrati Keeler]], [[Heresy_Omnibus/Characters/Kyril Sindermann]], and [[Heresy_Omnibus/Characters/Iacton Qruze]].
 
 ## 🔗 Connections

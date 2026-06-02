@@ -7,16 +7,16 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A minor Emperor’s Children blade-specialist figure in *Angel Exterminatus*, representing the Legion’s martial vanity and cult of sensation during the Heresy. Krysander’s footprint is small but fits the novel’s broader portrait of aristocratic violence turned decadent.
+A minor [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children blade-specialist figure in *[[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]*, representing the Legion’s martial vanity and cult of sensation during the Heresy. Krysander’s footprint is small but fits the novel’s broader portrait of aristocratic violence turned decadent.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]
-- Listed in the Emperor’s Children supporting cast during Fulgrim’s expedition with the Iron Warriors.
+- Listed in the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children supporting cast during Fulgrim’s expedition with the Iron Warriors.
 - Part of the novel’s wider depiction of the Legion’s excess, duelling culture, and unstable loyalties.
 - Functions as secondary lore continuity rather than a central character arc.
 
 ## 🔗 Connections
-- Attached to the same Emperor’s Children command environment as [[Heresy_Omnibus/Characters/Fulgrim]] and [[Heresy_Omnibus/Characters/Eidolon]].
+- Attached to the same [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children command environment as [[Heresy_Omnibus/Characters/Fulgrim]] and [[Heresy_Omnibus/Characters/Eidolon]].
 - Appears in the same campaign thread as [[Heresy_Omnibus/Characters/Bastarnae Abranxe]] and [[Heresy_Omnibus/Characters/Galian Carron]].
 
 ## 📚 Sources

@@ -8,9 +8,9 @@ status: deceased
 ---
 
 ## 🧠 Summary
-An Iron Warrior and survivor of the Hrud migration, Vastopol was interred in a Dreadnought after being grievously wounded. He remained loyal to [[Barabas Dantioch]] and the Emperor during the Heresy.
+An Iron Warrior and survivor of the Hrud migration, Vastopol was interred in a Dreadnought after being grievously wounded. He remained loyal to [[Barabas Dantioch]] and the [[Heresy_Omnibus/Characters/Emperor|Emperor]] during the Heresy.
 
-## ⚔️ Role in The Iron Within
+## ⚔️ Role in [[Heresy_Omnibus/Books/Short Stories/The Iron Within|The Iron Within]]
 - Emerges from the shadows during Krendl’s arrival, slaughtering his guards to show defiance.
 - Fights alongside Dantioch and [[Tauro Nicodemus]] during the year‑long siege of the Schadenhold.
 - Helps seize Krendl’s flagship after the fortress collapses.

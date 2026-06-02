@@ -10,8 +10,8 @@ status: encountered
 ## 🧠 Summary
 A legendary warrior of the World Eaters Legion, Khârn is renowned for his ferocity, skill in close combat, and unwavering loyalty to his primarch [[Angron]]. Even before his fall to Chaos, he was one of the most feared captains in the Legiones Astartes, wielding the chainaxe Gorechild with unmatched brutality.
 
-## ⚔️ Role in Galaxy in Flames
-- Present on Isstvan III as part of the traitor World Eaters contingent.
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Galaxy in Flames|Galaxy in Flames]]
+- Present on [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]] as part of the traitor World Eaters contingent.
 - Confronts [[Heresy_Omnibus/Characters/Garviel Loken]] during the loyalist defence of the Choral City.
 - Initially shows a flicker of his former camaraderie before succumbing fully to rage and attacking without restraint.
 - Engages Loken in a brutal duel until a Sons of Horus tank crashes into them, impaling Khârn on its dozer blades and taking him out of the fight.

@@ -12,9 +12,9 @@ Nicknamed “Little Horus” for his resemblance to the Warmaster, Aximand is a 
 
 ## ⚔️ Role in the Great Crusade
 - Serves on Sixty‑Three Nineteen, Murder, and in the Interex campaign.
-- Supports [[Heresy_Omnibus/Characters/Ezekyle Abaddon]] in defending Erebus and the lodge’s decision to take Horus to the Serpent Lodge.
-- Opposes Loken and Torgaddon during the Mournival split.
-- Supports Horus’s rebellion and participates in the Isstvan III betrayal.
+- Supports [[Heresy_Omnibus/Characters/Ezekyle Abaddon]] in defending [[Heresy_Omnibus/Characters/Erebus|Erebus]] and the lodge’s decision to take Horus to the Serpent Lodge.
+- Opposes Loken and Torgaddon during the [[Heresy_Omnibus/Items/Mournival|Mournival]] split.
+- Supports Horus’s rebellion and participates in the [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]] betrayal.
 - Duels [[Heresy_Omnibus/Characters/Tarik Torgaddon]] in the parliament building, killing him.
 - Shows visible sorrow at Torgaddon’s death despite his treachery.
 

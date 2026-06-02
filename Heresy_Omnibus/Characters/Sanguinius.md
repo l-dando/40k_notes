@@ -10,7 +10,7 @@ status: encountered
 ## 🧠 Summary
 The angelic Primarch of the Blood Angels, revered for his beauty, nobility, and martial prowess.
 
-## ⚔️ Role in Horus Rising
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Horus Rising|Horus Rising]]
 - Arrives on Murder with Blood Angels reinforcements.
 - Fights alongside [[Heresy_Omnibus/Characters/Horus Lupercal]] to exterminate the Megarachnids.
 

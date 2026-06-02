@@ -19,7 +19,7 @@ On the doomed forge world of Cavor Sarta, two veteran warriors of the Imperium i
 
 ## 🔗 Connections
 - Set after the Dropsite Massacre, tying directly to the Shattered Legions narrative.
-- Features warriors of the Raven Guard and Iron Hands.
+- Features warriors of the [[Heresy_Omnibus/Items/Raven Guard|Raven Guard]] and [[Heresy_Omnibus/Items/Iron Hands|Iron Hands]].
 - Introduces the forge world of Cavor Sarta and the Dark Mechanicum’s prized asset, the Kryptos.
 
 ## 🏷︎ Tags

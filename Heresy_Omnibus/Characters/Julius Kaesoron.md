@@ -8,7 +8,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-First Captain of the Emperor’s Children, Kaesoron is drawn into the philosophy of sensation and becomes a devotee of Slaanesh.
+First Captain of the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children, Kaesoron is drawn into the philosophy of sensation and becomes a devotee of Slaanesh.
 
 ## ⚔️ Role in Fulgrim
 - Initiated into the works of Cornelius Blayke.
@@ -17,7 +17,7 @@ First Captain of the Emperor’s Children, Kaesoron is drawn into the philosophy
 
 ## 🔗 Connections
 - Loyal to Fulgrim.
-- Ally of Fabius and Eidolon.
+- Ally of Fabius and [[Heresy_Omnibus/Characters/Eidolon|Eidolon]].
 
 ## 🏷︎ Tags
 #JuliusKaesoron #EmperorsChildren #Fulgrim

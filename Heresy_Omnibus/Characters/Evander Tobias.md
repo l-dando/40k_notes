@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An Imperial command figure tied to the expeditionary framework surrounding the Emperor’s Children in *Fulgrim*. Tobias is a minor lore figure but helps map how conventional Imperial authority remains present even as traitor corruption spreads.
+An Imperial command figure tied to the expeditionary framework surrounding the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children in *Fulgrim*. Tobias is a minor lore figure but helps map how conventional Imperial authority remains present even as traitor corruption spreads.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Fulgrim|Fulgrim]]

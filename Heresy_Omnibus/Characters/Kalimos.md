@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An Iron Warriors supporting character in *Angel Exterminatus*, tied to the Legion’s brutal chain of command during Perturabo’s campaign. Kalimos helps document the wider officer corps active around the Iron Warriors’ siege-driven operations.
+An Iron Warriors supporting character in *[[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]*, tied to the Legion’s brutal chain of command during [[Heresy_Omnibus/Characters/Perturabo|Perturabo]]’s campaign. Kalimos helps document the wider officer corps active around the Iron Warriors’ siege-driven operations.
 
 ## 📖 Book-by-book
 ### [[Heresy_Omnibus/Books/Novels/Angel Exterminatus|Angel Exterminatus]]

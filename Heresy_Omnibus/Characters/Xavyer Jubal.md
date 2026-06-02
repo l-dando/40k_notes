@@ -10,7 +10,7 @@ status: deceased
 ## 🧠 Summary
 A Sergeant in [[Heresy_Omnibus/Characters/Garviel Loken]]’s 10th Company. Jubal becomes the first known Astartes victim of Warp possession during the Great Crusade.
 
-## ⚔️ Role in Horus Rising
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Horus Rising|Horus Rising]]
 - Participates in the assault on the Whisperhead Mountains.
 - Falls victim to possession by the entity “Samus,” murdering his squad.
 - Mutates into a daemon‑form before being slain by Loken.

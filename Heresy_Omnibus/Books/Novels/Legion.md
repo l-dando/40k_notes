@@ -21,9 +21,9 @@ Lord Commander [[Teng Namatjira]] of the 670th Expedition Fleet grows suspicious
 
 ---
 
-Months later, in the 42 Hydra System, Grammaticus is held prisoner aboard the Alpha Legion’s Battle Barge *Beta*. Soneka frees him and Saiid, leading them to the Cabal’s hidden meeting site. There, Alpharius demands proof of the coming civil war. The Cabal — represented by the alien Gahet and the psyker Shere — subjects Alpharius, Soneka, and Shere to the Acuity, a psychic vision showing two futures: one where the Emperor wins and Chaos reigns eternally, and one where Horus wins, humanity dies, and Chaos starves.
+Months later, in the 42 Hydra System, Grammaticus is held prisoner aboard the Alpha Legion’s Battle Barge *Beta*. Soneka frees him and Saiid, leading them to the Cabal’s hidden meeting site. There, Alpharius demands proof of the coming civil war. The Cabal — represented by the alien Gahet and the psyker Shere — subjects Alpharius, Soneka, and Shere to the Acuity, a psychic vision showing two futures: one where the [[Heresy_Omnibus/Characters/Emperor|Emperor]] wins and Chaos reigns eternally, and one where Horus wins, humanity dies, and Chaos starves.
 
-Accepting the Cabal’s logic, Alpharius commits the Alpha Legion to Horus’s cause. In the ensuing betrayal, Namatjira and Dinas Chayne are killed, the Geno are abandoned to die as the planet’s artificial atmosphere is shut down, and the remnants of the 670th Fleet are destroyed. Soneka rescues Bronzi, but aboard the Cabal’s ship, Grammaticus — wracked with guilt — ends his own life, believing he has doomed his species.
+Accepting the Cabal’s logic, Alpharius commits the Alpha Legion to Horus’s cause. In the ensuing betrayal, Namatjira and [[Heresy_Omnibus/Characters/Dinas Chayne|Dinas Chayne]] are killed, the Geno are abandoned to die as the planet’s artificial atmosphere is shut down, and the remnants of the 670th Fleet are destroyed. Soneka rescues Bronzi, but aboard the Cabal’s ship, Grammaticus — wracked with guilt — ends his own life, believing he has doomed his species.
 
 The Alpha Legion departs, their true motives known only to themselves, poised to play their part in the Horus Heresy.
 
