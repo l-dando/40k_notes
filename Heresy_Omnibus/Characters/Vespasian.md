@@ -14,7 +14,7 @@ A senior commander of the Emperor’s Children, Vespasian is loyal to the Imperi
 - Serves as one of Fulgrim’s most trusted officers during the Perdus Anomaly campaign.
 - Shares suspicions with [[Heresy_Omnibus/Characters/Solomon Demeter]] that the Laer temple has corrupted the Legion.
 - Opposes [[Heresy_Omnibus/Characters/Fabius Bile]] and [[Heresy_Omnibus/Characters/Eidolon]]’s excesses, remaining true to the Emperor.
-- Killed by [[30k_vault/Characters/Fulgrim]] in the Callidenes System after an Ork ambush, removing one of the Legion’s last loyal voices.
+- Killed by [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]] in the Callidenes System after an Ork ambush, removing one of the Legion’s last loyal voices.
 
 ## 🔗 Connections
 - Ally of Solomon Demeter and Saul Tarvitz.

@@ -30,7 +30,7 @@ The omnibus kicks off with the opening trilogy of novels, released all the way b
 
 The trilogy focuses on Horus Lupercal and his Legion, the Luna Wolves (later renamed the Sons of Horus). It's set at the tail end of the Great Crusade, with Horus just having anointed with the title of Warmaster and supreme command of the Great Crusade in his father's stead. The main point-of-view character is Garviel Loken, a Luna Wolf that makes it into Horus' inner circle. Unbeknownst to Loken, dark plans have been set in motion to turn Horus against his father and the sons of the Emperor upon each other, and he will find himself at the forefront of a war for the heart of his Legion, the soul of his primarch and the fate of humanity.
 
-The opening trilogy tells a satisfying, tragic story in three Acts, but is only the start: the end of [[Galaxy In Flames]] rings the bell for the civil war to begin in earnest.
+The opening trilogy tells a satisfying, tragic story in three Acts, but is only the start: the end of [[Galaxy in Flames]] rings the bell for the civil war to begin in earnest.
 
 The fourth novel, _Flight of the Eisenstein_ by James Swallow, starts after some prelude again at Isstvan III, where the finale of _Galaxy In Flames_ takes place. A ship escapes the ongoing battle and goes on an arduous voyage towards Terra, to warn the Imperium of what is happening. It features some characters from the opening trilogy, introduces important characters for the rest of the series and lays the groundwork for some series-spanning arcs.
 

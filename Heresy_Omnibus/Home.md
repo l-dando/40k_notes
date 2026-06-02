@@ -55,7 +55,13 @@ group by themes
 
 
 ## Quick Access
-- [[Tags]]
-- [[Dataview Queries]]
-- [[Chaos Influence]]
+- [[Heresy_Omnibus/Tags|Tags]]
+- [[Heresy_Omnibus/Dataview Queries|Dataview Queries]]
+- [[Heresy_Omnibus/Chaos Influence|Chaos Influence]]
 
+
+
+## Worldbuilding Indexes
+- [[Heresy_Omnibus/Places/Places|Places]]
+- [[Heresy_Omnibus/Events/Events|Events]]
+- [[Heresy_Omnibus/Items/Items|Items]]

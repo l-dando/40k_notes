@@ -20,3 +20,8 @@ https://www.trackofwords.com/2021/01/10/black-library-new-40k-reading-list/
 - _The Devastation of Baal_ by Guy Haley*
 
 *Yes, The Devastation of Baal is included twice in this list on purpose. See later on in the article for more details of why (TL;DR due to Warp/time shenanigans it spans quite a wide range of time).
+
+## 40K Worldbuilding Indexes
+- [[40K/Places/Places|Places]]
+- [[40K/Events/Events|Events]]
+- [[40K/Items/Items|Items]]

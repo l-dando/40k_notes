@@ -12,5 +12,5 @@ The most powerful and prescient Farseer of the Aeldari, Eldrad Ulthran is a mast
 
 ## ⚔️ Role in Fulgrim
 - Observes the corruption spreading through the Emperor’s Children during their campaign in the Perdus Anomaly.
-- Leads an Aeldari delegation to [[30k_vault/Characters/Fulgrim]], warning him of [[Heresy_Omnibus/Characters/Horus Lupercal]]’s imminent betrayal.
+- Leads an Aeldari delegation to [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]], warning him of [[Heresy_Omnibus/Characters/Horus Lupercal]]’s imminent betrayal.
 - Realises Fulgrim is already tainted by Slaanesh and orders his warriors

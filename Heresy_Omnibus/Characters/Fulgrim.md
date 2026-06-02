@@ -13,7 +13,7 @@ The Primarch of the Emperor’s Children Legion, Fulgrim is famed for his pursui
 ## ⚔️ Role in the Great Crusade (so far)
 - Commands the Emperor’s Children, a Legion devoted to excellence in war and culture.
 - In *False Gods*, visits the 63rd Expedition during the Auretian Technocracy campaign.
-- Receives the [[Anathame]] from [[Heresy_Omnibus/Characters/Fabius Bile]], who had taken it from the Sons of Horus.
+- Receives the [[Heresy_Omnibus/Items/Anathame|Anathame]] from [[Heresy_Omnibus/Characters/Fabius Bile]], who had taken it from the Sons of Horus.
 - His presence reinforces the bonds between the Emperor’s Children and Horus’s forces as the Warmaster consolidates allies.
 
 ## 🔗 Connections

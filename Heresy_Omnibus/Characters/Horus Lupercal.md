@@ -12,10 +12,10 @@ The favoured son of the Emperor and first among the primarchs, Horus was elevate
 
 ## ⚔️ Role in the Great Crusade & Horus Heresey
 - Leads the 63rd Expedition to victory on Sixty‑Three Nineteen and Murder, forging bonds with allies and showing diplomatic skill with the Interex before war breaks out.
-- On Davin’s moon, is wounded by the [[Anathame]] wielded by the corrupted [[Heresy_Omnibus/Characters/Eugen Temba]].
+- On Davin’s moon, is wounded by the [[Heresy_Omnibus/Items/Anathame|Anathame]] wielded by the corrupted [[Heresy_Omnibus/Characters/Eugen Temba]].
 - Taken to the Serpent Lodge under [[Heresy_Omnibus/Characters/Erebus]]’s influence, experiences Warp visions that turn him against the Emperor.
 - Returns healed, concealing his rebellion from most of the Legion.
-- Engineers war with the [[Auretian Technocracy]] to secure Mechanicum support.
+- Engineers war with the [[Heresy_Omnibus/Places/Auretian Technocracy|Auretian Technocracy]] to secure Mechanicum support.
 - Orders the murders of [[Heresy_Omnibus/Characters/Petronella Vivar]] and [[Heresy_Omnibus/Characters/Ignace Karkasy]] to protect his secrets.
 - Begins planning the Isstvan campaign to overthrow the Emperor.
 - After Davin, secretly falls to Chaos and begins plotting open rebellion.
