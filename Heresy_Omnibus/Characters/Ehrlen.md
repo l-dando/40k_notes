@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A World Eaters figure referenced in Lord of the Red Sands.
+A World Eaters figure referenced in [[Lord of the Red Sands]].
 
 ## 🏷︎ Tags
 #Ehrlen

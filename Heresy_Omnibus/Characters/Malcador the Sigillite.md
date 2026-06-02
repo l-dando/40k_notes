@@ -8,16 +8,16 @@ status: encountered
 ---
 
 ## 🧠 Summary
-An ancient and immensely powerful human psyker, second only to the Emperor. Malcador serves as the Emperor’s regent, trusted advisor, and political instrument during the Great Crusade.
+An ancient and immensely powerful human psyker, second only to the [[Emperor]]. Malcador serves as the [[Emperor]]’s regent, trusted advisor, and political instrument during the Great Crusade.
 
-## ⚔️ Role in The First Heretic
-- Present at Monarchia after its destruction by the Ultramarines.
-- Attempts to explain the Emperor’s censure to [[Heresy_Omnibus/Characters/Lorgar Aurelian]], but is struck to the ground.
-- Psychically summons the Emperor to the surface to confront Lorgar.
+## ⚔️ Role in [[The First Heretic]]
+- Present at [[Monarchia]] after its destruction by the Ultramarines.
+- Attempts to explain the [[Emperor]]’s censure to [[Lorgar Aurelian]], but is struck to the ground.
+- Psychically summons the [[Emperor]] to the surface to confront [[Lorgar Aurelian|Lorgar]].
 
 ## 🔗 Connections
-- Close confidant of the Emperor.
-- Works alongside [[Heresy_Omnibus/Characters/Roboute Guilliman]] during the censure of the Word Bearers.
+- Close confidant of the [[Emperor]].
+- Works alongside [[Roboute Guilliman]] during the censure of the Word Bearers.
 
 ## 🏷︎ Tags
 #MalcadorTheSigillite #Imperium #TheFirstHeretic

@@ -8,15 +8,15 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A veteran Sergeant in [[Heresy_Omnibus/Characters/Garviel Loken]]’s 10th Company, known for his loyalty and easy camaraderie. Vipus is revealed to be a member of the secretive Warrior Lodges, causing tension with Loken.
+A veteran Sergeant in [[Garviel Loken]]’s 10th Company, known for his loyalty and easy camaraderie. Vipus is revealed to be a member of the secretive Warrior Lodges, causing tension with [[Garviel Loken|Loken]].
 
-## ⚔️ Role in Horus Rising
-- Serves as Loken’s trusted second during the Sixty‑Three Nineteen and Murder campaigns.
-- His lodge membership forces Loken to confront the growing influence of these secret fraternities.
+## ⚔️ Role in [[Horus Rising]]
+- Serves as [[Garviel Loken|Loken]]’s trusted second during the Sixty‑Three Nineteen and Murder campaigns.
+- His lodge membership forces [[Garviel Loken|Loken]] to confront the growing influence of these secret fraternities.
 
 ## 🔗 Connections
-- Close ally of [[Heresy_Omnibus/Characters/Garviel Loken]].
-- Lodge brother to [[Heresy_Omnibus/Characters/Tarik Torgaddon]] and [[Heresy_Omnibus/Characters/Horus Aximand]].
+- Close ally of [[Garviel Loken]].
+- Lodge brother to [[Tarik Torgaddon]] and [[Horus Aximand]].
 
 ## 🏷︎ Tags
 #NeroVipus #LunaWolves #SonsOfHorus #HorusRising

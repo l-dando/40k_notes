@@ -11,4 +11,4 @@ status: encountered
 High Administratrix of the 63rd Expeditionary Fleet, responsible for the vast bureaucratic apparatus supporting the Warmaster's campaign. As senior administrator, Rathbone managed the records, logistics, and civil operations of the expedition during the Great Crusade.
 
 ## 🔗 Connections
-- Part of the senior non-Astartes staff of the 63rd Expedition under [[Heresy_Omnibus/Characters/Horus Lupercal]].
+- Part of the senior non-Astartes staff of the 63rd Expedition under [[Horus Lupercal]].

@@ -11,8 +11,8 @@ status: encountered
 A seasoned, suspicious, and highly capable inquisitor operating in the political and institutional labyrinth of Holy Terra.
 
 ## Connections
-- Protagonist of [[40K/Books/The Carrion Throne]].
-- Mentor to [[40K/Characters/Luce Spinoza]].
+- Protagonist of [[The Carrion Throne]].
+- Mentor to [[Luce Spinoza]].
 
 ## Tags
 #ErasmusCrowl #Inquisition #VaultsOfTerra

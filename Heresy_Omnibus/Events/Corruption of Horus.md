@@ -5,6 +5,6 @@ known_from: [False Gods, Galaxy in Flames]
 tags: [event, heresy]
 ---
 
-# Corruption of Horus
+# Corruption of [[Horus Lupercal|Horus]]
 
-The sequence beginning with Horus's wounding on Davin and ending in his open rebellion against the Emperor.
+The sequence beginning with [[Horus Lupercal|Horus]]'s wounding on [[Davin]] and ending in his open rebellion against the [[Emperor]].

@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Sons of Horus officer referenced in Fulgrim and related Isstvan III material.
+A Sons of [[Horus Lupercal|Horus]] officer referenced in [[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]] and related [[Isstvan III]] material.
 
 ## 🏷︎ Tags
 #AndusHakur

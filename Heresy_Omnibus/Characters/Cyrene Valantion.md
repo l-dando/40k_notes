@@ -7,7 +7,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A key human witness and spiritual figure linked to the Word Bearers in The First Heretic.
+A key human witness and spiritual figure linked to the Word Bearers in [[The First Heretic]].
 
 ## 🏷︎ Tags
 #CyreneValantion

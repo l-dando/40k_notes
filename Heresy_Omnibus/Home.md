@@ -1,19 +1,19 @@
 # 🏛️ Warhammer 30K Reading Campaign
 
-Welcome to a chronological descent through the Horus Heresy. This vault tracks current progress, explores Legion ideologies, and surfaces thematic arcs across the galaxy’s unravelling.
+Welcome to a chronological descent through the [[Horus Lupercal|Horus]] Heresy. This vault tracks current progress, explores Legion ideologies, and surfaces thematic arcs across the galaxy’s unravelling.
 
-Horus Rising
-False Gods 
-Galaxy in Flames 
-The Flight of the Eisenstein
-Fulgrim
-The First Heretic 
-Prospero Burns
-Know No Fear 
-Betrayer
-Praetorian of Dorn 
-The Master of Mankind
-Slaves to Darkness
+[[Horus Rising]]
+[[False Gods]] 
+[[Galaxy in Flames]] 
+[[The Flight of the Eisenstein]]
+[[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]
+[[The First Heretic]] 
+[[Prospero Burns]]
+[[Know No Fear]] 
+[[Betrayer]]
+[[Praetorian of Dorn]] 
+[[The Master of Mankind]]
+[[Slaves to Darkness]]
 
 ## 📚 Reading Progress
 ```dataview
@@ -55,13 +55,13 @@ group by themes
 
 
 ## Quick Access
-- [[Heresy_Omnibus/Tags|Tags]]
-- [[Heresy_Omnibus/Dataview Queries|Dataview Queries]]
-- [[Heresy_Omnibus/Chaos Influence|Chaos Influence]]
+- [[Tags]]
+- [[Dataview Queries]]
+- [[Chaos Influence]]
 
 
 
 ## Worldbuilding Indexes
-- [[Heresy_Omnibus/Places/Places|Places]]
-- [[Heresy_Omnibus/Events/Events|Events]]
-- [[Heresy_Omnibus/Items/Items|Items]]
+- [[Places]]
+- [[Events]]
+- [[Items]]

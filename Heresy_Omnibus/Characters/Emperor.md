@@ -7,11 +7,11 @@ status: encountered
 ---
 
 ## 🧠 Summary
-The Master of Mankind and architect of the Great Crusade. During the Heresy era, His absence from frontline command and hidden work on Terra shape the political and spiritual vacuum that Horus exploits.
+[[The Master of Mankind]] and architect of the Great Crusade. During the Heresy era, His absence from frontline command and hidden work on Terra shape the political and spiritual vacuum that [[Horus Lupercal|Horus]] exploits.
 
 ## 🔗 Connections
-- Father of [[Heresy_Omnibus/Characters/Horus Lupercal]] and the primarchs.
-- Central reference point in [[Heresy_Omnibus/Books/Short Stories/The Wolf of Ash and Fire|The Wolf of Ash and Fire]] and early Heresy novels.
+- Father of [[Horus Lupercal]] and the primarchs.
+- Central reference point in [[The Wolf of Ash and Fire]] and early Heresy novels.
 
 ## 🏷︎ Tags
 #Emperor #MasterOfMankind #Imperium

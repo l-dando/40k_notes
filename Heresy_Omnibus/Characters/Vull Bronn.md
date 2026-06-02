@@ -8,7 +8,7 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A warrior of the Emperor's Children, Vull Bronn was targeted for corruption by [[Heresy_Omnibus/Characters/Eidolon]] during the Iydris campaign, with Eidolon attempting to further bind him to the path of excess and excess. However, his companion [[Heresy_Omnibus/Characters/Grendel]] intervened, complicating Eidolon's scheme.
+A warrior of the [[Emperor]]'s Children, Vull Bronn was targeted for corruption by [[Eidolon]] during the Iydris campaign, with [[Eidolon]] attempting to further bind him to the path of excess and excess. However, his companion [[Grendel]] intervened, complicating [[Eidolon]]'s scheme.
 
 ## 🔗 Connections
-- Associated with [[Heresy_Omnibus/Characters/Eidolon]] and the Emperor's Children.
+- Associated with [[Eidolon]] and the [[Emperor]]'s Children.

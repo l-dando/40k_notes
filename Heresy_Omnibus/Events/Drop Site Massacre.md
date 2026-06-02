@@ -7,4 +7,4 @@ tags: [event, heresy]
 
 # Drop Site Massacre
 
-The catastrophe on Isstvan V where reinforcement legions turn on their supposed allies.
+The catastrophe on [[Isstvan V]] where reinforcement legions turn on their supposed allies.

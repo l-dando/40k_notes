@@ -12,12 +12,12 @@ A skilled Geno commander whose unit, the Dancers, is caught in the Nurthene conf
 
 ## ⚔️ Role in Legion
 - Survives the initial Nurthene ambush.
-- Helps [[Heresy_Omnibus/Characters/John Grammaticus]] reach [[Heresy_Omnibus/Characters/Alpharius Omegon]].
+- Helps [[John Grammaticus]] reach [[Alpharius Omegon]].
 - Witnesses the Acuity vision and survives the betrayal at 42 Hydra.
 
 ## 🔗 Connections
-- Trusted by [[Heresy_Omnibus/Characters/Hurtado Bronzi]].
-- Interacts with [[Heresy_Omnibus/Characters/Rukhsana Saiid]] and [[Heresy_Omnibus/Characters/John Grammaticus]].
+- Trusted by [[Hurtado Bronzi]].
+- Interacts with [[Rukhsana Saiid]] and [[John Grammaticus]].
 
 ## 🏷︎ Tags
 #PetoSoneka #GenoFiveTwo #Legion

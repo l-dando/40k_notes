@@ -7,4 +7,4 @@ tags: [place, heresy]
 
 # Davin
 
-A world in the Davin system where the Sons of Horus answer a distress call and discover the corruption surrounding Eugen Temba.
+A world in the Davin system where the Sons of [[Horus Lupercal|Horus]] answer a distress call and discover the corruption surrounding [[Eugen Temba]].

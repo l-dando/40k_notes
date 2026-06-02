@@ -12,7 +12,7 @@ A human Perpetual — effectively immortal — working for the Cabal, an ancient
 
 ## ⚔️ Role in Legion
 - Foils an Alpha Legion assassination on Incarum.
-- Acts as the Cabal’s messenger to [[Heresy_Omnibus/Characters/Alpharius Omegon]].
+- Acts as the Cabal’s messenger to [[Alpharius Omegon]].
 - Becomes a reluctant pawn in the Alpha Legion’s long game.
 
 ## 🔗 Connections
