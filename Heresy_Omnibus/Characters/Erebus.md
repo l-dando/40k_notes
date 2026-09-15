@@ -3,22 +3,22 @@ name: Erebus
 titles: [First Chaplain of the Word Bearers]
 affiliation: Word Bearers
 first_appearance: Horus Rising
-books: [Horus Rising]
+books: [Horus Rising, The First Heretic, Know No Fear]
 status: encountered
 ---
 
 ## 🧠 Summary
-A manipulative and calculating Chaplain of the Word Bearers, travelling with the 63rd Expedition Fleet under diplomatic pretence.
+A manipulative and calculating Chaplain of the Word Bearers, Erebus is one of the Heresy’s great instigators: thief, priest, conspirator, and architect of spiritual corruption.
 
-## ⚔️ Role in [[Horus Rising]]
-- Secretly steals the Interex’s [[Anathame|anathame]] during negotiations.
-- Sets in motion events that will have galaxy‑shaking consequences.
-- Present during the [[Isstvan III]] betrayal as part of [[Horus Lupercal|Horus]]’s inner circle.
-- Oversees the execution of [[Horus Lupercal|Horus]]’s plans alongside the other traitor commanders.
+## ⚔️ Role in Books
+- [[Horus Rising]]: Secretly steals the Interex’s [[Anathame|anathame]] during negotiations and helps set larger treacheries in motion.  
+- [[The First Heretic]]: Serves [[Lorgar Aurelian]] as one of the Legion’s key corrupters, helping reshape Word Bearers belief around Chaos.  
+- [[Know No Fear]]: Helps translate Word Bearers belief into ritual warfare at [[Calth]], where sorcery, sabotage, and massacre unfold together.
 
 ## 🔗 Connections
-- Serves [[Lorgar Aurelian]].
-- Manipulates [[Horus Lupercal]] and the Sons of [[Horus Lupercal|Horus]].
+- Serves [[Lorgar Aurelian]] alongside [[Kor Phaeron]].
+- Manipulates [[Horus Lupercal]] and helps spread the Heresy across multiple fronts.
+- Closely tied to the Word Bearers’ revenge for [[Monarchia]].
 
 ## 🏷︎ Tags
-#Erebus #WordBearers #HorusRising
+#Erebus #WordBearers #HorusRising #TheFirstHeretic #KnowNoFear
