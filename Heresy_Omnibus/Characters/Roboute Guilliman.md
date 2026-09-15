@@ -7,21 +7,21 @@ books: [The First Heretic, Know No Fear]
 status: encountered
 ---
 
-## 🧠 Summary  
-Roboute Guilliman is the strategic and pragmatic Primarch of the Ultramarines Legion. He builds order at a civilisational scale, whether governing Ultramar or commanding in war, and his calm method is tested brutally when the Heresy reaches [[Calth]].
+## 🧠 Summary
+Roboute Guilliman is the strategic and pragmatic Primarch of the Ultramarines Legion. In the books read so far, he first appears as the executor of Imperial censure at [[Monarchia]], then as the central loyalist commander caught in the Word Bearers’ betrayal at [[Calth]]. His combination of methodical control, physical ferocity, and refusal to yield defines both appearances.
 
-## ⚔️ Role in Books  
-- [[The First Heretic]]: Carries out the [[Emperor]]’s censure of the Word Bearers by razing [[Monarchia]], becoming the face of Imperial discipline in [[Lorgar Aurelian|Lorgar]]’s humiliation.  
-- [[Know No Fear]]: Survives the opening of the [[Battle of Calth]], rallies the Ultramarines amid total surprise, and turns catastrophe into organised resistance against the Word Bearers.
+## ⚔️ Role in Books
+- [[The First Heretic]]: Carries out the [[Emperor]]’s decree at [[Monarchia]] with cold precision, becoming the face of the humiliation that breaks the Word Bearers’ faith in the Imperial Truth.
+- [[Know No Fear]]: Returns to Ultramar for the great muster at [[Calth]], slowly realises the conjunction with the Word Bearers is a trap, and leads the Ultramarines through the opening of the [[Battle of Calth]]. Survives daemonic assault and void exposure around the *Macragge’s Honour*, then nearly kills [[Kor Phaeron]] when the traitor tries to corrupt him.
 
-## 🔗 Connections  
-- Primarch and gene-sire of the Ultramarines.  
-- His destruction of [[Monarchia]] helps drive the Word Bearers toward revenge.  
-- Opposed directly by [[Kor Phaeron]], [[Erebus]], and the wider Shadow Crusade.
+## 🔗 Connections
+- His destruction of [[Monarchia]] sets the ideological stage for the Word Bearers’ revenge.
+- His rivalry with [[Lorgar Aurelian|Lorgar]] becomes open legionary war at [[Calth]].
+- Commands senior Ultramarines such as [[Marius Gage]], [[Remus Ventanus]], and [[Aeonid Thiel]].
 
-## 📝 Notes  
-- Guilliman’s great strength is not just planning, but recovering faster than his enemies expect.  
-- *[[Know No Fear]]* makes him a frontline survivor as well as a statesman and strategist.
+## 📝 Notes
+- Often presented as the paragon of order and rational command, but Calth reveals how dangerous he is when forced into direct violence.
+- His scenes in *[[Know No Fear]]* make the Heresy personal for the Ultramarines rather than distant news from elsewhere.
 
-## 🏷︎ Tags  
-#RobouteGuilliman #Ultramarines #Primarch #Monarchia #KnowNoFear #TheFirstHeretic  
+## 🏷︎ Tags
+#RobouteGuilliman #Ultramarines #Primarch #Monarchia #TheFirstHeretic #KnowNoFear #BattleOfCalth

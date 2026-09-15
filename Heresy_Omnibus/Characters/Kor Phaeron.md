@@ -8,19 +8,20 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Chief orator, warlord, and corrupter of the Word Bearers, Kor Phaeron turns belief into weaponised strategy. Where [[Erebus]] seeds plots, Kor Phaeron imposes them through command, ritual, and calculated atrocity.
+Chief orator and ritualist of the Word Bearers, Kor Phaeron helps turn the legion’s wounded faith into active treachery. He moves from guiding [[Lorgar Aurelian|Lorgar]] through forbidden belief to commanding one of the most important traitor blows of the early Heresy.
 
 ## ⚔️ Role in Books
-- [[The First Heretic]]: Guides [[Lorgar Aurelian|Lorgar]] through forbidden rites and helps steer the Legion away from Imperial dogma.  
-- [[Know No Fear]]: Oversees the treachery at [[Calth]], directing the Word Bearers’ assault and the wider attempt to cripple the Ultramarines through military and warp-borne devastation.
+- [[The First Heretic]]: Guides [[Lorgar Aurelian|Lorgar]] through forbidden rites and helps engineer the legion’s first departure from Imperial dogma.
+- [[Know No Fear]]: Acts as a principal Word Bearers commander at [[Calth]], pressing the betrayal in the void war and attempting to spiritually corrupt [[Roboute Guilliman]]. Guilliman answers by tearing out one of his hearts, forcing Kor Phaeron to flee rather than claim victory.
 
 ## 🔗 Connections
-- Works closely with [[Erebus]] and serves [[Lorgar Aurelian]].  
-- A principal architect of the Ultramar campaign and the [[Battle of Calth]].
+- Works closely with [[Erebus]] to implement heretical ceremonies.
+- Serves as one of [[Lorgar Aurelian|Lorgar]]’s most dangerous lieutenants.
+- Becomes a direct battlefield foe of [[Roboute Guilliman]] during the [[Battle of Calth]].
 
 ## 📝 Notes
-- Kor Phaeron embodies the fusion of sermon and slaughter that defines the corrupted Word Bearers.  
-- His hatred of Ultramar is inseparable from the memory of [[Monarchia]].
+- Embodies the power of words to reshape belief.
+- At Calth, his zealotry becomes open strategic and spiritual warfare.
 
 ## 🏷︎ Tags
-#HighOrator #WordBearers #TheFirstHeretic #KnowNoFear  
+#HighOrator #WordBearers #TheFirstHeretic #KnowNoFear #BattleOfCalth

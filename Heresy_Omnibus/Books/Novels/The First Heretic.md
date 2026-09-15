@@ -49,28 +49,28 @@ After the massacre, [[Aquillon]] and his Custodians arrive aboard the *De Profun
 
 Consumed by grief and rage, [[Argel Tal]] hunts the Custodians to the surface of [[Isstvan V]]. In the final confrontation, [[Malnor]] is butchered, [[Aquillon]] is decapitated by [[Argel Tal]], and the last Custodian kills [[Xaphen]] before being torn apart by the surviving Gal Vorbak.
 
-Alone with [[Cyrene Valantion|Cyrene]]’s final message, [[Argel Tal]] mourns his fallen brothers as the Word Bearers set course for **Calth** to ambush the Ultramarines. In the silence of his mind, [[Raum]] speaks again — declaring that he is [[Argel Tal]]’s brother now.
+Alone with [[Cyrene Valantion|Cyrene]]’s final message, [[Argel Tal]] mourns his fallen brothers as the Word Bearers set course for [[Calth]] to ambush the Ultramarines in the coming [[Battle of Calth]]. In the silence of his mind, [[Raum]] speaks again — declaring that he is [[Argel Tal]]’s brother now.
 
 ---
 
 
 ## 🧠 Themes
-- Faith supplanting duty  
-- The birth of heresy through ritual  
-- Betrayal as spiritual revelation  
+- Faith supplanting duty
+- The birth of heresy through ritual
+- Betrayal as spiritual revelation
 
 ## ⚔️ Legion Focus
-- Word Bearers: [[Lorgar Aurelian]], [[Erebus]], [[Kor Phaeron]]  
+- Word Bearers: [[Lorgar Aurelian]], [[Erebus]], [[Kor Phaeron]]
 
 ## 📝 Notes
-- The First Heretic reframes loyalty as worship, showing how zealotry can outstrip even genetics.  
-- Dark Apostles serve as the ideological backbone for the [[Drop Site Massacre]].  
+- The First Heretic reframes loyalty as worship, showing how zealotry can outstrip even genetics.
+- Dark Apostles serve as the ideological backbone for the [[Drop Site Massacre]].
 - [[Cadia]]’s early exposure to Chaos foreshadows its later role as the Imperium’s bulwark.
 
 ## 🔗 Connections
-- Builds on the censure event on [[Monarchia]] from earlier volumes.  
-- Foreshadows the [[Drop Site Massacre]] at [[Isstvan V]].  
-- Sets the stage for *[[Galaxy in Flames]]* and the wider [[Horus Lupercal|Horus]] Heresy series.
+- Builds on the censure event on [[Monarchia]] from earlier volumes.
+- Foreshadows the [[Drop Site Massacre]] at [[Isstvan V]].
+- Sets the stage for *[[Know No Fear]]*, *[[Galaxy in Flames]]*, and the wider [[Horus Lupercal|Horus]] Heresy series.
 
 ## 🧩 Tags
 #TheFirstHeretic #WordBearers #HeraldsOfHeresy #ChaosPilgrimage #PreHeresy
