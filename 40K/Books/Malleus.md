@@ -15,7 +15,7 @@ essential: Yes
 
 In the aftermath of *[[Xenos]]*, [[Gregor Eisenhorn]] is drawn into a more openly daemonic war. Political rivals, assassination attempts, and the return of old enemies force him across a trail of conspiracies that reaches from remote strongholds to [[Thracian Primaris]], where the [[Thracian Primaris Conclave Crisis]] shows the Inquisition’s own divisions can be as dangerous as the powers of Chaos.
 
-*Malleus* pushes Eisenhorn beyond the limits of puritan orthodoxy. His pursuit of radical Inquisitors, daemonhosts, and apocalyptic schemes leaves his retinue scarred and his reputation deeply compromised. The novel sharpens the trilogy’s central theme: that victory over darkness can demand tools that threaten to remake the victor.
+*Malleus* pushes Eisenhorn beyond the limits of puritan orthodoxy. His pursuit of radical inquisitors, daemonhosts, and apocalyptic schemes leaves his retinue scarred and his reputation deeply compromised. The novel sharpens the trilogy’s central theme: that victory over darkness can demand tools that threaten to remake the victor.
 
 ---
 
