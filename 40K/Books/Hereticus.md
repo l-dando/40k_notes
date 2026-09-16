@@ -13,9 +13,7 @@ essential: Yes
 
 ## 🧭 Overview
 
----
-
-By *Hereticus*, [[Gregor Eisenhorn]] is no longer merely hunting radicals and heretics — he is one of the figures other Inquisitors fear most. The murder of [[Alizebeth Bequin]] and the resurgence of [[Pontius Glaw]] drag Eisenhorn into a final reckoning that spans old battlefields, political vendettas, and the unresolved consequences of everything he embraced in *[[Xenos]]* and *[[Malleus]]*, bringing the [[Pontius Glaw Investigation]] to its darkest point.
+By *Hereticus*, [[Gregor Eisenhorn]] is no longer merely hunting radicals and heretics — he is one of the figures other Inquisitors fear most. The murder of Midas Betancore and the pursuit of the renegade inquisitor Quixos drag Eisenhorn into a final reckoning that spans old battlefields, political vendettas, and the unresolved consequences of everything he embraced in *[[Xenos]]* and *[[Malleus]]*.
 
 The novel closes the original Eisenhorn trilogy with a story of grief, obsession, and irreversible compromise. Eisenhorn’s warband is shattered, his methods are pushed past any easy defence, and his victory comes entwined with the same corruption he has spent three books resisting.
 
@@ -29,7 +27,7 @@ The attack on the people closest to him turns the novel’s conflict personal in
 ---
 
 ## Part Two — Obsession and Pursuit
-The hunt that follows brings the whole Eisenhorn arc back into focus. [[Pontius Glaw]] is not just a recurring villain but a symbol of the unresolved rot at the centre of Eisenhorn’s career: old evils never fully buried, old compromises never fully escaped. The [[Pontius Glaw Investigation]] becomes the mechanism through which the trilogy forces Eisenhorn to revisit every earlier bargain.
+The hunt that follows brings the whole Eisenhorn arc back into focus. Quixos is the immediate target, but the wider web of enemies ensures the book keeps circling back to everything Eisenhorn failed to bury in earlier volumes. [[Pontius Glaw]] remains an important part of that wider corruption, and the [[Pontius Glaw Investigation]] becomes one of the threads through which the trilogy forces Eisenhorn to revisit every earlier bargain.
 
 At the same time, the novel keeps pressure on the question of legitimacy. Eisenhorn may still be fighting genuine threats, but he no longer has unquestioned authority to do so. That tension is one of the book’s great strengths: the reader can understand why he acts while also seeing why others would call him dangerous.
 

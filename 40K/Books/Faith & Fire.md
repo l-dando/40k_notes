@@ -13,16 +13,14 @@ essential: Yes
 
 ## 🧭 Overview
 
----
-
 *Faith & Fire* follows [[Sister Miriya]] of the Order of Our Martyred Lady as she is swept into a mission shaped by relics, ecclesiastical intrigue, and hidden corruption. On the shrine world [[Neva]], the Sisters confront the [[Neva Relic Conspiracy]], in which devotion, pilgrimage, and sacred authority are weaponised as cover for heresy.
 
-The novel presents the Adepta Sororitas as both warriors and guardians of belief, showing how absolute faith can sustain the Imperium while also making it vulnerable to manipulation. Miriya’s struggle balances duty, sacrifice, and suspicion, giving the 40K section a strong Ecclesiarchy and Sororitas perspective beside the more inquisitorial focus of Eisenhorn.
+The novel presents the Adepta Sororitas as both warriors and guardians of belief, showing how absolute faith can sustain the Imperium while also making it vulnerable to manipulation. Miriya’s struggle balances duty, sacrifice, and suspicion, giving the book a strong Ecclesiarchy and Sororitas perspective beside the more inquisitorial focus of [[Gregor Eisenhorn]].
 
 ---
 
 ## Part One — Duty Under Suspicion
-The novel works first by centring an Imperial institution that is adjacent to inquisitorial power but not defined by it. Through [[Sister Miriya]], *Faith & Fire* approaches danger through obedience, devotion, and discipline rather than secrecy and investigation. That shift gives the 40K section a different emotional texture: the struggle is not only to uncover corruption, but to remain worthy while doing so.
+The novel works first by centring an Imperial institution that is adjacent to inquisitorial power but not defined by it. Through [[Sister Miriya]], *Faith & Fire* approaches danger through obedience, devotion, and discipline rather than secrecy and investigation. The struggle is not only to uncover corruption, but to remain worthy while doing so.
 
 Miriya’s perspective matters because she is not naïve. Her faith is not softness, and the novel repeatedly tests whether certainty can survive contact with compromise, politics, and betrayal.
 
@@ -38,7 +36,7 @@ The shrine-world setting also lets the book examine the Ecclesiarchy’s enormou
 ## Part Three — Faith as Strength and Vulnerability
 By the end, the novel argues that belief is indispensable to the Imperium yet never safe from distortion. [[Sister Miriya]] succeeds not because faith shields her from doubt, but because it gives her the resolve to act through doubt. That makes the book a useful counterpart to the Eisenhorn trilogy: where Eisenhorn increasingly trusts his own judgement above systems, Miriya is defined by trying to preserve the meaning of the system she serves.
 
-It also broadens the vault’s 40K material beyond inquisitorial noir. *Faith & Fire* adds a more devotional, ecclesiastical, and martyr-focused branch of the setting without losing the same core 40K interest in corruption hiding inside institutions.
+It also broadens the reading arc beyond inquisitorial noir. *Faith & Fire* adds a more devotional, ecclesiastical, and martyr-focused branch of the setting without losing the same core 40K interest in corruption hiding inside institutions.
 
 ## 🧠 Themes
 - Faith as both armour and vulnerability
@@ -46,15 +44,15 @@ It also broadens the vault’s 40K material beyond inquisitorial noir. *Faith & 
 - Duty shaped by sacrifice and martyrdom
 
 ## 📝 Notes
-- [[Sister Miriya]] gives the 40K section a strong non-inquisitorial protagonist.
+- [[Sister Miriya]] gives the 40K shelf a strong non-inquisitorial protagonist.
 - [[Neva]] is most effective when treated as a sacred world whose piety has become exploitable.
 - The novel’s best tension comes from trying to protect belief without becoming blind in its name.
-- It pairs well with the Eisenhorn books as another example of Imperial institutions confronting internal corruption.
+- It pairs well with *[[Xenos]]*, *[[Malleus]]*, and *[[Hereticus]]* as another example of Imperial institutions confronting internal corruption.
 
 ## 🔗 Connections
-- Establishes [[Sister Miriya]] and the Sororitas/Ecclesiarchy side of the 40K setting in this vault.
+- Establishes [[Sister Miriya]] and the Sororitas/Ecclesiarchy side of the setting.
 - Uses the [[Neva Relic Conspiracy]] to mirror inquisitorial investigations through a different Imperial lens.
-- Broadens the 40K reading notes beyond Terra and the Eisenhorn arc.
+- Broadens the reading notes beyond [[Terra (40K)]] and the [[Gregor Eisenhorn]] arc.
 
 ## 🧩 Tags
 #FaithAndFire #AdeptaSororitas #Ecclesiarchy #Faith #Heresy #Martyrdom

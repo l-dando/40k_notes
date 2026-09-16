@@ -13,11 +13,9 @@ essential: Yes
 
 ## 🧭 Overview
 
----
-
 In the decaying sprawl of Holy Terra at the end of the 41st Millennium, Inquisitor [[Erasmus Crowl]] of the Ordo Hereticus uncovers signs of a hidden conspiracy festering at the very heart of the Imperium. Assisted by his newly elevated acolyte [[Luce Spinoza]], [[Erasmus Crowl|Crowl]] follows a trail of murders, forbidden technologies, and political manipulation through the underhives, administratum warrens, and the shadowed precincts surrounding the Imperial Palace.
 
-As their investigation deepens, the pair are hunted by unknown forces—heretics, xenos agents, cultists, or even rival Inquisitors—each seemingly intent on burying the truth. What begins as a routine inquiry spirals into a revelation so dangerous that its exposure could destabilize the Imperium itself. The novel paints Terra not as a shining beacon of humanity, but as a suffocating, paranoid metropolis where faith, bureaucracy, and corruption intertwine, and where even the Inquisition must tread carefully.
+As their investigation deepens, the pair are hunted by unknown forces—heretics, xenos agents, cultists, or even rival Inquisitors—each seemingly intent on burying the truth. What begins as a routine inquiry spirals into a revelation so dangerous that its exposure could destabilise the Imperium itself. The novel paints Terra not as a shining beacon of humanity, but as a suffocating, paranoid metropolis where faith, bureaucracy, and corruption intertwine, and where even the Inquisition must tread carefully.
 
 ---
 
@@ -54,7 +52,7 @@ By the end, the immediate plot is less important than the portrait of a civilisa
 ## 🔗 Connections
 - Establishes [[Erasmus Crowl]], [[Luce Spinoza]], and [[Navradaran]] as the central trio of the Vaults of Terra arc.
 - Uses the [[Carrion Throne Investigation]] to show why Terra itself is one of the most important 40K settings.
-- Complements the Eisenhorn books by presenting a more static, institutional, and throneworld-centred face of the Inquisition.
+- Complements *[[Xenos]]*, *[[Malleus]]*, and *[[Hereticus]]* by presenting a more static, institutional, and throneworld-centred face of the Inquisition.
 
 ## 🧩 Tags
 #TheCarrionThrone #VaultsOfTerra #Inquisition #Terra #Conspiracy #ImperialDecay
