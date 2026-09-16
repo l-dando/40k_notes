@@ -1,5 +1,5 @@
 ---
-name: Alizabeth Bequin
+name: Alizebeth Bequin
 titles: [Untouchable]
 affiliation: Gregor Eisenhorn's retinue
 first_appearance: Xenos

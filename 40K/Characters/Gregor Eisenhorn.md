@@ -12,7 +12,7 @@ A formidable Imperial Inquisitor whose pursuit of hidden threats steadily blurs 
 
 ## Connections
 - Protagonist of [[Xenos]], [[Malleus]], and [[Hereticus]].
-- Close ally of [[Alizabeth Bequin]] and mentor to [[Gideon Ravenor]].
+- Close ally of [[Alizebeth Bequin]] and mentor to [[Gideon Ravenor]].
 - Pursues the conspiracies surrounding [[Pontius Glaw]] and the [[Necroteuch]].
 
 ## Tags
