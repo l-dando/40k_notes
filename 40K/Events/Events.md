@@ -7,3 +7,6 @@ tags: [index, events, 40k]
 # 40K Events
 
 - [[Carrion Throne Investigation]]
+- [[Pontius Glaw Investigation]]
+- [[Thracian Primaris Conclave Crisis]]
+- [[Neva Relic Conspiracy]]

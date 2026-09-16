@@ -7,3 +7,4 @@ tags: [index, items, 40k]
 # 40K Items
 
 - [[Inquisitorial Rosette]]
+- [[Necroteuch]]
