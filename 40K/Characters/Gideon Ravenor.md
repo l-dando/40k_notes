@@ -11,7 +11,7 @@ status: encountered
 A gifted psyker first encountered as one of [[Gregor Eisenhorn]]’s protégés, Ravenor stands out for his intelligence, resilience, and growing importance within the Inquisition.
 
 ## Connections
-- Appears across [[Xenos]], [[Malleus]], and [[Hereticus]].
+- Appears across [[Xenos]], [[Malleus]], and [[Hereticus]] as one of Eisenhorn’s most important protégés.
 - Student and eventual peer figure to [[Gregor Eisenhorn]].
 
 ## Tags

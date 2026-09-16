@@ -15,7 +15,7 @@ essential: Yes
 
 ---
 
-*Faith & Fire* follows [[Sister Miriya]] of the Order of Our Martyred Lady as she is swept into a mission shaped by relics, ecclesiastical intrigue, and hidden corruption. On the shrine world [[Neva]], the Sisters confront enemies who weaponise devotion itself, turning piety, pilgrimage, and sacred authority into cover for heresy.
+*Faith & Fire* follows [[Sister Miriya]] of the Order of Our Martyred Lady as she is swept into a mission shaped by relics, ecclesiastical intrigue, and hidden corruption. On the shrine world [[Neva]], the Sisters confront the [[Neva Relic Conspiracy]], in which devotion, pilgrimage, and sacred authority are weaponised as cover for heresy.
 
 The novel presents the Adepta Sororitas as both warriors and guardians of belief, showing how absolute faith can sustain the Imperium while also making it vulnerable to manipulation. Miriya’s struggle balances duty, sacrifice, and suspicion, giving the 40K section a strong Ecclesiarchy and Sororitas perspective beside the more inquisitorial focus of Eisenhorn.
 

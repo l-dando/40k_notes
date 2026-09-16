@@ -15,7 +15,7 @@ essential: Yes
 
 ---
 
-By *Hereticus*, [[Gregor Eisenhorn]] is no longer merely hunting radicals and heretics — he is one of the figures other Inquisitors fear most. The murder of [[Alizebeth Bequin]] and the resurgence of [[Pontius Glaw]] drag Eisenhorn into a final reckoning that spans old battlefields, political vendettas, and the unresolved consequences of everything he embraced in *[[Xenos]]* and *[[Malleus]]*.
+By *Hereticus*, [[Gregor Eisenhorn]] is no longer merely hunting radicals and heretics — he is one of the figures other Inquisitors fear most. The murder of [[Alizebeth Bequin]] and the resurgence of [[Pontius Glaw]] drag Eisenhorn into a final reckoning that spans old battlefields, political vendettas, and the unresolved consequences of everything he embraced in *[[Xenos]]* and *[[Malleus]]*, bringing the [[Pontius Glaw Investigation]] to its darkest point.
 
 The novel closes the original Eisenhorn trilogy with a story of grief, obsession, and irreversible compromise. Eisenhorn’s warband is shattered, his methods are pushed past any easy defence, and his victory comes entwined with the same corruption he has spent three books resisting.
 

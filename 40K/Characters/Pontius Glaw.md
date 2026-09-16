@@ -1,6 +1,6 @@
 ---
 name: Pontius Glaw
-titles: [Pontius Glaw]
+titles: [Heretic nobleman]
 affiliation: Heretic cabals
 first_appearance: Xenos
 books: [Xenos, Hereticus]
