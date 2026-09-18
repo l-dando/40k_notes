@@ -2,19 +2,21 @@
 name: Orfeo Culzean
 titles: [Contemptor Dreadnought]
 affiliation: Ultramarines
-first_appearance: Know No Fear
-books: [Know No Fear]
+first_appearance: Betrayer
+books: [Betrayer]
 status: encountered
 ---
 
 ## 🧠 Summary
-A venerable Ultramarines Dreadnought whose raw resilience and close-range brutality make him one of the Legion’s most memorable defenders during the fighting on [[Calth]].
+Orfeo Culzean is a venerable Ultramarines Contemptor Dreadnought whose resilience and ferocity make him one of the loyalists’ most memorable defenders in *Betrayer*.
 
-## ⚔️ Role in [[Know No Fear]]
-- [[Know No Fear]]: Joins the defence of [[Calth]], lending ancient firepower and stubborn endurance to the Ultramarines’ survival effort.
+## ⚔️ Role in [[Betrayer]]
+- Leads one of the hardest Ultramarines stands at [[Armatura]] during the Shadow Crusade.
+- Meets the World Eaters’ assault head-on, showing that even Angron’s Legion can be bloodily checked by discipline and endurance.
 
 ## 🔗 Connections
-- Fights for [[Roboute Guilliman]] alongside officers such as [[Remus Ventanus]].
+- Fights for [[Roboute Guilliman]] during the defence of Ultramar.
+- Opposes [[Angron]]’s World Eaters at [[Armatura]].
 
 ## 🏷︎ Tags
-#OrfeoCulzean #Ultramarines #KnowNoFear #BattleOfCalth
+#OrfeoCulzean #Ultramarines #Betrayer #Armatura

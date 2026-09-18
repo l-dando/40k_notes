@@ -3,23 +3,26 @@ name: Khârn
 titles: [Captain of the 8th Company, Equerry to Angron]
 affiliation: World Eaters
 first_appearance: Galaxy in Flames (in your reading order)
-books: [Galaxy in Flames]
+books: [Galaxy in Flames, Betrayer]
 status: encountered
 ---
 
 ## 🧠 Summary
-A legendary warrior of the World Eaters Legion, Khârn is renowned for his ferocity, skill in close combat, and unwavering loyalty to his primarch [[Angron]]. Even before his fall to Chaos, he was one of the most feared captains in the Legiones Astartes, wielding the chainaxe Gorechild with unmatched brutality.
+Khârn is one of the World Eaters’ greatest warriors, but in the books read so far he matters just as much for restraint as for violence. He is Angron’s equerry, a killer of immense ability, and one of the few XII Legion officers still capable of loyalty, friendship, and clear thought inside a Legion being eaten alive by the Nails.
 
-## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/Galaxy in Flames|Galaxy in Flames]]
-- Present on [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]] as part of the traitor World Eaters contingent.
-- Confronts [[Heresy_Omnibus/Characters/Garviel Loken]] during the loyalist defence of the Choral City.
-- Initially shows a flicker of his former camaraderie before succumbing fully to rage and attacking without restraint.
-- Engages Loken in a brutal duel until a Sons of Horus tank crashes into them, impaling Khârn on its dozer blades and taking him out of the fight.
+## ⚔️ Role in Books
+- [[Galaxy in Flames]]: Fights on [[Isstvan III]], briefly showing echoes of old camaraderie before the battle with [[Garviel Loken]] ends with Khârn left impaled and presumed dead.
+- [[Betrayer]]: Is recovered alive after Isstvan III and returns to the Shadow Crusade as Angron’s most dependable son. Fights across Armatura and aboard the *Conqueror*, speaks openly about Angron’s decline, helps [[Argel Tal]] recover [[Cyrene Valantion]]’s body, and tries desperately to save Argel Tal on Nuceria. After learning that [[Erebus]] murdered his friend, Khârn nearly kills the chaplain in the fighting pits.
 
 ## 🔗 Connections
-- Equerry and favoured captain of [[Angron]].
-- Formerly respected by Loken during the Great Crusade.
-- Comrade to other World Eaters captains such as [[Ehrlen]].
+- Equerry and most trusted son of [[Angron]].
+- Closest friend of [[Argel Tal]], whose death hits Khârn harder than almost anything else in the novel.
+- Works closely with [[Lotara Sarrin]] in trying to hold the World Eaters together.
+- Opposed to [[Erebus]], whose treachery turns Khârn’s grief into another step toward damnation.
+
+## 📝 Notes
+- Khârn is still frightening in *Betrayer*, but not yet emptied out; his humanity survives most clearly in loyalty.
+- His friendship with Argel Tal is one of the strongest signs that another fate might once have been possible.
 
 ## 🏷︎ Tags
-#Kharn #WorldEaters #GalaxyInFlames
+#Kharn #WorldEaters #Betrayer #GalaxyInFlames

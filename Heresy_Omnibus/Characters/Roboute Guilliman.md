@@ -3,25 +3,26 @@ name: Roboute Guilliman
 titles: [Primarch of the Ultramarines, Lord of Ultramar]
 affiliation: Ultramarines
 first_appearance: The First Heretic
-books: [The First Heretic]
+books: [The First Heretic, Know No Fear, Betrayer]
 status: encountered
 ---
 
-## 🧠 Summary  
-Roboute Guilliman is the strategic and pragmatic Primarch of the Ultramarines Legion. In *[[Heresy_Omnibus/Books/Novels/The First Heretic|The First Heretic]]*, he is dispatched by the [[Heresy_Omnibus/Characters/Emperor|Emperor]] to carry out the censure of the Word Bearers by razing the city of [[Heresy_Omnibus/Places/Monarchia|Monarchia]]. His actions are precise, efficient, and bloodless—reflecting his commitment to order and discipline over sentiment.
+## 🧠 Summary
+Roboute Guilliman is the strategic and civilising Primarch of the Ultramarines, but the books read so far steadily force him from order into crisis. He first appears as the executor of Imperial judgement at [[Monarchia]], then becomes the principal loyalist figure facing the Word Bearers’ revenge at [[Calth]] and beyond.
 
-## ⚔️ Role in Books  
-- Appears during the Burning of [[Heresy_Omnibus/Places/Monarchia|Monarchia]], executing the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s decree with surgical precision.  
-- Serves as a foil to [[Heresy_Omnibus/Characters/Lorgar Aurelian]], embodying the Imperial Truth while rejecting religious devotion.  
-- Endures physical confrontation from Lorgar, who lashes out in grief and humiliation.
+## ⚔️ Role in Books
+- [[The First Heretic]]: Carries out the censure of [[Monarchia]] with controlled, impersonal efficiency, becoming the face of Imperial judgement in Lorgar’s eyes.
+- [[Know No Fear]]: Endures the Word Bearers’ betrayal at [[Calth]], survives the impossible shock of legionary treachery, and rallies the Ultramarines into a real war against former brothers.
+- [[Betrayer]]: Pursues the traitors to [[Nuceria]] as the Shadow Crusade spreads through Ultramar. There he duels [[Lorgar Aurelian|Lorgar]] and then [[Angron]], only to find the battle consumed by ritual and daemonhood as Angron ascends and the Ruinstorm worsens the disaster around him.
 
-## 🔗 Connections  
-- His Legion, the Ultramarines, is known for its vast empire-building and codified warfare.  
-- Guilliman’s role in [[Heresy_Omnibus/Places/Monarchia|Monarchia]] sets the ideological stage for the Word Bearers’ descent into heresy.
+## 🔗 Connections
+- Primarch of the Ultramarines and lord of the realm the traitors are trying to cripple.
+- Long-standing foil and enemy to [[Lorgar Aurelian|Lorgar]], with their conflict rooted in [[Monarchia]] and sharpened by [[Calth]].
+- Forced into direct confrontation with [[Angron]] during the destruction of Nuceria.
 
-## 📝 Notes  
-- Often viewed as the paragon of Imperial doctrine and rational governance.  
-- His presence in *[[Heresy_Omnibus/Books/Novels/The First Heretic|The First Heretic]]* is brief but symbolically powerful, representing the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s will made manifest.
+## 📝 Notes
+- Guilliman’s arc across these books is the movement from administrator and empire-builder to besieged war leader.
+- *Betrayer* shows that even when he reaches the traitors in force, events are no longer purely military; they are being bent by ritual and the Warp.
 
-## 🏷︎ Tags  
-#RobouteGuilliman #Ultramarines #Primarch #Monarchia #TheFirstHeretic  
+## 🏷︎ Tags
+#RobouteGuilliman #Ultramarines #Primarch #Monarchia #KnowNoFear #Betrayer
