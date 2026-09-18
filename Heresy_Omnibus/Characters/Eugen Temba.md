@@ -8,15 +8,15 @@ status: deceased
 ---
 
 ## 🧠 Summary
-Once the Imperial governor of [[Davin]], Temba fell to the worship of Nurgle, becoming a bloated, corrupted servant of Chaos.
+Once the Imperial governor of [[Heresy_Omnibus/Places/Davin|Davin]], Temba fell to the worship of Nurgle, becoming a bloated, corrupted servant of Chaos.
 
-## ⚔️ Role in [[False Gods]]
-- Betrays the Imperium and [[Horus Lupercal|Horus]], retreating to [[Davin]]’s moon.
-- Commands plague zombie forces against the Sons of [[Horus Lupercal|Horus]].
-- Wields the [[Anathame]] in his final battle with [[Horus Lupercal]], wounding him before being slain.
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
+- Betrays the Imperium and Horus, retreating to [[Heresy_Omnibus/Places/Davin|Davin]]’s moon.
+- Commands plague zombie forces against the Sons of Horus.
+- Wields the [[Heresy_Omnibus/Items/Anathame|Anathame]] in his final battle with [[Heresy_Omnibus/Characters/Horus Lupercal]], wounding him before being slain.
 
 ## 🔗 Connections
-- Manipulated by [[Erebus]].
+- Manipulated by [[Heresy_Omnibus/Characters/Erebus]].
 - Former ally of the Imperium.
 
 ## 🏷︎ Tags

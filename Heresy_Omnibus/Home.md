@@ -1,19 +1,19 @@
 # 🏛️ Warhammer 30K Reading Campaign
 
-Welcome to a chronological descent through the [[Horus Lupercal|Horus]] Heresy. This vault tracks current progress, explores Legion ideologies, and surfaces thematic arcs across the galaxy’s unravelling.
+Welcome to a chronological descent through the Horus Heresy. This vault tracks current progress, explores Legion ideologies, and surfaces thematic arcs across the galaxy’s unravelling.
 
-[[Horus Rising]]
-[[False Gods]] 
-[[Galaxy in Flames]] 
-[[The Flight of the Eisenstein]]
-[[Heresy_Omnibus/Characters/Fulgrim|Fulgrim]]
-[[The First Heretic]] 
-[[Prospero Burns]]
-[[Know No Fear]] 
-[[Betrayer]]
-[[Praetorian of Dorn]] 
-[[The Master of Mankind]]
-[[Slaves to Darkness]]
+[[Heresy_Omnibus/Books/Novels/Horus Rising|Horus Rising]]
+[[Heresy_Omnibus/Books/Novels/False Gods|False Gods]] 
+[[Heresy_Omnibus/Books/Novels/Galaxy in Flames|Galaxy in Flames]] 
+[[Heresy_Omnibus/Books/Novels/The Flight of the Eisenstein|The Flight of the Eisenstein]]
+[[Heresy_Omnibus/Books/Novels/Fulgrim|Fulgrim]]
+[[Heresy_Omnibus/Books/Novels/The First Heretic|The First Heretic]] 
+[[Heresy_Omnibus/Books/Novels/Prospero Burns|Prospero Burns]]
+[[Heresy_Omnibus/Books/Novels/Know No Fear|Know No Fear]] 
+[[Heresy_Omnibus/Books/Novels/Betrayer|Betrayer]]
+[[Heresy_Omnibus/Books/Novels/Praetorian of Dorn|Praetorian of Dorn]] 
+[[Heresy_Omnibus/Books/Novels/The Master of Mankind|The Master of Mankind]]
+[[Heresy_Omnibus/Books/Novels/Slaves to Darkness|Slaves to Darkness]]
 
 ## 📚 Reading Progress
 ```dataview
@@ -55,13 +55,13 @@ group by themes
 
 
 ## Quick Access
-- [[Tags]]
-- [[Dataview Queries]]
-- [[Chaos Influence]]
+- [[Heresy_Omnibus/Tags|Tags]]
+- [[Heresy_Omnibus/Dataview Queries|Dataview Queries]]
+- [[Heresy_Omnibus/Chaos Influence|Chaos Influence]]
 
 
 
 ## Worldbuilding Indexes
-- [[Places]]
-- [[Events]]
-- [[Items]]
+- [[Heresy_Omnibus/Places/Places|Places]]
+- [[Heresy_Omnibus/Events/Events|Events]]
+- [[Heresy_Omnibus/Items/Items|Items]]

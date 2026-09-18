@@ -8,17 +8,17 @@ status: deceased
 ---
 
 ## 🧠 Summary
-A noblewoman from Terra and remembrancer assigned to chronicle [[Horus Lupercal]]’s life and deeds. Vain and self‑absorbed, she nonetheless earns [[Horus Lupercal|Horus]]’s confidence during his wounding on [[Davin]].
+A noblewoman from Terra and remembrancer assigned to chronicle [[Heresy_Omnibus/Characters/Horus Lupercal]]’s life and deeds. Vain and self‑absorbed, she nonetheless earns Horus’s confidence during his wounding on [[Heresy_Omnibus/Places/Davin|Davin]].
 
-## ⚔️ Role in [[False Gods]]
-- Accompanies the 63rd Expedition to [[Davin]].
-- Defies orders to land on [[Davin]]’s moon, surviving plague zombie attacks with the help of [[Maggard]].
-- Records [[Horus Lupercal|Horus]]’s valediction while he believes he is dying.
-- Murdered by [[Horus Lupercal|Horus]] to silence her after his recovery.
+## ⚔️ Role in [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]
+- Accompanies the 63rd Expedition to [[Heresy_Omnibus/Places/Davin|Davin]].
+- Defies orders to land on [[Heresy_Omnibus/Places/Davin|Davin]]’s moon, surviving plague zombie attacks with the help of [[Heresy_Omnibus/Characters/Maggard]].
+- Records Horus’s valediction while he believes he is dying.
+- Murdered by Horus to silence her after his recovery.
 
 ## 🔗 Connections
-- Mistress to [[Maggard]].
-- Interacts with [[Garviel Loken]], [[Ignace Karkasy]], and [[Euphrati Keeler]].
+- Mistress to [[Heresy_Omnibus/Characters/Maggard]].
+- Interacts with [[Heresy_Omnibus/Characters/Garviel Loken]], [[Heresy_Omnibus/Characters/Ignace Karkasy]], and [[Heresy_Omnibus/Characters/Euphrati Keeler]].
 
 ## 🏷︎ Tags
 #PetronellaVivar #Remembrancer #FalseGods

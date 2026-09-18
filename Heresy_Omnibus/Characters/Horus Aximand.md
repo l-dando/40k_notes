@@ -8,15 +8,15 @@ status: encountered
 ---
 
 ## 🧠 Summary
-Nicknamed “Little [[Horus Lupercal|Horus]]” for his resemblance to the Warmaster, Aximand is a thoughtful but politically astute captain.
+Nicknamed “Little Horus” for his resemblance to the Warmaster, Aximand is a thoughtful but politically astute captain.
 
 ## ⚔️ Role in the Great Crusade
 - Serves on Sixty‑Three Nineteen, Murder, and in the Interex campaign.
-- Supports [[Ezekyle Abaddon]] in defending [[Erebus]] and the lodge’s decision to take [[Horus Lupercal|Horus]] to the Serpent Lodge.
-- Opposes [[Garviel Loken|Loken]] and [[Tarik Torgaddon|Torgaddon]] during the [[Mournival]] split.
-- Supports [[Horus Lupercal|Horus]]’s rebellion and participates in the [[Isstvan III]] betrayal.
-- Duels [[Tarik Torgaddon]] in the parliament building, killing him.
-- Shows visible sorrow at [[Tarik Torgaddon|Torgaddon]]’s death despite his treachery.
+- Supports [[Heresy_Omnibus/Characters/Ezekyle Abaddon]] in defending [[Heresy_Omnibus/Characters/Erebus|Erebus]] and the lodge’s decision to take Horus to the Serpent Lodge.
+- Opposes Loken and Torgaddon during the [[Heresy_Omnibus/Items/Mournival|Mournival]] split.
+- Supports Horus’s rebellion and participates in the [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]] betrayal.
+- Duels [[Heresy_Omnibus/Characters/Tarik Torgaddon]] in the parliament building, killing him.
+- Shows visible sorrow at Torgaddon’s death despite his treachery.
 
 ## 🔗 Connections
-- Trusted by [[Horus Lupercal|Horus]]; aligned with [[Ezekyle Abaddon|Abaddon]] in lodge politics.
+- Trusted by Horus; aligned with Abaddon in lodge politics.
