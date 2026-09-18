@@ -3,25 +3,30 @@ name: Angron
 titles: [Primarch of the World Eaters, The Lord of the Red Sands]
 affiliation: World Eaters
 first_appearance: False Gods (in your reading order)
-books: [Horus Rising, False Gods, Galaxy in Flames, Flight of the Eisenstein, Fulgrim, Lord of the Red Sands]
+books: [Horus Rising, False Gods, Galaxy in Flames, Flight of the Eisenstein, Fulgrim, Lord of the Red Sands, Betrayer]
 status: encountered
 ---
 
 ## 🧠 Summary
-Angron is the Primarch of the World Eaters Legion, a figure defined by rage, tragedy, and a relentless pursuit of freedom. Born on the brutal world of Nuceria, he was enslaved and forced to fight as a gladiator, his mind scarred by the implantation of the Butcher’s Nails — psycho‑surgical devices that drive him into uncontrollable fury. Though the [[Heresy_Omnibus/Characters/Emperor|Emperor]] sought to make him a general of the Imperium, Angron never forgave being torn from his gladiator brothers and resented the chains of duty placed upon him. His Legion, the World Eaters, mirrors his savagery, embracing close‑quarters slaughter above all else.
+Angron is the Primarch of the World Eaters, a figure defined by mutilated freedom. Raised as a gladiator slave on Nuceria and broken by the Butcher’s Nails, he never forgives the [[Emperor]] for taking him from the death he had chosen with his fellow rebels. In the books read so far, every appearance deepens that contradiction: he is monstrously powerful, but also one of the most enslaved beings in the Heresy.
 
-## ⚔️ Role in the Great Crusade & Horus Heresy
-- **[[Heresy_Omnibus/Books/Novels/Horus Rising|Horus Rising]] / [[Heresy_Omnibus/Books/Novels/False Gods|False Gods]]**: Present as one of the Primarchs loyal to Horus during the early stages of his corruption. His Legion’s brutality is already infamous, feared even among other Astartes.
-- **[[Heresy_Omnibus/Books/Novels/Galaxy in Flames|Galaxy in Flames]]**: Joins Horus, Fulgrim, and [[Heresy_Omnibus/Characters/Mortarion|Mortarion]] in the [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]] betrayal. Leads the traitor World Eaters in the virus‑bombed ruins, launching uncontrolled assaults against the loyalists. Personally duels [[Garviel Loken]] until interrupted by a Sons of Horus tank. His savagery epitomises the fratricidal slaughter of the [[Heresy_Omnibus/Events/Drop Site Massacre|Drop Site Massacre]]’s precursor.
-- **Flight of the Eisenstein**: Though not directly featured, his Legion’s treachery and reputation loom large in the aftermath of [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]], reinforcing his role as one of Horus’s most violent allies.
-- **Fulgrim**: Appears among the Primarchs aligned with Horus, his Legion committed to the Warmaster’s rebellion. His presence underscores the growing coalition of traitor Legions.
-- **[[Heresy_Omnibus/Books/Short Stories/Lord of the Red Sands|Lord of the Red Sands]] (short story)**: Rampages across [[Heresy_Omnibus/Places/Isstvan III|Isstvan III]], slaughtering loyalists from the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s Children, Death Guard, and his own World Eaters. Confronted by Captain [[Kauragar]], who manages to wound his throat before dying. Angron, pleased by his son’s defiance, stays with him as he dies. When asked why he fights for Horus, Angron replies that he does not — he fights only for freedom, no longer the [[Heresy_Omnibus/Characters/Emperor|Emperor]]’s slave.
+## ⚔️ Role in Books
+- [[Horus Rising]] / [[False Gods]]: Present among Horus’s brother primarchs as the World Eaters’ savage gene-sire, already carrying a fearsome reputation.
+- [[Galaxy in Flames]]: Leads the World Eaters in the betrayal at [[Isstvan III]], turning legionary war into open butchery.
+- [[The Flight of the Eisenstein|Flight of the Eisenstein]]: Seen indirectly through the aftermath of Isstvan III and the terror attached to the traitor Legions.
+- [[Fulgrim]]: Appears as part of Horus’s widening alliance of rebel primarchs.
+- [[Lord of the Red Sands]]: Rampages across Isstvan III and frames his rebellion not as loyalty to Horus, but as hatred of all masters.
+- [[Betrayer]]: Deteriorates rapidly during the Shadow Crusade as the Nails begin to kill him. Fights through Armatura, returns to [[Nuceria]], orders the world’s destruction when he learns how his last battle there was rewritten, and is transformed by Lorgar into a daemon prince during the battle with [[Roboute Guilliman|Guilliman]].
 
 ## 🔗 Connections
-- Gene‑sire of the World Eaters Legion.
-- Ally of [[Horus Lupercal]], [[Fulgrim]], and [[Mortarion]] during the Heresy.
-- Opposed to the [[Heresy_Omnibus/Characters/Emperor|Emperor]], whom he views as a tyrant who stole his freedom.
-- Father‑figure to captains such as [[Kauragar]], though his bond is twisted by the Nails and his philosophy of freedom through violence.
+- Gene-sire of the World Eaters and the centre of [[Khârn]]’s loyalty.
+- Bound to [[Lorgar Aurelian|Lorgar]] by a mixture of contempt, brotherhood, and manipulation.
+- Opposed to [[Roboute Guilliman|Guilliman]], whose Legion bears the hatred born from [[Monarchia]], [[Calth]], and the wider Shadow Crusade.
+- His life remains defined by [[Nuceria]] and the wound left by the Emperor’s intervention there.
+
+## 📝 Notes
+- *Betrayer* makes clear that Angron’s tragedy is not only rage, but the loss of the death and solidarity he believed were his.
+- His ascension saves him from the Nails, but only by replacing one form of bondage with another.
 
 ## 🏷︎ Tags
-#Angron #WorldEaters #Primarch #LordOfTheRedSands #GalaxyInFlames #Fulgrim #HorusHeresy
+#Angron #WorldEaters #Primarch #Betrayer #GalaxyInFlames #LordOfTheRedSands #HorusHeresy
