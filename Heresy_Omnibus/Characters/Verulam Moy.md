@@ -11,4 +11,4 @@ status: encountered
 Captain of the 19th Company of the Luna Wolves, Verulam Moy served within the 63rd Expeditionary Fleet during the Great Crusade.
 
 ## 🔗 Connections
-- Served alongside [[Heresy_Omnibus/Characters/Garviel Loken]], [[Heresy_Omnibus/Characters/Ezekyle Abaddon]], and the other company captains of the Luna Wolves.
+- Served alongside [[Garviel Loken]], [[Ezekyle Abaddon]], and the other company captains of the Luna Wolves.

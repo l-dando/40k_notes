@@ -11,4 +11,4 @@ status: encountered
 Captain of the 25th Company of the Luna Wolves, Lev Goshen served within the 63rd Expeditionary Fleet during the Great Crusade.
 
 ## 🔗 Connections
-- One of the many company captains serving under [[Heresy_Omnibus/Characters/Horus Lupercal]] in the 63rd Expedition.
+- One of the many company captains serving under [[Horus Lupercal]] in the 63rd Expedition.

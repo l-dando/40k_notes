@@ -12,7 +12,7 @@ The twin Primarchs of the Alpha Legion, masters of deception, infiltration, and 
 
 ## ⚔️ Role in Legion
 - Lead the compliance of the Nurthene system.
-- Engage with the Cabal’s prophecy and make the fateful choice to side with Horus.
+- Engage with the Cabal’s prophecy and make the fateful choice to side with [[Horus Lupercal|Horus]].
 
 ## 🔗 Connections
 - Command the Alpha Legion’s vast network of operatives.

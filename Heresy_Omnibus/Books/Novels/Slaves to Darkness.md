@@ -12,6 +12,6 @@ essential: Yes
 ---
 
 # 🧭 Overview
-As the traitor host converges on Terra, Horus's inner circle fractures under rivalry, corruption, and competing visions of Chaos. Warmaster and primarch alike are forced to bargain, coerce, and sacrifice in order to forge one final coalition for the assault on the Throneworld.
+As the traitor host converges on Terra, [[Horus Lupercal|Horus]]'s inner circle fractures under rivalry, corruption, and competing visions of Chaos. Warmaster and primarch alike are forced to bargain, coerce, and sacrifice in order to forge one final coalition for the assault on the Throneworld.
 
 The book functions as a major staging point for the Siege of Terra, showing the cost of uniting the traitor Legions for the final campaign.

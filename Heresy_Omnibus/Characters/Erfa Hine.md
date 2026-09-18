@@ -8,4 +8,4 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A member of the senior staff or personnel of the 63rd Expeditionary Fleet, present during the campaigns of the Great Crusade under Warmaster [[Heresy_Omnibus/Characters/Horus Lupercal]].
+A member of the senior staff or personnel of the 63rd Expeditionary Fleet, present during the campaigns of the Great Crusade under Warmaster [[Horus Lupercal]].

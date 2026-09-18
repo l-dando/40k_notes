@@ -7,4 +7,4 @@ tags: [item, heresy, weapon]
 
 # Anathame
 
-A xenos-forged blade first seen in Interex custody and later used in the chain of events that leads to Horus's corruption.
+A xenos-forged blade first seen in Interex custody and later used in the chain of events that leads to [[Horus Lupercal|Horus]]'s corruption.

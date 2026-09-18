@@ -8,16 +8,16 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A senior Geno officer and political figure. Becomes romantically involved with [[Heresy_Omnibus/Characters/John Grammaticus]] during his infiltration of Mon Lo.
+A senior Geno officer and political figure. Becomes romantically involved with [[John Grammaticus]] during his infiltration of Mon Lo.
 
 ## ⚔️ Role in Legion
-- Shelters Grammaticus from Imperial suspicion.
+- Shelters [[John Grammaticus|Grammaticus]] from Imperial suspicion.
 - Is captured and traumatised during the Nurth campaign.
 - Present at the Cabal meeting on 42 Hydra.
 
 ## 🔗 Connections
-- Lover of [[Heresy_Omnibus/Characters/John Grammaticus]].
-- Works alongside [[Heresy_Omnibus/Characters/Peto Soneka]] and [[Heresy_Omnibus/Characters/Hurtado Bronzi]].
+- Lover of [[John Grammaticus]].
+- Works alongside [[Peto Soneka]] and [[Hurtado Bronzi]].
 
 ## 🏷︎ Tags
 #RukhsanaSaiid #GenoFiveTwo #Legion

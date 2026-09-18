@@ -11,13 +11,13 @@ status: encountered
 An Oblivion Knight of the Sisters of Silence, Kendel is a powerful null who plays a key role in the events following the *Eisenstein*’s arrival on Terra.
 
 ## ⚔️ Role in Flight of the Eisenstein
-- Stationed at the Sisters’ fortress on Luna when Garro and his companions are brought there.
-- Fights alongside the Sisters against the corrupted [[Heresy_Omnibus/Characters/Solun Decius]] during his rampage.
-- Survives the battle and is later addressed by [[Heresy_Omnibus/Characters/Malcador the Sigillite]] alongside Garro and [[Heresy_Omnibus/Characters/Iacton Qruze]].
+- Stationed at the Sisters’ fortress on Luna when [[Nathaniel Garro|Garro]] and his companions are brought there.
+- Fights alongside the Sisters against the corrupted [[Solun Decius]] during his rampage.
+- Survives the battle and is later addressed by [[Malcador the Sigillite]] alongside [[Nathaniel Garro|Garro]] and [[Iacton Qruze]].
 - Implied to be among the first agents of the Inquisition.
 
 ## 🔗 Connections
-- Ally of Garro, Qruze, and Keeler.
+- Ally of [[Nathaniel Garro|Garro]], Qruze, and [[Euphrati Keeler|Keeler]].
 - Serves under the Sisters of Silence hierarchy.
 
 ## 🏷︎ Tags

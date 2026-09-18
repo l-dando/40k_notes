@@ -8,8 +8,8 @@ status: encountered
 ---
 
 ## 🧠 Summary
-A Custodian of the Adeptus Custodes present at the Council of Nikaea, Amon Tauromachian escorted [[Heresy_Omnibus/Characters/Kasper Hawser]] from the Council chamber after the Wolves exposed him as a Thousand Sons deep-cover agent. During this escort, the Thousand Sons sorcerer [[Heresy_Omnibus/Characters/Amon (Thousand Sons)]] appeared, paralysed Hawser, and confirmed the truth before [[Heresy_Omnibus/Characters/Bjorn]] and [[Heresy_Omnibus/Characters/Aun Helwintr]] drove him off.
+A Custodian of the Adeptus Custodes present at the Council of Nikaea, Amon Tauromachian escorted [[Kasper Hawser]] from the Council chamber after the Wolves exposed him as a Thousand Sons deep-cover agent. During this escort, the Thousand Sons sorcerer [[Amon (Thousand Sons)]] appeared, paralysed [[Kasper Hawser|Hawser]], and confirmed the truth before [[Bjorn]] and [[Aun Helwintr]] drove him off.
 
 ## 🔗 Connections
-- Served under [[Heresy_Omnibus/Characters/Constantin Valdor]] as part of the Adeptus Custodes.
-- Was present during the confrontation with [[Heresy_Omnibus/Characters/Amon (Thousand Sons)]] at Nikaea.
+- Served under [[Constantin Valdor]] as part of the Adeptus Custodes.
+- Was present during the confrontation with [[Amon (Thousand Sons)]] at Nikaea.

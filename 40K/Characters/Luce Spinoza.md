@@ -11,8 +11,8 @@ status: encountered
 A former Arbitrator turned inquisitorial agent whose discipline and pragmatism ground the investigation on Terra.
 
 ## Connections
-- Works with [[40K/Characters/Erasmus Crowl]].
-- Central to [[40K/Books/The Carrion Throne]].
+- Works with [[Erasmus Crowl]].
+- Central to [[The Carrion Throne]].
 
 ## Tags
 #LuceSpinoza #Inquisition #VaultsOfTerra

@@ -11,4 +11,4 @@ status: encountered
 High Senior of the Navis Nobilite assigned to the 63rd Expeditionary Fleet, responsible for overseeing the Navigators who guided the fleet through the Warp during the Great Crusade. As a member of the powerful Navis Nobilite houses, Chorogus held considerable status among the fleet's non-Astartes senior staff.
 
 ## 🔗 Connections
-- Part of the senior staff of the 63rd Expedition alongside [[Heresy_Omnibus/Characters/Boas Comnenus]] and [[Heresy_Omnibus/Characters/Hektor Varvarus]].
+- Part of the senior staff of the 63rd Expedition alongside [[Boas Comnenus]] and [[Hektor Varvarus]].
