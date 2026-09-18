@@ -21,6 +21,12 @@ https://www.trackofwords.com/2021/01/10/black-library-new-40k-reading-list/
 
 *Yes, The Devastation of Baal is included twice in this list on purpose. See later on in the article for more details of why (TL;DR due to Warp/time shenanigans it spans quite a wide range of time).
 
+## Added Notes
+- _Eisenhorn: [[Xenos]]_ by Dan Abnett
+- _Eisenhorn: [[Malleus]]_ by Dan Abnett
+- _Eisenhorn: [[Hereticus]]_ by Dan Abnett
+- _[[Faith & Fire]]_ by James Swallow
+
 ## 40K Worldbuilding Indexes
 - [[Places]]
 - [[Events]]
