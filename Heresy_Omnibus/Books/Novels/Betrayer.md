@@ -12,14 +12,14 @@ essential: Yes
 ---
 
 ## 🧭 Overview
-*Betrayer* follows the [[Heresy_Omnibus/Characters/World Eaters|World Eaters]] and [[Heresy_Omnibus/Characters/Word Bearers|Word Bearers]] through the bloodiest stage of the Shadow Crusade, with [[Heresy_Omnibus/Characters/Angron|Angron]], [[Heresy_Omnibus/Characters/Lorgar Aurelian|Lorgar]], [[Heresy_Omnibus/Characters/Khârn|Khârn]], and [[Heresy_Omnibus/Characters/Argel Tal|Argel Tal]] at its centre.
+*Betrayer* follows the World Eaters and Word Bearers through the bloodiest stage of the Shadow Crusade, with [[Heresy_Omnibus/Characters/Angron|Angron]], [[Heresy_Omnibus/Characters/Lorgar Aurelian|Lorgar]], [[Heresy_Omnibus/Characters/Khârn|Khârn]], and [[Heresy_Omnibus/Characters/Argel Tal|Argel Tal]] at its centre.
 
 The novel is both a war story and a character tragedy. It deepens Angron’s history, sharpens Khârn and Argel Tal’s friendship, and shows Lorgar steering the crusade toward a ritual end that will damn his brother forever.
 
 ---
 
 ## Part One — Brothers in the Shadow Crusade
-In the wake of [[Calth]], the Word Bearers and World Eaters range across [[Ultramar]], burning cities and breaking worlds while the Ultramarines struggle to answer on multiple fronts. The alliance between the two traitor Legions is never stable: the Word Bearers pursue a design of ritual and prophecy, while the World Eaters sink further into unrestrained bloodshed.
+In the wake of [[Calth]], the Word Bearers and World Eaters range across Ultramar, burning cities and breaking worlds while the Ultramarines struggle to answer on multiple fronts. The alliance between the two traitor Legions is never stable: the Word Bearers pursue a design of ritual and prophecy, while the World Eaters sink further into unrestrained bloodshed.
 
 At the human scale, the novel spends time aboard the *Conqueror*, where **[[Heresy_Omnibus/Characters/Lotara Sarrin|Lotara Sarrin]]** keeps a warship crewed by killers functioning through sheer force of will. Among the Astartes, Khârn and Argel Tal stand out as one of the Heresy’s most genuine friendships, a bond that briefly cuts across legion politics and the corruption consuming them both.
 
@@ -48,7 +48,7 @@ Lorgar’s true goal is achieved in the chaos. Using the slaughter on Nuceria an
 
 ## 🧠 Themes
 - Brotherhood surviving inside damnation
-- Rage as grief made weapon
+- Rage as grief weaponised
 - Faith reshaping war into ritual
 
 ## ⚔️ Legion Focus
